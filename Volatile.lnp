@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>83f56320-e10c-4457-b6f7-40d27dab0e44</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'ba\'af\'bc\'f6\'b8\'a6 \'c1\'a4\'c0\'c7\'c7\'d2\'b6\'a7 \f1 volatile \f0\'c5\'b0\'bf\'f6\'b5\'e5\'b8\'a6 \'ba\'d9\'bf\'a9\'c1\'d9 \'bc\'f6 \'c0\'d6\'b4\'c2\'b5\'a5 \'bc\'b1\'be\'f0\'c0\'ba \'bf\'b9\'bd\'c3\'b7\'ce \f1 static volatile int num;  \f0\'c0\'cc\'b7\'b1\'bd\'c4\'c0\'b8\'b7\'ce \'c1\'a4\'c0\'c7\'c7\'d4\par
+\par
+\f1 volatile\f0\'c0\'cc\'b6\'f5 \'b0\'a1\'b2\'fb \'ba\'af\'bc\'f6\'b8\'a6 \'bb\'f3\'bc\'f6\'b7\'ce \'b8\'b8\'b5\'e9\'b0\'d4 \'b5\'c7\'b4\'c2\'b5\'a5 \'b1\'d7 \'bb\'f3\'bc\'f6\'c0\'ce \'ba\'af\'bc\'f6\'b8\'a6 \'bb\'f3\'bc\'f6\'bf\'a1\'bc\'ad \'bf\'b9\'bf\'dc\'c3\'b3\'b8\'ae \'bd\'c3\'c4\'d1\'c1\'d6\'b4\'c2 \'b0\'cd\par
+\'c1\'ef, \'bd\'ba\'c5\'c2\'c6\'bd \'ba\'af\'bc\'f6\'b8\'a6 \'b1\'d7\'b3\'c9 \'ba\'af\'bc\'f6\'b7\'ce \'b8\'b8\'b5\'e9\'be\'ee \'c1\'d6\'b4\'c2 \'b0\'cd\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Volatile</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-21T15:14:28.5401666+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-21T15:17:56.549064+09:00</UpdatedOn>
+  <Words>변수를 정의할때 volatile 키워드를 붙여줄 수 있는데 선언은 예시로 static volatile int num;  이런식으로 정의함
+
+volatile이란 가끔 변수를 상수로 만들게 되는데 그 상수인 변수를 상수에서 예외처리 시켜주는 것
+즉, 스태틱 변수를 그냥 변수로 만들어 주는 것</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

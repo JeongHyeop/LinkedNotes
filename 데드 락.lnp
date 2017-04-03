@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>9bc25478-2e34-41a8-b6ec-fbc8b8257317</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b1\'b3\'c2\'f8 \'bb\'f3\'c5\'c2\par
+\par
+\par
+\'c7\'d8\'b0\'e1 \'b9\'e6\'b9\'fd\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>데드 락</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-01T16:14:27.7396868+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-01T16:17:11.7920401+09:00</UpdatedOn>
+  <Words>교착 상태
+
+
+해결 방법
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

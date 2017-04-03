@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>f3e2cbe7-e7ca-438a-80dc-91fabd2881c4</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}{\f3\fnil DotumChe;}{\f4\fnil\fcharset0 DotumChe;}{\f5\fnil\fcharset129 DotumChe;}}
+{\colortbl ;\red86\green156\blue214;\red30\green30\blue30;\red220\green220\blue220;\red200\green200\blue200;\red180\green180\blue180;\red127\green127\blue127;\red181\green206\blue168;\red87\green166\blue74;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c0\'ce\'c1\'a2\'c7\'d1 \'bf\'e4\'bc\'d2\'b5\'e9\'c0\'bb \'b1\'b3\'c8\'af\'c7\'cf\'b4\'c2 \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\'c0\'c7 \'b4\'dc\'c1\'a1\'c0\'bb \'b1\'d8\'ba\'b9\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8 \'bd\'a9 \'c1\'a4\'b7\'c4\'c0\'ba \'b6\'d2 \'b6\'b3\'be\'ee\'c1\'f8 \'bf\'e4\'bc\'d2\'b5\'e9\'c0\'bb \'b1\'b3\'c8\'af\'c7\'cf\'b8\'e7 \'c1\'a4\'b7\'c4\'c7\'d1\'b4\'d9.\par
+\f1\'c1\'ef, \'b0\'a3\'b0\'dd\'c0\'bb \'c1\'a4\'c7\'d8\'b5\'ce\'b0\'ed \'b0\'a3\'b0\'dd\'bf\'a1 \'b8\'c2\'b0\'d4 \'c1\'a4\'b7\'c4\'c7\'d8 \'b3\'aa\'b0\'a8\par
+\par
+\'bf\'b9\'b8\'a6\'b5\'e9\'be\'ee \f2 gap\f1\'c0\'bb 10\'c0\'cc\'b6\'f3\'b0\'ed \'ba\'bb\'b4\'d9\'b8\'e9 0,10,20,30,40..  (\'b9\'b0\'b7\'d0 \f2 n\f1\'ba\'b8\'b4\'d9\'b4\'c2 \'c0\'db\'b0\'d4 \'c7\'d8\'be\'df\'c7\'d4) \'c0\'cc \'bf\'e4\'bc\'d2\'b5\'e9\'c0\'bb \'bb\'cc\'be\'c6 \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\'c0\'bb \'c7\'d1\'b4\'d9. \'b1\'d7\'b8\'ae\'b0\'ed \par
+1\'be\'bf \'b4\'f5\'c7\'d8\'bc\'ad 1,11,21,31,41..\'c0\'c7 \'bf\'e4\'bc\'d2\'b5\'e9\'c0\'bb \'bb\'cc\'be\'c6\'bc\'ad \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\f0\'c7\'cf\'b0\'ed \'c0\'cc\'b7\'b8\'b0\'d4 \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4 \'c7\'d1 \'b5\'da\'bf\'a1 \'b4\'d9\'c0\'bd \'b0\'fa\'c1\'a4\'c0\'b8\'b7\'ce \f2 h\f1\'b8\'a6 \'c0\'fb\'b4\'e7\'c8\'f7 \'c1\'d9\'c0\'ce\'b4\'d9. \'bf\'a9\'b1\'e2\'bc\'ad\'b4\'c2 2\'b8\'a6 \'b3\'aa\'b4\'a9\'be\'ee \f2 gap\f1\'c0\'bb 5\'b6\'f3\'b0\'ed \'c7\'cf\'b0\'ed \'b1\'d7\'b7\'af\'b8\'e9 0,5,10,15,20..\'b0\'fa \'b0\'b0\'c0\'ba \'bf\'e4\'bc\'d2\'b5\'e9\'b8\'b8 \'bb\'cc\'be\'c6\'bc\'ad \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\f0  \'b4\'d9\'c0\'bd\'c0\'b8\'b7\'ce 1,6,11,16,21...\'bb\'f0\'c0\'d4\'c1\'a4\'b7\'c4 \'c8\'c4\'bf\'a1 \'b4\'d9\'bd\'c3 \f2 gap\f1\'c0\'bb 2\'b7\'ce\'b3\'aa\'b4\'a9\'be\'ee \f2 gap = 2\f1\'b0\'a1 \'b5\'c7\'b0\'ed \'b9\'dd\'ba\'b9 \'c0\'db\'be\'f7\'c0\'bb \'c5\'eb\'c7\'d8 \f2 gap\f1\'c0\'bb 1\'b1\'ee\'c1\'f6 \'b3\'aa\'b4\'a9\'be\'ee\'c1\'f6\'b8\'e9 \'c1\'a4\'b7\'c4\'c0\'cc \'b3\'a1\'b3\'ad\'b4\'d9.\par
+\f0\par
+\'c0\'e5\'c1\'a1\par
+-\'bf\'aa\'bc\'f8 \'b9\'e8\'bf\'ad\'bf\'a1 \'ba\'fc\'b8\'a3\'b4\'d9\par
+-\'b4\'eb\'bf\'eb\'b7\'ae \'b9\'e8\'bf\'ad\'b5\'b5 \'bc\'d3\'b5\'b5\'b0\'a1 \'ba\'fc\'b8\'a7\par
+-\'c3\'df\'b0\'a1\'c0\'fb\'c0\'ce \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c7\'ca\'bf\'e4\'c7\'cf\'c1\'f6 \'be\'ca\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'be\'c8\'c1\'a4\'bc\'ba\'c0\'cc \'be\'f8\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'b0\'a3\'b0\'dd\'c0\'bb \'c0\'df \'c1\'a4\'c7\'d8\'b5\'d6\'be\'df \'c1\'a4\'b7\'c4 \'c8\'bf\'b0\'fa\'b8\'a6 \'ba\'bc \'bc\'f6\'c0\'d6\'b4\'d9.\par
+-\'b0\'a3\'b0\'dd\'c1\'df \'b0\'a1\'c0\'e5 \'c8\'bf\'c0\'b2\'c0\'fb\'c0\'cc\'b6\'f3\'b0\'ed \'b9\'e0\'c7\'f4\'c1\'f8 \f2 Robert Sedgewick\f0\'c0\'cc\'b6\'f3\'b4\'c2 \'bb\'e7\'b6\'f7\'c0\'c7 \'bc\'fd\'c0\'da\'bf\'ad\'c0\'cc\'b4\'d9. \f2 gap = 3*gap+1;\f0\par
+\'ba\'f2\'bf\'c0 \f2 O(N(LogN)^2) or O(N^1.25)\par
+\par
+\cf1\highlight2\f3\fs19 void\cf3  \cf4 ShellSort\cf5 (\cf1 int\cf3  \cf6 nArray\cf5 [],\cf3  \cf1 int\cf3  \cf6 n\cf5 )\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf1 int\cf3  \cf4 gap\cf3  \cf5 =\cf3  \cf7 0\cf5 ,\cf3  \cf4 nTemp\cf3  \cf5 =\cf3  \cf7 0\cf5 ,\cf3  \cf4 nIndex\f4  = 0\cf5\f3 ;\f4\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf1 for\cf3  \cf5 (\cf4 gap\cf3  \cf5 =\cf3  \cf7 1\cf5 ;\cf3  \cf4 gap\cf3  \cf5 &lt;\cf3  \cf6 n\cf5 ;\cf3  \cf4 gap\cf3  \cf5 =\cf3  \cf7 3\cf3  \cf5 *\cf3  \cf4 gap\cf3  \cf5 +\cf3  \cf7 1\cf5 );\cf3\tab\cf8 //n\f5\'ba\'b8\'b4\'d9\f3  \f5\'c0\'db\'c0\'ba\f3  \f5\'b0\'a3\'b0\'dd\f3 (gap)\f5\'bf\'a1\f3  \f5\'c3\'d6\'b4\'eb\'b0\'aa\f3  \f5\'c3\'a3\'b1\'e2\cf3\f3\par
+\tab\cf1 for\cf3  \cf5 (\cf4 gap\cf3  \cf5 /=\cf3  \cf7 3\cf5 ;\cf3  \cf4 gap\cf3  \cf5 &gt;\cf3  \cf7 0\cf5 ;\cf3  \cf4 gap\cf3  \cf5 /=\cf3  \cf7 3\cf5 )\f4\tab\cf8\f3 /\f4 /\f5\fs18\'b0\'a3\'b0\'dd\'c0\'bb \'b0\'e8\'bc\'d3 \'c3\'e0\'bc\'d2 \'bd\'c3\'c5\'b4 \'b1\'d7\'b8\'ae\'b0\'ed \f4 gap\f5\'c0\'cc 1\'ba\'b8\'b4\'d9 \'c0\'db\'c0\'b8\'b8\'e9 \'b3\'a1\'b3\'bd\'b4\'d9.\cf3\f3\fs19\par
+\tab\cf5\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\cf1 for\cf3  \cf5 (\cf1 int\cf3  \cf4 i\cf3  \cf5 =\cf3  \cf7 0\cf5 ;\cf3  \cf4 i\cf3  \cf5 &lt;\cf3  \cf4 gap\cf5 ;\cf3  \cf4 i\cf5 ++)\f4  \cf8\f3 /\f5\fs18 /\f4 i\f5\'b8\'a6 \'b0\'a3\'b0\'dd \'b8\'b8\'c5\'ad \'b5\'b9\'b8\'ae\'b0\'ed \'b0\'a3\'b0\'dd\'ba\'b8\'b4\'d9 \'c4\'bf\'c1\'f6\'b8\'e9 \'c0\'a7\'bf\'a1\'bc\'ad \f4 gap\f5\'c0\'bb \'c1\'d9\'c0\'d3\cf3\f3\fs19\par
+\tab\tab\cf5\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\cf1 for\cf3  \cf5 (\cf1 int\cf3  \cf4 j\cf3  \cf5 =\cf3  \cf4 i\cf3  \cf5 +\cf3  \cf4 gap\cf5 ;\cf3  \cf4 j\cf3  \cf5 &lt;\cf3  \cf6 n\cf5 ;\cf3  \cf4 j\cf3  \cf5 +=\cf3  \cf4 gap\cf5 )\f4\tab\cf8\f3 /\f4 /\f5\fs18\'b0\'a3\'b0\'dd\'b8\'b8\'c5\'ad \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\cf5\f4\fs19\tab\tab\cf3\f3\par
+\tab\tab\tab\cf5\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\tab\cf4 nTemp\cf3  \cf5 =\cf3  \cf6 nArray\cf5 [\cf4 j\cf5 ];\f4\tab\tab\tab\cf8\f3 /\f4 /j\f5\fs18\'c0\'c7 \'b9\'e8\'bf\'ad \'b0\'aa \'c0\'fa\'c0\'e5\cf5\f4\fs19\tab\tab\cf3\f3\par
+\tab\tab\tab\tab\cf4 nIndex\cf3  \cf5 =\cf3  \cf4 j\cf5 ;\f4\tab\tab\tab\tab\cf8\f3 /\f4 /j \f5\fs18\'c0\'ce\'b5\'a6\'bd\'ba \'c0\'fa\'c0\'e5\cf5\f4\fs19\tab\tab\tab\par
+\tab\tab\tab\tab\cf8\f3 /\f4 /\f5\fs18\'c1\'f6\'b1\'dd\'c0\'c7 \'b0\'aa\'c0\'cc \'b0\'a3\'b0\'dd \'c0\'fc\'c0\'c7 \'b0\'aa\'ba\'b8\'b4\'d9 \'c0\'db\'b4\'d9\'b8\'e9 \'c0\'db\'c0\'ba \'bc\'f6\'b8\'a6 \'c0\'fc\'c0\'c7 \'b0\'a3\'b0\'dd\'bf\'a1 \'b3\'d6\'be\'ee\'c1\'dc\cf5\f4\fs19\tab\par
+\tab\tab\tab\tab\cf8\f3 /\f4 /\f5\fs18\'bf\'b9\'b8\'a6 \'b5\'e9\'be\'ee \'b0\'a3\'b0\'dd\'c0\'cc 4\'b8\'e9 0\'b9\'f8\'c2\'b0 \'b0\'aa\'b0\'fa \'ba\'f1\'b1\'b3\'c7\'d8\'bc\'ad 0\'b9\'f8\'c2\'b0\'b0\'a1 \'c5\'a9\'b4\'d9\'b8\'e9 4\'bf\'cd \'b1\'b3\'c8\'af\cf5\f4\fs19\tab\cf3\f3\par
+\tab\tab\tab\tab\cf1 while\cf3  \cf5 (\cf4 nIndex\cf3  \cf5 &gt;\cf3  \cf4 gap\cf3  \cf5 -\cf3  \cf7 1\cf3  \cf5 &amp;&amp;\cf3  \cf6 nArray\cf5 [\cf4 nIndex\cf3  \cf5 -\cf3  \cf4 gap\cf5 ]\cf3  \cf5 &gt;\cf3  \cf4 nTemp\cf5 )\f4\tab\cf3\f3\par
+\tab\tab\tab\tab\cf5\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\tab\tab\cf6 nArray\cf5 [\cf4 nIndex\cf5 ]\cf3  \cf5 =\cf3  \cf6 nArray\cf5 [\cf4 nIndex\cf3  \cf5 -\cf3  \cf4 gap\cf5 ];\f4  \cf8\f3 /\f4 /\f5\fs18\'b0\'aa \'b1\'b3\'c8\'af\cf5\f4\fs19\tab\tab\cf3\f3\par
+\tab\tab\tab\tab\tab\cf4 nIndex\cf3  \cf5 -=\cf3  \cf4 gap\cf5 ;\f4  \cf8\f3 /\f4 /\f5\fs18\'b0\'a3\'b0\'dd \'b8\'b8\'c5\'ad \'b1\'d7 \'c0\'fc\'c0\'c7 \'c0\'ce\'b5\'a6\'bd\'ba\'b8\'a6 \'c0\'fa\'c0\'e5 \f4 ex)\f5 8,4,0\tab\cf3\f3\fs19\par
+\tab\tab\tab\tab\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\tab\cf6 nArray\cf5 [\cf4 nIndex\cf5 ]\cf3  \cf5 =\cf3  \cf4 nTemp\cf5 ;\f4\tab\cf8\f3 /\f4 /\f5\fs18\'c0\'db\'be\'d2\'b4\'f8 \'b0\'a3\'b0\'dd \'b5\'da\'bf\'a1 \'b0\'aa\'c0\'bb \'be\'d5\'bf\'a1 \'b3\'d6\'be\'ee\'c1\'dc\cf5\f4\fs19\tab\cf3\f3\par
+\tab\tab\tab\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf0\highlight0\f2\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>셀 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T21:59:56.8399046+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-01T11:09:07.0274715+09:00</UpdatedOn>
+  <Words>인접한 요소들을 교환하는 삽입 정렬의 단점을 극복하기 위해 쉘 정렬은 뚝 떨어진 요소들을 교환하며 정렬한다.
+즉, 간격을 정해두고 간격에 맞게 정렬해 나감
+
+예를들어 gap을 10이라고 본다면 0,10,20,30,40..  (물론 n보다는 작게 해야함) 이 요소들을 뽑아 삽입 정렬을 한다. 그리고 
+1씩 더해서 1,11,21,31,41..의 요소들을 뽑아서 삽입 정렬하고 이렇게 삽입 정렬 한 뒤에 다음 과정으로 h를 적당히 줄인다. 여기서는 2를 나누어 gap을 5라고 하고 그러면 0,5,10,15,20..과 같은 요소들만 뽑아서 삽입 정렬 다음으로 1,6,11,16,21...삽입정렬 후에 다시 gap을 2로나누어 gap = 2가 되고 반복 작업을 통해 gap을 1까지 나누어지면 정렬이 끝난다.
+
+장점
+-역순 배열에 빠르다
+-대용량 배열도 속도가 빠름
+-추가적인 메모리가 필요하지 않다.
+
+단점
+-안정성이 없다.
+
+특징
+-간격을 잘 정해둬야 정렬 효과를 볼 수있다.
+-간격중 가장 효율적이라고 밝혀진 Robert Sedgewick이라는 사람의 숫자열이다. gap = 3*gap+1;
+빅오 O(N(LogN)^2) or O(N^1.25)
+
+void ShellSort(int nArray[], int n){								
+	int gap = 0, nTemp = 0, nIndex = 0;							
+	for (gap = 1; gap &lt; n; gap = 3 * gap + 1);	//n보다 작은 간격(gap)에 최대값 찾기
+	for (gap /= 3; gap &gt; 0; gap /= 3)	//간격을 계속 축소 시킴 그리고 gap이 1보다 작으면 끝낸다.
+	{												
+		for (int i = 0; i &lt; gap; i++) //i를 간격 만큼 돌리고 간격보다 커지면 위에서 gap을 줄임
+		{											
+			for (int j = i + gap; j &lt; n; j += gap)	//간격만큼 삽입 정렬		
+			{										
+				nTemp = nArray[j];			//j의 배열 값 저장		
+				nIndex = j;				//j 인덱스 저장			
+				//지금의 값이 간격 전의 값보다 작다면 작은 수를 전의 간격에 넣어줌	
+				//예를 들어 간격이 4면 0번째 값과 비교해서 0번째가 크다면 4와 교환	
+				while (nIndex &gt; gap - 1 &amp;&amp; nArray[nIndex - gap] &gt; nTemp)	
+				{									
+					nArray[nIndex] = nArray[nIndex - gap]; //값 교환		
+					nIndex -= gap; //간격 만큼 그 전의 인덱스를 저장 ex)8,4,0	
+				}									
+				nArray[nIndex] = nTemp;	//작았던 간격 뒤에 값을 앞에 넣어줌	
+			}										
+		}											
+	}												
+}													</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>f8a0fd9f-5b20-44f7-9c68-05fdf1a7f692</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'be\'c6\'bd\'ba\'c5\'b0 \'b9\'ae\'c0\'da \'c4\'da\'b5\'e5\'bf\'a1\'b4\'d9\'b0\'a1 \'b4\'d9\'b8\'a5 \'b9\'ae\'c0\'da(2\f1 Byte\f0 )\'b5\'e9\'c0\'bb \'c6\'fb\'c7\'d1\'c7\'d1 \'b9\'ae\'c0\'da \'c1\'fd\'c7\'d5\'c0\'cc\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>멀티바이트</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-01T14:49:06.767605+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-01T14:54:12.7700738+09:00</UpdatedOn>
+  <Words>아스키 문자 코드에다가 다른 문자(2Byte)들을 폼한한 문자 집합이다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

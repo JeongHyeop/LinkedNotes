@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>ee8b4888-d24b-4a31-9da1-0cb106abd3f2</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 //\f1 #if\f2\'b4\'c2 \f0\'c1\'b6\'b0\'c7\'bd\'c4\'c0\'bb \'c7\'cf\'b3\'aa\'b8\'b8 \'b0\'cb\'bb\'e7\'c7\'cf\'b4\'c2 \'c1\'b6\'b0\'c7 \'b8\'ed\'b7\'c9\'be\'ee\par
+#\f1 define MAX_HP 100\f0\par
+\f1\fs20 #\fs18 if  ( MAX_HP == 100)\par
+\tab std::cout&lt;&lt;"\f0\'bc\'ba\'b0\'f8\f1 ";\par
+\pard #end if\par
+\par
+\f0\'c1\'b6\'b0\'c7\'b9\'ae\'c0\'cc \'b8\'c2\'c1\'f6 \'be\'ca\'c0\'b8\'b8\'e9 \'c4\'c4\'c6\'c4\'c0\'cf\'c0\'cc \'b5\'c7\'c1\'f6 \'be\'ca\'b4\'c2\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>#if</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-21T17:29:39.0440609+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-21T17:30:46.7869356+09:00</UpdatedOn>
+  <Words>//#if는 조건식을 하나만 검사하는 조건 명령어
+#define MAX_HP 100
+#if  ( MAX_HP == 100)
+	std::cout&lt;&lt;"성공";
+#end if
+
+조건문이 맞지 않으면 컴파일이 되지 않는다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

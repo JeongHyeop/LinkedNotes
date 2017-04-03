@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c0e0192b-6b66-48a6-b9bb-55bf53afaa78</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c0\'cc\'b9\'cc \'c1\'a4\'b7\'c4\'b5\'c8 \'b5\'ce \'c6\'c4\'c0\'cf\'c0\'bb \'ba\'b4\'c7\'d5\'c7\'cf\'b4\'c2 \'b0\'fa\'c1\'a4\'c0\'bb \'c0\'cf\'b9\'dd\'c8\'ad\'c7\'d1 \'b0\'cd\'c0\'cc\'b4\'d9.\par
+\par
+\'b9\'e6\'b9\'fd\par
+-\'ba\'b4\'c7\'d5\'c0\'bb \'bc\'f6\'c7\'e0\'c7\'cf\'b4\'c2 \'b4\'dc\'c0\'a7\'b8\'a6 \'b0\'a1\'c0\'e5 \'c0\'db\'c0\'ba 1\'bf\'a1\'bc\'ad\'ba\'ce\'c5\'cd \'b5\'ce \'b9\'e8\'be\'bf \'b4\'c3\'b7\'c1\'b0\'a1\'b8\'e9\'bc\'ad \'ba\'b4\'c7\'d5\'c0\'bb \'b9\'dd\'ba\'b9\'c7\'d4\'c0\'b8\'b7\'ce\'bc\'ad \'b9\'e8\'bf\'ad\'c0\'bb \'c1\'a4\'b7\'c4\'c7\'d1\'b4\'d9. \'ba\'b4\'c7\'d5 \'b4\'dc\'c0\'a7\'b4\'c2 \'b7\'b1\'c0\'cc\'b6\'f3\'b0\'ed \'c7\'d1\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'c0\'da\'b7\'e1 \'b9\'e8\'bf\'ad\'bf\'a1 \'c1\'a2\'b1\'d9\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'cc \'bc\'f8\'c2\'f7\'c0\'fb\'c0\'cc\'b4\'d9. \'b1\'d7\'b7\'a1\'bc\'ad \'ba\'b4\'c7\'d5 \'c1\'a4\'b7\'c4\'c0\'ba \'bf\'ac\'b0\'e1 \'b8\'ae\'bd\'ba\'c6\'ae\'bf\'cd \'b0\'b0\'c0\'ba \'bc\'f8\'c2\'f7\'c0\'fb \'c1\'a2\'b1\'d9\'b8\'b8\'c0\'cc \'b0\'a1\'b4\'c9\'c7\'d1 \'c0\'da\'b7\'e1 \'b1\'b8\'c1\'b6\'bf\'a1 \'c0\'af\'c0\'cf\'c7\'d1 \'c1\'a4\'b7\'c4\f1\fs20  \f0\fs18\'b9\'e6\'b9\'fd\'c0\'cc \'b5\'c8\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>병합 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T22:01:23.896884+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T20:13:07.5845919+09:00</UpdatedOn>
+  <Words>이미 정렬된 두 파일을 병합하는 과정을 일반화한 것이다.
+
+방법
+-병합을 수행하는 단위를 가장 작은 1에서부터 두 배씩 늘려가면서 병합을 반복함으로서 배열을 정렬한다. 병합 단위는 런이라고 한다.
+
+특징
+-자료 배열에 접근하는 방법이 순차적이다. 그래서 병합 정렬은 연결 리스트와 같은 순차적 접근만이 가능한 자료 구조에 유일한 정렬 방법이 된다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

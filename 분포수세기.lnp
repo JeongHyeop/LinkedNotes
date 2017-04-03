@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>00bad484-4943-4586-8fc1-3c1857a97c7e</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b0\'b0\'c0\'ba \'c5\'b0\'b0\'a1 \'b8\'b9\'c0\'cc \'c0\'d6\'b4\'c2 \'b9\'e8\'bf\'ad\'bf\'a1 \'c7\'d1\'c7\'d8 \'c0\'fb\'bf\'eb\'c7\'cf\'b4\'c2 \'c1\'a4\'b7\'c4\'b9\'e6\'b9\'fd\par
+\'ba\'d0\'c6\'f7\'bc\'f6\'bc\'bc\'b1\'e2\'b4\'c2 \'c6\'af\'c1\'a4 \'c5\'b0\'b0\'aa\'c0\'cc \'c3\'e2\'c7\'f6\'c7\'cf\'b4\'c2 \'ba\'f3\'b5\'b5\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'bf\'a9 \'b4\'a9\'c0\'fb \'ba\'d0\'c6\'f7\'b8\'a6 \'c0\'cc\'bf\'eb\'c7\'cf\'bf\'a9 \'b0\'a3\'b4\'dc\'c7\'cf\'b0\'d4 \'c1\'a4\'b7\'c4\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\par
+\par
+\'c0\'e5\'c1\'a1\par
+-\'b0\'b0\'c0\'ba \'c5\'b0\'b0\'aa\'c0\'bb \'b0\'a1\'c1\'f8 \'b9\'e8\'bf\'ad\'bf\'a1\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'cf\'b1\'e2 \'c1\'c1\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'b8\'de\'b8\'f0\'b8\'ae \'bc\'d2\'b8\'f0\'b0\'a1 \'b3\'ca\'b9\'ab \'c5\'a9\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\f1 if\f0\'b9\'ae\'c0\'cc \'be\'f8\'b4\'c2 \'c1\'a4\'b7\'c4\'b9\'fd\par
+\par
+\'c1\'f7\'c1\'a2 \'b1\'e2\'bc\'f6 \'c1\'a4\'b7\'c4\f1\fs20  \f0\fs18\'bf\'a1\'bc\'ad \'bb\'e7\'bf\'eb \'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>분포수세기</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-30T11:39:19.0190284+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T15:25:28.0921245+09:00</UpdatedOn>
+  <Words>같은 키가 많이 있는 배열에 한해 적용하는 정렬방법
+분포수세기는 특정 키값이 출현하는 빈도를 저장하여 누적 분포를 이용하여 간단하게 정렬하는 방법
+
+장점
+-같은 키값을 가진 배열에서 사용하기 좋다.
+
+단점
+-메모리 소모가 너무 크다.
+
+특징
+-if문이 없는 정렬법
+
+직접 기수 정렬 에서 사용 할 수 있다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

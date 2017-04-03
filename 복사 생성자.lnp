@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>0c7c1d59-315d-4322-8185-67bbd34784dd</PageId>
+  <Encrypted>false</Encrypted>
+  <Name>복사 생성자</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-03T11:32:35.7247374+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-03T11:32:35.7247374+09:00</UpdatedOn>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c42c2b2c-0de6-476b-9fe8-bf9487c1c2b9</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 static_cast&lt;&gt;() \par
+\f1\fs18\'b3\'ed\'b8\'ae\'c0\'fb\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af \'b0\'a1\'b4\'c9\'c7\'d1 \'c5\'b8\'c0\'d4\'b8\'b8 \'ba\'af\'c8\'af \'b0\'a1\'b4\'c9 //\'c4\'c4\'c6\'c4\'c0\'cf\'bf\'a1\'bc\'ad \'c7\'e3\'bf\'eb\'c7\'cf\'b4\'c2 \'c7\'d1\'b5\'b5\'b3\'bb\'bf\'a1\'bc\'ad \'c7\'fc\'ba\'af\'c8\'af\f0\fs20  \f1\fs18\'b0\'a1\'b4\'c9. \'b3\'bb\'ba\'ce\'c0\'fb\'c0\'b8\'b7\'ce \'bf\'a1\'b7\'af\'b0\'a1 \'be\'f8\'b4\'c2\'c1\'f6\'b4\'c2 \'b0\'cb\'bb\'e7 \'be\'c8\'c7\'d4\par
+\f0\fs20\par
+static_cast\f2\'b4\'c2 \f1\'b0\'a1\'c0\'e5 \'c0\'cf\'b9\'dd\'c0\'fb\'c0\'ce \'c7\'fc\'c5\'c2\'c0\'c7 \'c7\'fc \'ba\'af\'c8\'af\'c0\'b8\'b7\'ce  \'b3\'ed\'b8\'ae\'c0\'fb\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af\'c0\'cc \'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9\'b8\'e9 \'b4\'d9\'b8\'a5 \'c0\'da\'b7\'e1\'c7\'fc\'bf\'a1\'bc\'ad \'b4\'d9\'b8\'a5 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af\'c7\'d2 \'bc\'f6\'b0\'a1 \'c0\'d6\'b4\'d9.\par
+\f0\par
+ex)\par
+double a = 10.0f;\par
+char c;\par
+c = static_cast&lt;char&gt;(a);\par
+\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>static_cast</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T15:16:58.5512557+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-21T15:30:44.2929765+09:00</UpdatedOn>
+  <Words>static_cast&lt;&gt;() 
+논리적으로 변환 가능한 타입만 변환 가능 //컴파일에서 허용하는 한도내에서 형변환 가능. 내부적으로 에러가 없는지는 검사 안함
+
+static_cast는 가장 일반적인 형태의 형 변환으로  논리적으로 변환이 가능하다면 다른 자료형에서 다른 자료형으로 변환할 수가 있다.
+
+ex)
+double a = 10.0f;
+char c;
+c = static_cast&lt;char&gt;(a);
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

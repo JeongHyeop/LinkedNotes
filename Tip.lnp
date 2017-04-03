@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>0e6b5fc9-1841-4759-be49-84c8d21961fd</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18 1.\'c0\'cc\'b0\'d4 \'b9\'ab\'be\'f9\'c0\'ce\'c1\'f6\par
+\fs20 2.\'be\'ee\'b5\'f0\'bf\'a1 \'be\'b2\'c0\'cc\'b4\'c2\'c1\'f6\par
+3.\'bb\'f9\'c7\'c3 \'c4\'da\'b5\'e5\par
+4.\'be\'ee\'b6\'bb\'b0\'d4 \'bb\'e7\'bf\'eb\'c7\'d8\'ba\'c3\'b4\'d9!\f1\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Tip</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-01T16:24:06.0733515+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-01T16:26:19.4523918+09:00</UpdatedOn>
+  <Words>1.이게 무엇인지
+2.어디에 쓰이는지
+3.샘플 코드
+4.어떻게 사용해봤다!</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

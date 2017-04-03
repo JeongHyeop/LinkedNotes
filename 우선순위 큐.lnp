@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>6532ff81-5cd5-4776-bbda-8175f61aa623</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5\'b4\'c2 \'bc\'f8\'c0\'a7\'bf\'a1 \'c0\'c7\'c7\'d8 \'bc\'f8\'bc\'ad\'b0\'a1 \'c0\'af\'c1\'f6\'b5\'c7\'b8\'e7 \'b0\'fc\'b8\'ae\'b5\'c7\'b4\'c2 \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'c0\'c7 \'c3\'df\'bb\'f3\'c0\'fb\'c0\'ce \'b0\'b3\'b3\'e4\par
+\'be\'ee\'b6\'b2 \'c6\'af\'c1\'a4\'c7\'d1 \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'b8\'a6 \'c0\'c7\'b9\'cc\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'be\'c6\'b4\'cf\'b4\'d9. \'c0\'da\'b7\'e1\'c0\'c7 \'c1\'fd\'c7\'d5\'c0\'cc \'c0\'d6\'c0\'b8\'b8\'e7 \'c0\'cc \'c0\'da\'b7\'e1\'c0\'c7 \'b0\'a2\'b0\'a2\'c0\'ba \'bc\'f8\'c0\'a7\'b0\'a1 \'c0\'d6\'b4\'d9. \'b1\'d7\'b8\'ae\'b0\'ed \'c0\'cc \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5\'b4\'c2 \'b4\'d9\'c0\'bd\'b0\'fa \'b0\'b0\'c0\'ba \'c0\'d4\'b0\'f6\'b0\'b3\'c0\'c7 \'b5\'bf\'c0\'db\'c0\'cc \'c1\'a4\'c0\'c7\'b5\'c7\'b4\'c2 \'b0\'e6\'bf\'ec\'b0\'a1 \'b8\'b9\'b4\'d9.\par
+\par
+1.\'bb\'fd\'bc\'ba: \'c1\'d6\'be\'ee\'c1\'f8 \f1 N\f0\'b0\'b3\'c0\'c7 \'c0\'da\'b7\'e1\'b7\'ce \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5\'b8\'a6 \'bb\'fd\'bc\'ba\'c7\'d1\'b4\'d9.\par
+2.\'bb\'f0\'c0\'d4: \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5\'bf\'a1 \'bb\'f5\'b7\'ce\'bf\'ee \'c0\'da\'b7\'e1\'b8\'a6 \'bb\'f0\'c0\'d4\'c7\'d1\'b4\'d9.\par
+3.\'c1\'a6\'b0\'c5: \'bc\'f8\'c0\'a7\'b0\'a1 \'b0\'a1\'c0\'e5 \'b3\'f4\'c0\'ba \'c0\'da\'b7\'e1\'b8\'a6 \'c1\'a6\'b0\'c5\'c7\'d1\'b4\'d9.\par
+4.\'b4\'eb\'c4\'a1: \'bc\'f8\'c0\'a7\'b0\'a1 \'b0\'a1\'c0\'e5 \'b3\'f4\'c0\'ba \'c0\'da\'b7\'e1\'bf\'cd \'bb\'f5\'b7\'ce\'bf\'ee \'c0\'da\'b7\'e1\'b8\'a6 \'b4\'eb\'c4\'a1\'c7\'d1\'b4\'d9.\par
+5.\'ba\'af\'b0\'e6: \'c0\'da\'b7\'e1\'c0\'c7 \'bc\'f8\'c0\'a7\'b8\'a6 \'ba\'af\'b0\'e6\'c7\'d1\'b4\'d9.\par
+6.\'bb\'e8\'c1\'a6: \'c0\'d3\'c0\'c7\'c0\'c7 \'c0\'da\'b7\'e1\'b8\'a6 \'bb\'e8\'c1\'a6\'c7\'d1\'b4\'d9.\par
+7.\'b0\'e1\'c7\'d5: \'b5\'ce \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5\'b8\'a6 \'b0\'e1\'c7\'d5\'c7\'cf\'bf\'a9 \'c5\'ab \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5\'b8\'a6 \'b8\'b8\'b5\'e7\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>우선순위 큐</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T16:08:16.4040235+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T16:13:00.903296+09:00</UpdatedOn>
+  <Words>우선순위 큐는 순위에 의해 순서가 유지되며 관리되는 자료구조의 추상적인 개념
+어떤 특정한 자료구조를 의미하는 것이 아니다. 자료의 집합이 있으며 이 자료의 각각은 순위가 있다. 그리고 이 우선순위 큐는 다음과 같은 입곱개의 동작이 정의되는 경우가 많다.
+
+1.생성: 주어진 N개의 자료로 우선순위 큐를 생성한다.
+2.삽입: 우선순위 큐에 새로운 자료를 삽입한다.
+3.제거: 순위가 가장 높은 자료를 제거한다.
+4.대치: 순위가 가장 높은 자료와 새로운 자료를 대치한다.
+5.변경: 자료의 순위를 변경한다.
+6.삭제: 임의의 자료를 삭제한다.
+7.결합: 두 우선순위 큐를 결합하여 큰 우선순위 큐를 만든다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

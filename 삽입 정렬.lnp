@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>82772a12-c7ee-4d96-830e-d3f9acd6afc7</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil DotumChe;}{\f4\fnil\fcharset0 DotumChe;}{\f5\fnil\fcharset129 DotumChe;}}
+{\colortbl ;\red86\green156\blue214;\red30\green30\blue30;\red220\green220\blue220;\red200\green200\blue200;\red180\green180\blue180;\red127\green127\blue127;\red181\green206\blue168;\red87\green166\blue74;}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c0\'cc\'b9\'cc \'c1\'a4\'b7\'c4\'c0\'cc \'b5\'c8 \'ba\'ce\'ba\'d0\'bf\'a1 \'bb\'f5\'b7\'ce\'bf\'ee \'c5\'b0\'b8\'a6 \'c0\'fb\'c0\'fd\'c7\'d1 \'c0\'e5\'bc\'d2\'bf\'a1 \'bb\'f0\'c0\'d4\'c7\'cf\'b4\'c2 \'b5\'bf\'c0\'db\'c0\'bb \'b9\'dd\'ba\'b9\'c7\'cf\'b8\'e7 \'c1\'a4\'b7\'c4\'c7\'cf\'b4\'c2 \'b9\'e6\'bd\'c4\par
+\f1\par
+\f2\fs18\'c0\'e5\'c1\'a1\par
+-\'ba\'f1\'b1\'b3 \'c8\'bd\'bc\'f6\'b0\'a1 \'c0\'fb\'b4\'d9\par
+-\'c0\'db\'c0\'ba \'c5\'a9\'b1\'e2\'c0\'c7 \'b9\'e8\'bf\'ad\'c0\'bb \'c1\'a4\'b7\'c4\'c7\'d2 \'b6\'a7 \'b0\'a1\'c0\'e5 \'c8\'bf\'b0\'fa\'b0\'a1 \'c1\'c1\'c0\'ba \'c1\'a4\'b7\'c4\'b9\'e6\'b9\'fd\par
+-\'c0\'cc\'b9\'cc \'c1\'a4\'b7\'c4\'b5\'c8 \'b9\'e8\'bf\'ad\'c0\'cc\'b3\'aa \'b4\'eb\'c3\'e6 \'c1\'a4\'b7\'c4\'b5\'c8 \'b9\'e8\'bf\'ad\'bf\'a1\'bc\'ad \'c8\'bf\'b0\'fa\'b0\'a1 \'c1\'c1\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'b1\'b3\'c8\'af \'c8\'bd\'bc\'f6\'b0\'a1 \'b8\'b9\'b4\'d9.\par
+-\'c5\'ab \'b9\'e8\'bf\'ad\'c0\'bb \'c1\'a4\'b7\'c4\'c7\'d2 \'b6\'a7 \'c1\'c1\'c1\'f6 \'be\'ca\'b4\'d9.\par
+\f1\fs20 -\f2\'bf\'aa\'bc\'f8 \'b9\'e8\'bf\'ad\'bd\'c3 \'bd\'c3\'b0\'a3\'c0\'cc \'b0\'a1\'c0\'e5 \'b8\'b9\'c0\'cc \'b8\'d4\'c0\'bd\f1\par
+\par
+\f2\fs18\'c6\'af\'c2\'a1\par
+-\'c0\'fb\'c0\'ba \'ba\'f1\'b1\'b3\'bf\'cd \'b8\'b9\'c0\'ba \'b1\'b3\'c8\'af\par
+-\'be\'c8\'c1\'a4\'bc\'ba\'c0\'cc \'c0\'d6\'c1\'f6\'b8\'b8 \'c7\'d7\'bb\'f3 \'b1\'d7\'b7\'b8\'c1\'f6 \'be\'ca\'b4\'d9.\par
+-\'c0\'d4\'b7\'c2\'c0\'da\'b7\'e1\'bf\'a1 \'b1\'b2\'c0\'e5\'c8\'f7 \'b9\'ce\'b0\'a8\'c7\'cf\'b4\'d9.\par
+\par
+-\'c5\'ab \'b9\'e8\'bf\'ad\'c0\'bb \'c7\'d8\'b0\'e1\'c7\'d2 \'b6\'a7\'bf\'a1\'b4\'c2 \'b0\'a3\'c1\'a2\'c1\'a4\'b7\'c4\'b1\'e2\'b9\'fd\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e9 \'b9\'ae\'c1\'a6 \'c7\'d8\'b0\'e1\'b5\'ca\par
+\'ba\'f2\'bf\'c0 \f1 O(N^2)\par
+\par
+\cf1\highlight2\f3\fs19 void\cf3  \cf4 InsertSort\cf5 (\cf1 int\cf3  \cf6 nArray\cf5 [],\cf3  \cf1 int\cf3  \cf6 n\cf5 )\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf1 int\cf3  \cf4 nTemp\cf3  \cf5 =\cf3  \cf7 0\cf5 ,\cf3  \cf4 j\cf3  \cf5 =\cf3  \cf7 0\cf5 ;\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf1 for\cf3  \cf5 (\cf1 int\cf3  \cf4 i\cf3  \cf5 =\cf3  \cf7 1\cf5 ;\cf3  \cf4 i\cf3  \cf5 &lt;\cf3  \cf6 n\cf5 ;\cf3  \cf4 i\cf5 ++)\cf3\tab\tab\tab\f4\tab\cf8\f3 //0\f5\'b9\'f8\f3  \f5\'b4\'d9\'c0\'bd\f3  \f5\'b0\'aa\'c0\'bb\f3  \f5\'b3\'d6\'c0\'bd\tab\tab\tab\cf3\f3\par
+\tab\cf5\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\cf4 nTemp\cf3  \cf5 =\cf3  \cf6 nArray\cf5 [\cf4 i\cf5 ];\cf3\tab\tab\tab\tab\cf8 //1\f5\'b9\'f8\'ba\'ce\'c5\'cd\f3  \f5\'bd\'c3\'c0\'db\tab\tab\tab\cf3\f3\par
+\tab\tab\cf4 j\cf3  \cf5 =\cf3  \cf4 i\cf5 ;\cf3\tab\tab\tab\tab\tab\tab\cf8 //j\f5\'c0\'c7\f3  i\f5\'b0\'aa\'c0\'bb\f3  \f5\'b3\'d6\'c0\'bd\tab\tab\tab\cf3\f3\par
+\tab\tab\cf1 while\cf3  \cf5 (\cf6 nArray\cf5 [\cf4 j\cf3  \cf5 -\cf3  \cf7 1\cf5 ]\cf3  \cf5 &gt;\cf3  \cf4 nTemp\cf3  \cf5 &amp;&amp;\cf3  \cf4 j\cf3  \cf5 &gt;\cf3  \cf7 0\cf5 )\cf3\tab\cf8 //\f5\'be\'d5\'c0\'da\'b8\'ae\'bf\'cd\f3  \f5\'ba\'f1\'b1\'b3\'c7\'d8\'bc\'ad\f3  \f5\'c0\'da\'b1\'e2\'ba\'b8\'b4\'d9\f3  \f4\tab\f3\par
+\f4\tab\tab\tab\tab\tab\tab\tab\tab   \f5\'be\'d5\'c0\'da\'b8\'ae\'b0\'a1 \'c5\'a9\'b4\'d9\'b8\'e9\tab\tab\tab\cf3\f3\par
+\tab\tab\cf5\{\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\cf6 nArray\cf5 [\cf4 j\cf5 ]\cf3  \cf5 =\cf3  \cf6 nArray\cf5 [\cf4 j\cf3  \cf5 -\cf3  \cf7 1\cf5 ];\cf3\tab\tab\cf8 //\f5\'c0\'da\'b1\'e2\'c0\'da\'b8\'ae\'bf\'a1\f3  \f5\'be\'d5\'c0\'da\'b8\'ae\'b8\'a6\f3  \f5\'b3\'d6\'be\'ee\'c1\'d6\'b0\'ed\tab\cf3\f3\par
+\tab\tab\tab\cf4 j\cf5 --;\cf3\tab\tab\tab\tab\tab\cf8 //j\f5\'c0\'ce\'b5\'a6\'bd\'ba\'b8\'a6\f3  \f5\'c7\'cf\'b3\'aa\f3  \f5\'b1\'f0\'be\'c6\'c1\'dc\tab\tab\cf3\f3\par
+\tab\tab\cf5\}\cf3\tab\tab\tab\tab\f4\tab\tab\cf8\f3 //\f5\'b1\'d7\'b7\'b8\'b0\'d4\f3  \f5\'ba\'f1\'b1\'b3\'c7\'d8\'bc\'ad\f3  \f5\'be\'d5\'c0\'da\'b8\'ae\'b0\'a1\f3  \f5\'c0\'da\'b1\'e2\f3  \f4\tab\f3\par
+\f5\tab\tab\tab\tab\tab\tab\tab\tab\'ba\'b8\'b4\'d9\f3  \f5\'c0\'db\'c0\'bb\'b6\'a7\f3  \f5\'b1\'ee\'c1\'f6\f3  \f5\'ba\'f1\'b1\'b3\'c7\'d8\'bc\'ad\f3  \f5\'b7\'e7\'c7\'c1\f3  \f5\'b5\'b9\'c0\'bd\cf3\f3\par
+\tab\tab\cf6 nArray\cf5 [\cf4 j\cf5 ]\cf3  \cf5 =\cf3  \cf4 nTemp\cf5 ;\cf3\tab\tab\tab\tab\f4 /\cf8\f3 /\f5\'be\'f2\'be\'ee\'b3\'bd\f3  \f5\'c0\'da\'b8\'ae\'bf\'a1\f3  \f5\'c0\'da\'b1\'e2\f3  \f5\'c0\'da\'bd\'c5\'c0\'bb\f3  \f5\'b3\'d6\'be\'ee\'c1\'dc\cf3\f3\par
+\tab\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\cf5\}\f4\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf0\highlight0\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>삽입 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T21:57:59.8722145+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-30T00:07:18.0644197+09:00</UpdatedOn>
+  <Words>이미 정렬이 된 부분에 새로운 키를 적절한 장소에 삽입하는 동작을 반복하며 정렬하는 방식
+
+장점
+-비교 횟수가 적다
+-작은 크기의 배열을 정렬할 때 가장 효과가 좋은 정렬방법
+-이미 정렬된 배열이나 대충 정렬된 배열에서 효과가 좋다.
+
+단점
+-교환 횟수가 많다.
+-큰 배열을 정렬할 때 좋지 않다.
+-역순 배열시 시간이 가장 많이 먹음
+
+특징
+-적은 비교와 많은 교환
+-안정성이 있지만 항상 그렇지 않다.
+-입력자료에 굉장히 민감하다.
+
+-큰 배열을 해결할 때에는 간접정렬기법을 사용하면 문제 해결됨
+빅오 O(N^2)
+
+void InsertSort(int nArray[], int n){								
+	int nTemp = 0, j = 0;									
+	for (int i = 1; i &lt; n; i++)				//0번 다음 값을 넣음			
+	{												
+		nTemp = nArray[i];				//1번부터 시작			
+		j = i;						//j의 i값을 넣음			
+		while (nArray[j - 1] &gt; nTemp &amp;&amp; j &gt; 0)	//앞자리와 비교해서 자기보다 	
+								  앞자리가 크다면			
+		{											
+			nArray[j] = nArray[j - 1];		//자기자리에 앞자리를 넣어주고	
+			j--;					//j인덱스를 하나 깎아줌		
+		}						//그렇게 비교해서 앞자리가 자기 	
+								보다 작을때 까지 비교해서 루프 돌음
+		nArray[j] = nTemp;				//얻어낸 자리에 자기 자신을 넣어줌
+	}												
+}													</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

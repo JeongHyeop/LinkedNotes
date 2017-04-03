@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>720940bb-6f76-4f3f-9b86-e6bfdceeb951</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil DotumChe;}{\f3\fnil\fcharset0 DotumChe;}}
+{\colortbl ;\red86\green156\blue214;\red30\green30\blue30;\red220\green220\blue220;\red200\green200\blue200;\red180\green180\blue180;\red127\green127\blue127;\red181\green206\blue168;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b9\'e8\'bf\'ad\'c0\'c7 \'c0\'ce\'c1\'a2\'bf\'e4\'bc\'d2 \'c1\'ef, \'b9\'d9\'b7\'ce \'bf\'b7 \'bf\'e4\'bc\'d2\'b8\'a6 \'ba\'f1\'b1\'b3\'c7\'cf\'b0\'ed \'b1\'b3\'c8\'af\'c7\'d8\'bc\'ad \'c3\'d6\'b4\'eb\'b0\'aa\'c0\'bb \'b8\'c7 \'b5\'da\'b7\'ce \'ba\'b8\'b3\'bb\'b4\'c2 \'c1\'a4\'b7\'c4 \'b9\'e6\'b9\'fd\'c0\'cc\'b4\'d9.\par
+\par
+\'c0\'e5\'c1\'a1\par
+-\'be\'c8\'c1\'a4\'bc\'ba\'c0\'cc \'c0\'d6\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'b8\'c5\'b9\'f8 \'ba\'f1\'b1\'b3\'bf\'cd \'b1\'b3\'c8\'af\'c0\'bb \'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'bd\'c7\'c7\'e0\'bd\'c3\'b0\'a3\'c0\'cc \'b1\'ab\'c0\'e5\'c8\'f7 \'b4\'c0\'b8\'ae\'b4\'d9.\par
+\par
+\'ba\'f2\'bf\'c0 \f1 O(N^2)\par
+\par
+\cf1\highlight2\f2\fs19 void\cf3  \cf4 BubbleSort\cf5 (\cf1 int\cf3  \cf6 nArray\cf5 [],\cf3  \cf1 int\cf3  \cf6 n\cf5 )\{\f3\tab\tab\tab\cf3\f2\par
+\tab\cf1 int\cf3  \cf4 nTemp\cf3  \cf5 =\cf3  \cf7 0\cf5 ;\f3\tab\tab\tab\tab\tab\cf3\f2\par
+\tab\cf1 bool\cf3  \cf4 sortingCheck\cf3  \cf5 =\cf3  \cf1 true\cf5 ;\f3\tab\tab\tab\tab\cf3\f2\par
+\f3\tab\tab\tab\tab\tab\tab\tab\tab\par
+\f2\tab\cf1 for\cf3  \cf5 (\cf1 int\cf3  \cf4 i\cf3  \cf5 =\cf3  \cf7 0\cf5 ;\cf3  \cf4 i\cf3  \cf5 &lt;\cf3  \cf6 n\cf5 ;\cf3  \cf4 i\cf5 ++)\f3\tab\tab\tab\tab\cf3\f2\par
+\tab\cf5\{\f3\tab\tab\tab\tab\tab\tab\tab\cf3\f2\par
+\tab\tab\cf4 sortingCheck\cf3  \cf5 =\cf3  \cf1 true\cf5 ;\f3\tab\tab\tab\tab\cf3\f2\par
+\tab\tab\cf1 for\cf3  \cf5 (\cf1 int\cf3  \cf4 j\cf3  \cf5 =\cf3  \cf7 1\cf5 ;\cf3  \cf4 j\cf3  \cf5 &lt;\cf3  \cf6 n\cf5 ;\cf3  \cf4 j\cf5 ++)\f3\tab\tab\tab\cf3\f2\par
+\tab\tab\cf5\{\f3\tab\tab\tab\tab\tab\tab\cf3\f2\par
+\tab\tab\tab\cf1 if\cf3  \cf5 (\cf6 nArray\cf5 [\cf4 j\cf3  \cf5 -\cf3  \cf7 1\cf5 ]\cf3  \cf5 &gt;\cf3  \cf6 nArray\cf5 [\cf4 j\cf5 ])\{\f3\tab\cf3\f2\par
+\tab\tab\tab\tab\cf4 nTemp\cf3  \cf5 =\cf3  \cf6 nArray\cf5 [\cf4 j\cf3  \cf5 -\cf3  \cf7 1\cf5 ];\f3\tab\cf3\f2\par
+\tab\tab\tab\tab\cf6 nArray\cf5 [\cf4 j\cf3  \cf5 -\cf3  \cf7 1\cf5 ]\cf3  \cf5 =\cf3  \cf6 nArray\cf5 [\cf4 j\cf5 ];\f3\tab\cf3\f2\par
+\tab\tab\tab\tab\cf6 nArray\cf5 [\cf4 j\cf5 ]\cf3  \cf5 =\cf3  \cf4 nTemp\cf5 ;\f3\tab\tab\cf3\f2\par
+\tab\tab\tab\tab\cf4 sortingCheck\cf3  \cf5 =\cf3  \cf1 false\cf5 ;\f3\tab\cf3\f2\par
+\tab\tab\tab\cf5\}\f3\tab\tab\tab\tab\tab\cf3\f2\par
+\tab\tab\cf5\}\f3\tab\tab\tab\tab\tab\tab\cf3\f2\par
+\tab\tab\cf1 if\cf3  \cf5 (\cf4 sortingCheck\cf3  \cf5 ==\cf3  \cf1 true\cf5 )\f3\tab\tab\tab\cf3\f2\par
+\tab\tab\tab\cf1 break\cf5 ;\f3\tab\tab\tab\tab\tab\cf3\f2\par
+\tab\cf5\}\f3\tab\tab\tab\tab\tab\tab\tab\cf3\f2\par
+\cf5\}\f3\tab\tab\tab\tab\tab\tab\tab\tab\par
+\par
+\par
+\f0\fs18\'b9\'ae\'c1\'a6 \'c7\'d8\'b0\'e1\'b7\'ce\'bd\'e1 \'bd\'a6\'c0\'cc\'c4\'bf \'c1\'a4\'b7\'c4\'c0\'bb \'bb\'e7\'bf\'eb  \par
+\par
+\cf0\highlight0\'bd\'a6\'c0\'cc\'c4\'bf \'c1\'a4\'b7\'c4\'c0\'cc\'b6\'f5 \'bf\'de\'c2\'ca\'bf\'a1\'bc\'ad \'bf\'c0\'b8\'a5\'c2\'ca\'c0\'b8\'b7\'ce \'b0\'a1\'b8\'e9\'bc\'ad \'c3\'d6\'b4\'eb\'b0\'aa\'c0\'bb \'bf\'ec\'c3\'f8\'c0\'b8\'b7\'ce \'ba\'b8\'b3\'bb\'b0\'ed \'b1\'d7 \'b4\'d9\'c0\'bd \'bf\'c0\'b8\'a5\'c2\'ca\'bf\'a1\'bc\'ad \'bf\'de\'c2\'ca\'c0\'b8\'b7\'ce \'b0\'a1\'b8\'e9\'bc\'ad \'c3\'d6\'bc\'d2\'b0\'aa\'c0\'bb \'c1\'c2\'c3\'f8\'c0\'b8\'b7\'ce \'ba\'b8\'b3\'bb\'b8\'e7 \'c1\'a4\'b7\'c4\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'cc\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>거품 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T21:59:50.9385671+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-30T00:03:28.229216+09:00</UpdatedOn>
+  <Words>배열의 인접요소 즉, 바로 옆 요소를 비교하고 교환해서 최대값을 맨 뒤로 보내는 정렬 방법이다.
+
+장점
+-안정성이 있다.
+
+단점
+-매번 비교와 교환을 하기 때문에 실행시간이 괴장히 느리다.
+
+빅오 O(N^2)
+
+void BubbleSort(int nArray[], int n){			
+	int nTemp = 0;					
+	bool sortingCheck = true;				
+								
+	for (int i = 0; i &lt; n; i++)				
+	{							
+		sortingCheck = true;				
+		for (int j = 1; j &lt; n; j++)			
+		{						
+			if (nArray[j - 1] &gt; nArray[j]){	
+				nTemp = nArray[j - 1];	
+				nArray[j - 1] = nArray[j];	
+				nArray[j] = nTemp;		
+				sortingCheck = false;	
+			}					
+		}						
+		if (sortingCheck == true)			
+			break;					
+	}							
+}								
+
+
+문제 해결로써 쉐이커 정렬을 사용  
+
+쉐이커 정렬이란 왼쪽에서 오른쪽으로 가면서 최대값을 우측으로 보내고 그 다음 오른쪽에서 왼쪽으로 가면서 최소값을 좌측으로 보내며 정렬하는 방법이다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

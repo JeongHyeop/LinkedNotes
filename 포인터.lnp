@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>a21e2a11-e6f8-40a7-a0bf-74e42f08feed</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2 \'b4\'d9\'b8\'a5 \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'c2 \'ba\'af\'bc\'f6\par
+\par
+\f1 int *a;\par
+\f0\'bf\'a9\'b1\'e2\'bc\'ad \f1 a\f2\'b4\'c2 \f1 int\f2\'c7\'fc \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'d9.\par
+\par
+&amp;: \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b0\'aa\par
+*: \'c6\'f7\'c0\'ce\'c5\'cd \'ba\'af\'bc\'f6\'b0\'a1 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c1\'d6\'bc\'d2\'c0\'c7 \'b0\'aa\par
+\par
+//\'c6\'f7\'c0\'ce\'c5\'cd\'c7\'fc \'ba\'af\'bc\'f6\'b4\'c2 \'b4\'d9\'b8\'a5 \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b0\'aa\'b8\'b8 \'b9\'de\'c0\'bb \'bc\'f6\'c0\'d6\'b4\'d9.\par
+\f1 ex)*a = &amp;value;\par
+\par
+//\f2\'b0\'aa \'c3\'e2\'b7\'c2\'bd\'c3 *\'b8\'a6 \'ba\'d9\'bf\'a9\'bc\'ad \'c3\'e2\'b7\'c2\par
+\f1 ex)std::cout&lt;&lt;*a;\par
+\par
+//\f2\'c6\'f7\'c0\'ce\'c5\'cd \'ba\'af\'bc\'f6\'bf\'a1 \'c1\'d6\'bc\'d2\'b8\'a6 \'c1\'f6\'c1\'a4\'c7\'d2\'b6\'a7\'b4\'c2 \'b5\'bf\'c0\'cf\'c7\'d1 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'b8 \'b9\'de\'c0\'bb \'bc\'f6 \'c0\'d6\'c0\'bd\par
+\f1 tip)\f2\'b4\'d9\'b8\'a5 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'bb \'b3\'d6\'c0\'b8\'b8\'e9 \'be\'b2\'b7\'b9\'b1\'e2\'b0\'aa\'c0\'b8\'b7\'ce \'bf\'a1\'b7\'af\'b4\'c2 \'b3\'aa\'c1\'f6 \'be\'ca\'be\'c6\'b5\'b5 \'be\'b2\'b7\'b9\'b1\'e2\'b0\'aa\'c0\'cc \'b5\'e9\'be\'ee\'b0\'a8\par
+\par
+//\'c6\'f7\'c0\'ce\'c5\'cd \'ba\'af\'bc\'f6\'bf\'a1 \'b5\'bf\'c0\'cf\'c7\'d1 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'cc \'be\'c6\'b4\'cf\'b0\'ed \'c0\'af\'bf\'ac\'c7\'cf\'b0\'d4 \'bb\'e7\'bf\'eb\'c7\'d2 \'b6\'a7\'bf\'a1\'b4\'c2 \f1 void *\f2\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d8\'be\'df\'c7\'d4\par
+\'bb\'e7\'bf\'eb\'c7\'d2 \'b6\'a7\'b4\'c2 (\f1 int *\f2 )\'b5\'ee \'c0\'da\'b7\'e1\'c7\'fc\'c0\'bb \'b8\'ed\'bd\'c3\'c0\'fb\'c0\'b8\'b7\'ce \'c7\'fc\'ba\'af\'c8\'af \'c7\'d8\'c1\'e0\'be\'df\'c7\'d4\par
+\f1\par
+//\f2\'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2 \'c1\'d6\'bc\'d2\'b8\'a6 \'c1\'f7\'c1\'a2 \'bf\'a2\'bc\'bc\'bd\'ba\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c0\'a7\'c7\'e8\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\f1\par
+//\f2\'b1\'d7\'b7\'b3\'bf\'a1\'b5\'b5 \'ba\'d2\'b1\'b8\'c7\'cf\'b0\'ed \'c6\'f7\'c0\'ce\'c5\'cd\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'c0\'cc\'c0\'af\'b4\'c2 4\'b9\'d9\'c0\'cc\'c6\'ae\'b7\'ce \'bf\'f8\'c7\'cf\'b4\'c2 \'c1\'a4\'ba\'b8\'b8\'a6 \'b0\'a1\'c1\'ae\'b4\'d9 \'be\'b5 \'bc\'f6 \'c0\'d6\'b1\'e2 \'b6\'a7\'b9\'ae\'c0\'cc\'b4\'d9.\par
+\par
+//\'c6\'f7\'c0\'ce\'c5\'cd\'c0\'c7 \'c0\'e5\'c1\'a1\par
+1.\'b8\'de\'b8\'f0\'b8\'ae \'c1\'d6\'bc\'d2\'b8\'a6 \'c2\'fc\'c1\'b6\'c7\'d8\'bc\'ad \'b8\'f0\'b5\'e7 \'c0\'da\'b7\'e1\'c7\'fc\f1  \f2\'ba\'af\'bc\'f6\'c0\'c7 \'c1\'a2\'b1\'d9\'b0\'fa \'c1\'b6\'c0\'db\'c0\'c7 \'bf\'eb\'c0\'cc\par
+2.\'b8\'de\'b8\'f0\'b8\'ae \'c1\'d6\'bc\'d2\'b8\'a6 \'c2\'fc\'c1\'b6\'c7\'d8 \'b9\'e8\'bf\'ad\'b0\'fa \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'c1\'b6\'c0\'db\'b0\'fa \'c1\'a2\'b1\'d9 \'bf\'eb\'c0\'cc\par
+3.\'b5\'bf\'c0\'fb \'c7\'d2\'b4\'e7\'b5\'c8 \'b8\'de\'b8\'f0\'b8\'ae \'bf\'b5\'bf\'aa(\'c8\'fc \'bf\'b5\'bf\'aa)\'bf\'a1 \'c1\'a2\'b1\'d9\'b0\'fa \'c1\'b6\'c0\'db\'c0\'cc \'bf\'eb\'c0\'cc\'c7\'d4\par
+\par
+//\'c6\'f7\'c0\'ce\'c5\'cd\'c0\'c7 \'b4\'dc\'c1\'a1\par
+1.\'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2 \'c1\'d6\'bc\'d2\'b8\'a6 \'c1\'f7\'c1\'a2 \'bf\'a2\'bc\'bc\'bd\'ba\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c0\'a7\'c7\'e8\'c7\'cf\'b4\'d9!\f1\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>포인터</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T14:15:54.6688496+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T13:38:34.8176881+09:00</UpdatedOn>
+  <Words>포인터는 다른 변수의 주소를 저장하고 있는 변수
+
+int *a;
+여기서 a는 int형 변수의 주소를 저장하고 있다.
+
+&amp;: 변수의 주소값
+*: 포인터 변수가 가리키는 주소의 값
+
+//포인터형 변수는 다른 변수의 주소값만 받을 수있다.
+ex)*a = &amp;value;
+
+//값 출력시 *를 붙여서 출력
+ex)std::cout&lt;&lt;*a;
+
+//포인터 변수에 주소를 지정할때는 동일한 자료형의 주소만 받을 수 있음
+tip)다른 자료형을 넣으면 쓰레기값으로 에러는 나지 않아도 쓰레기값이 들어감
+
+//포인터 변수에 동일한 자료형이 아니고 유연하게 사용할 때에는 void *를 사용해야함
+사용할 때는 (int *)등 자료형을 명시적으로 형변환 해줘야함
+
+//포인터는 주소를 직접 엑세스하기 때문에 위험할 수 있다.
+//그럼에도 불구하고 포인터를 사용하는 이유는 4바이트로 원하는 정보를 가져다 쓸 수 있기 때문이다.
+
+//포인터의 장점
+1.메모리 주소를 참조해서 모든 자료형 변수의 접근과 조작의 용이
+2.메모리 주소를 참조해 배열과 데이터의 조작과 접근 용이
+3.동적 할당된 메모리 영역(힙 영역)에 접근과 조작이 용이함
+
+//포인터의 단점
+1.포인터는 주소를 직접 엑세스하기 때문에 위험하다!</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

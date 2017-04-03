@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>9ab13847-61f2-48fe-b754-10bc4e742174</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 reinterpret_cast\f1\fs18\'b4\'c2 \'c0\'cf\'b9\'dd\'c0\'fb\'c0\'b8\'b7\'ce \'c7\'e3\'bf\'eb\'c7\'cf\'c1\'f6 \'be\'ca\'b4\'c2 \'c0\'a7\'c7\'e8\'c7\'d1 \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb(\'b9\'ab\'c1\'b6\'b0\'c7\'c0\'fb\'c0\'ce \'c7\'fc\'ba\'af\'c8\'af)\'c7\'d2\'b6\'a7 \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9. \'c1\'ef \'b1\'d7\'be\'c8\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd\'b0\'a1 \'be\'ee\'b6\'b2 \'b0\'b4\'c3\'bc\'c0\'cc\'b4\'f8\'b0\'a3\'bf\'a1 \'b1\'d7\'c0\'fa \'ba\'f1\'c6\'ae\'bf\'ad\'b7\'ce\'b8\'b8 \'ba\'b8\'b0\'ed \'bf\'f8\'c7\'cf\'b4\'c2 \'c7\'fc\'c0\'b8\'b7\'ce \'b0\'ad\'c1\'a6 \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb \'c7\'cf\'b0\'d4 \'b5\'c8\'b4\'d9.\par
+\'bf\'b9\'b8\'a6 \'b5\'e9\'b8\'e9 \'c6\'f7\'c0\'ce\'c5\'cd\'c0\'c7 \'c1\'d6\'bc\'d2\'b0\'aa\'c0\'bb \'b0\'ad\'c1\'a6\'b7\'ce \'c1\'a4\'bc\'f6\'c7\'fc\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af\'bd\'c3\'c5\'b0\'b4\'c2 \'c0\'db\'be\'f7\par
+\f0 ex)\par
+int a,b;\par
+a = reinterpret_cast&lt;int&gt;(&amp;b);\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>reinterpret_cast</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T15:17:46.7709404+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-21T15:38:54.1669957+09:00</UpdatedOn>
+  <Words>reinterpret_cast는 일반적으로 허용하지 않는 위험한 형변환을(무조건적인 형변환)할때 사용한다. 즉 그안의 데이터가 어떤 객체이던간에 그저 비트열로만 보고 원하는 형으로 강제 형변환을 하게 된다.
+예를 들면 포인터의 주소값을 강제로 정수형으로 변환시키는 작업
+ex)
+int a,b;
+a = reinterpret_cast&lt;int&gt;(&amp;b);</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

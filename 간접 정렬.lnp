@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>10afe945-1259-4e80-a3f8-c232597a2973</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil DotumChe;}{\f3\fnil\fcharset0 DotumChe;}{\f4\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red220\green220\blue220;\red30\green30\blue30;\red86\green156\blue214;\red200\green200\blue200;\red180\green180\blue180;\red181\green206\blue168;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b9\'e8\'bf\'ad\'c0\'ba \'c0\'fc\'c7\'f4 \'bc\'d5\'b4\'eb\'c1\'f6 \'be\'ca\'b0\'ed \'b5\'fb\'b7\'ce \'b8\'b8\'b5\'e7 \'c0\'ce\'b5\'a6\'bd\'ba\'c0\'c7 \'b9\'e8\'bf\'ad\'c0\'bb \'c1\'b6\'c0\'db\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'b3\'ca\'b9\'ab \'b8\'b9\'c0\'cc \'bc\'d2\'bf\'e4\'c7\'d1\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'c0\'ce\'b5\'a6\'bd\'ba\'c0\'c7 \'b9\'e8\'bf\'ad\'c0\'ba \'b0\'a3\'b4\'dc\'c7\'d1 \'c1\'a4\'bc\'f6 \'b9\'e8\'bf\'ad\'c0\'cf \'b0\'e6\'bf\'ec\'b0\'a1 \'b8\'b9\'c0\'b8\'b9\'c7\'b7\'ce \'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e9 \'c8\'bf\'c0\'b2\'c0\'fb\'c0\'cc\'b4\'d9.\par
+-\'bf\'dc\'ba\'ce\'c1\'a4\'b7\'c4\'bf\'a1 \'bb\'e7\'bf\'eb\par
+\f1 IndirectInsertSort\f0\par
+\cf1\highlight2\f2\fs19\tab\cf3 int\cf1  \cf4 j\cf1  \cf5 =\cf1  \cf6 0\cf1  \cf5 ,\cf1  \cf4 nTemp\cf1  \cf5 =\cf1  \cf6 0\cf5 ;\f3\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\cf3 for\cf1  \cf5 (\cf3 int\cf1  \cf4 i\cf1  \cf5 =\cf1  \cf6 0\cf5 ;\cf1  \cf4 i\cf1  \cf5 &lt;\cf1  \cf6 10\cf5 ;\cf1  \cf4 i\cf5 ++)\f3\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\cf4 nIndexArray\cf5 [\cf4 i\cf5 ]\cf1  \cf5 =\cf1  \cf4 i\cf5 ;\f3\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\cf3 for\cf1  \cf5 (\cf3 int\cf1  \cf4 i\cf1  \cf5 =\cf1  \cf6 1\cf5 ;\cf1  \cf4 i\cf1  \cf5 &lt;\cf1  \cf6 10\cf5 ;\cf1  \cf4 i\cf5 ++)\f3\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\cf5\{\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\cf4 nTemp\cf1  \cf5 =\cf1  \cf4 nIndexArray\cf5 [\cf4 i\cf5 ];\f3\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\cf4 j\cf1  \cf5 =\cf1  \cf4 i\cf5 ;\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\cf3 while\cf1  \cf5 (\cf4 nArray\cf5 [\cf4 nIndexArray\cf5 [\cf4 j\cf1  \cf5 -\cf1  \cf6 1\cf5 ]]\cf1  \cf5 &gt;\cf1  \cf4 nArray\cf5 [\cf4 nTemp\cf5 ]\cf1  \cf5 &amp;&amp;\cf1  \cf4 j\cf1  \cf5 &gt;\cf1  \cf6 0\cf5 )\f3\tab\cf1\f2\par
+\tab\tab\cf5\{\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\tab\cf4 nIndexArray\cf5 [\cf4 j\cf5 ]\cf1  \cf5 =\cf1  \cf4 nIndexArray\cf5 [\cf4 j\cf1  \cf5 -\cf1  \cf6 1\cf5 ];\f3\tab\tab\tab\cf1\f2\par
+\tab\tab\tab\cf4 j\cf5 --;\f3\tab\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\tab\cf3 if\cf1  \cf5 (\cf4 j\cf1  \cf5 ==\cf1  \cf6 0\cf5 )\f3\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\tab\tab\cf3 break\cf5 ;\f3\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\cf5\}\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\tab\cf4 nIndexArray\cf5 [\cf4 j\cf5 ]\cf1  \cf5 =\cf1  \cf4 nTemp\cf5 ;\f3\tab\tab\tab\tab\tab\tab\cf1\f2\par
+\tab\cf5\}\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf0\highlight0\f4\fs18\par
+\f0\par
+\f3 RearRange\f0\'c7\'d4\'bc\'f6\'b5\'b5 \'b8\'b8\'b5\'e9\'be\'ee\'bc\'ad \'bd\'c7\'c1\'a6 \'b9\'e8\'bf\'ad\'c0\'bb \'c0\'e7\'b9\'e8\'bf\'ad \'c7\'cf\'b4\'c2 \'c0\'db\'be\'f7\'c0\'bb \'c1\'f8\'c7\'e0\'c7\'d8\'be\'df\'c7\'d4\par
+\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>간접 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-29T22:52:20.8075881+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-30T11:54:41.5858498+09:00</UpdatedOn>
+  <Words>배열은 전혀 손대지 않고 따로 만든 인덱스의 배열을 조작하는 방법
+
+단점
+-메모리를 너무 많이 소요한다.
+
+특징
+-인덱스의 배열은 간단한 정수 배열일 경우가 많으므로 삽입 정렬을 사용하면 효율적이다.
+-외부정렬에 사용
+IndirectInsertSort
+	int j = 0 , nTemp = 0;							
+	for (int i = 0; i &lt; 10; i++)						
+		nIndexArray[i] = i;							
+	for (int i = 1; i &lt; 10; i++)						
+	{										
+		nTemp = nIndexArray[i];						
+		j = i;									
+		while (nArray[nIndexArray[j - 1]] &gt; nArray[nTemp] &amp;&amp; j &gt; 0)	
+		{									
+			nIndexArray[j] = nIndexArray[j - 1];			
+			j--;								
+			if (j == 0)							
+				break;							
+		}									
+		nIndexArray[j] = nTemp;						
+	}										
+
+RearRange함수도 만들어서 실제 배열을 재배열 하는 작업을 진행해야함
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

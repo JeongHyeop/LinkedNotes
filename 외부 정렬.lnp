@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>b182da98-03b0-4240-a54a-87e49ab1064d</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b8\'de\'b8\'f0\'b8\'ae\'c0\'c7 \'bf\'dc\'ba\'ce, \'c1\'ef \'b5\'f0\'bd\'ba\'c5\'a9 \'c0\'e5\'c4\'a1\'bf\'a1 \'c0\'d6\'b4\'c2 \'c6\'c4\'c0\'cf\'c0\'bb\'c1\'a4\'b7\'c4\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'bb \'c0\'c7\'b9\'cc\'c7\'d1\'b4\'d9.\par
+\'b8\'de\'b8\'f0\'b8\'ae\'bf\'a1 \'c8\'ae\'ba\'b8 \'b0\'a1\'b4\'c9\'c7\'d1 \'b3\'bb\'ba\'ce\'c1\'a4\'b7\'c4\'bf\'eb \'b8\'de\'b8\'f0\'b8\'ae \'b0\'f8\'b0\'a3\'c0\'bb \'b8\'b8\'b5\'e9\'be\'ee\'bc\'ad \'bf\'a9\'b1\'e2\'bf\'a1 \'c2\'f7\'b7\'ca\'b7\'ce \'b5\'f0\'bd\'ba\'c5\'a9 \'c6\'c4\'c0\'cf\'c0\'bb \'c2\'c9\'b0\'b3\'be\'ee \'c0\'d0\'b4\'c2\'b4\'d9. \'b3\'bb\'bf\'eb\'c0\'bb \'b3\'bb\'ba\'ce \'c1\'a4\'b7\'c4\'c7\'cf\'bf\'a9 \'b1\'d7 \'b0\'e1\'b0\'fa\'b8\'a6 \'c0\'d3\'bd\'c3 \'c6\'c4\'c0\'cf\'b7\'ce \'b5\'f0\'bd\'ba\'c5\'a9\'bf\'a1 \'bd\'e1 \'b3\'d6\'b4\'c2\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>외부 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T20:11:20.1984498+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T20:16:31.7912719+09:00</UpdatedOn>
+  <Words>메모리의 외부, 즉 디스크 장치에 있는 파일을정렬하는 방법을 의미한다.
+메모리에 확보 가능한 내부정렬용 메모리 공간을 만들어서 여기에 차례로 디스크 파일을 쪼개어 읽는다. 내용을 내부 정렬하여 그 결과를 임시 파일로 디스크에 써 넣는다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

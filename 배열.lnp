@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>eca03606-827c-4846-bbb4-ffde3bc14bc0</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b9\'e8\'bf\'ad\'c0\'ba \'c0\'d3\'c0\'c7\'b7\'ce \'c1\'f6\'c1\'a4\'c7\'d1 \'b0\'f8\'b0\'a3 \'b8\'b8\'c5\'ad \'b0\'b0\'c0\'ba \'c0\'da\'b7\'e1\'c7\'fc\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd \'c5\'b8\'c0\'d4\'c0\'cc \'b0\'f8\'b0\'a3\'be\'c8\'bf\'a1 \'bc\'f8\'c2\'f7\'c0\'fb\'c0\'b8\'b7\'ce \'bf\'ac\'b0\'e1 \'b5\'c7\'be\'ee\'c0\'d6\'b4\'c2 \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6 \par
+\par
+//\'c0\'e5\'c1\'a1\par
+-\'b1\'b8\'c7\'f6\'c0\'cc \'b0\'a3\'b4\'dc\'c7\'cf\'b4\'d9.\par
+\f1\fs20 -\f0\fs18\'bf\'ac\'bc\'d3\'b5\'c8 \'b0\'f8\'b0\'a3\'be\'c8\'bf\'a1 \'c0\'d6\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c0\'ce\'b5\'a6\'bd\'ba \'b9\'f8\'c8\'a3\'b7\'ce \'bd\'b1\'b0\'d4 \'c1\'a2\'b1\'d9 \'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9.\par
+//\'c0\'ce\'b5\'a6\'bd\'ba\'b7\'ce \'c1\'a2\'b1\'d9 \'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'bb\'f3\'bc\'f6\'bd\'c3\'b0\'a3\'c0\'bb \'ba\'b8\'c0\'e5\'c7\'d1\'b4\'d9.\par
+\par
+//\'b4\'dc\'c1\'a1\par
+-\'c0\'af\'c7\'d1\'c0\'fb\'c0\'cc\'b4\'d9. \'c5\'a9\'b1\'e2\'b8\'a6 \'b0\'ed\'c1\'a4\'c7\'cf\'b0\'ed \'bb\'e7\'bf\'eb\'c7\'d8\'be\'df\'c7\'d4.\par
+-\'bb\'f0\'c0\'d4, \'bb\'e8\'c1\'a6\'b0\'a1 \'ba\'d2\'c6\'ed\'c7\'cf\'b4\'d9 \'c0\'cc\'c0\'af\'b4\'c2 \'c7\'cf\'b3\'aa\'b8\'b8 \'b9\'d9\'b2\'e3\'b5\'b5 \'b4\'d9\'b8\'a5 \'b0\'f8\'b0\'a3\'be\'c8\'bf\'a1 \'b5\'a5\'c0\'cc\'c5\'cd\'b5\'e9\'c0\'bb \'b4\'e7\'b1\'e2\'b0\'c5\'b3\'aa \'b9\'d0\'be\'ee\'be\'df \'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\par
+-\'b8\'de\'b8\'f0\'b8\'ae\'c0\'c7 \'bf\'ac\'bc\'d3\'b5\'c8\'b0\'f8\'b0\'a3\'c0\'bb \'c2\'f7\'c1\'f6\'c7\'cf\'b4\'c2 \'b9\'ae\'c1\'a6\'b0\'a1 \'b0\'a1\'c0\'e5 \'c5\'a9\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>배열</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T14:16:07.8040727+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T13:33:44.9767794+09:00</UpdatedOn>
+  <Words>배열은 임의로 지정한 공간 만큼 같은 자료형의 데이터 타입이 공간안에 순차적으로 연결 되어있는 자료구조 
+
+//장점
+-구현이 간단하다.
+-연속된 공간안에 있기 때문에 인덱스 번호로 쉽게 접근 가능하다.
+//인덱스로 접근 하기 때문에 상수시간을 보장한다.
+
+//단점
+-유한적이다. 크기를 고정하고 사용해야함.
+-삽입, 삭제가 불편하다 이유는 하나만 바꿔도 다른 공간안에 데이터들을 당기거나 밀어야 하기 때문
+-메모리의 연속된공간을 차지하는 문제가 가장 크다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>17691066-328b-4559-be7f-abbe7620a2d0</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5 \'c1\'f8\'c7\'e0 \'bc\'f8\'bc\'ad\par
+\'bc\'d2\'bd\'ba\'c4\'da\'b5\'e5 -&gt; \'c0\'fc\'c3\'b3\'b8\'ae\'b1\'e2 -&gt; \'c4\'c4\'c6\'c4\'c0\'cf\'b7\'af -&gt; \'be\'ee\'bc\'c0\'ba\'ed\'b7\'af -&gt; \'b8\'b5\'c4\'bf\par
+\f1\par
+\f0\'bc\'d2\'bd\'ba\'c4\'da\'b5\'e5\'bf\'a1\'bc\'ad \'c0\'fc\'c3\'b3\'b8\'ae\'b1\'e2\'b8\'a6 \'c5\'eb\'c7\'cf\'bf\'a9 ".\f1 i\f0 " \'c6\'c4\'c0\'cf\'c0\'cc \'bb\'fd\'bc\'ba\'b5\'c8 \'c8\'c4\'bf\'a1 \'c4\'c4\'c6\'c4\'c0\'cf\'b7\'af\'b8\'a6 \'b0\'c5\'c3\'c4 \'c7\'cf\'b5\'e5\'bf\'fe\'be\'ee \'c1\'be\'bc\'d3\'c0\'fb\'c0\'ce \'be\'f0\'be\'ee \'be\'ee\'bc\'c0\'ba\'ed\'b8\'ae\'be\'ee\'b8\'a6 \'c0\'db\'bc\'ba\'c7\'d8 ".\f1 s\f0 "\'b8\'a6 \'bb\'fd\'bc\'ba\'c7\'cf\'b0\'ed \'be\'ee\'bc\'c0\'ba\'ed\'b7\'af\'b8\'a6 \'b0\'c5\'c3\'c4 ".\f1 o\f0 "\'bf\'c0\'ba\'ea\'c1\'a7\'c6\'ae \'c6\'c4\'c0\'cf\'c0\'bb \'bb\'fd\'bc\'ba\'c7\'d1 \'c8\'c4 \'b8\'b6\'c1\'f6\'b8\'b7\'c0\'b8\'b7\'ce \'b8\'b5\'c4\'bf\'bf\'cd \'c0\'e7\'b9\'e8\'c4\'a1 \'b0\'fa\'c1\'a4\'c0\'bb \'b0\'c5\'c3\'c4 \'bd\'c7\'c7\'e0 \'c6\'c4\'c0\'cf\'c0\'cc \'bb\'fd\'bc\'ba\'b5\'c8\'b4\'d9.\f1\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>프로그램 진행순서</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-21T17:06:03.528098+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-21T18:36:01.3828377+09:00</UpdatedOn>
+  <Words>프로그램 진행 순서
+소스코드 -&gt; 전처리기 -&gt; 컴파일러 -&gt; 어셈블러 -&gt; 링커
+
+소스코드에서 전처리기를 통하여 ".i" 파일이 생성된 후에 컴파일러를 거쳐 하드웨어 종속적인 언어 어셈블리어를 작성해 ".s"를 생성하고 어셈블러를 거쳐 ".o"오브젝트 파일을 생성한 후 마지막으로 링커와 재배치 과정을 거쳐 실행 파일이 생성된다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

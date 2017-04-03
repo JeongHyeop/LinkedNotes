@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>1d317df5-0464-483b-be3e-d23de7c01f90</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil DotumChe;}{\f4\fnil\fcharset129 DotumChe;}{\f5\fnil\fcharset0 DotumChe;}}
+{\colortbl ;\red87\green166\blue74;\red30\green30\blue30;\red220\green220\blue220;\red86\green156\blue214;\red200\green200\blue200;\red180\green180\blue180;\red127\green127\blue127;\red181\green206\blue168;\red189\green99\blue197;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c8\'fc\'c0\'ba \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7 \'c5\'a5 \'c0\'c7 \'c0\'cf\'c1\'be\'c0\'cc\'b4\'d9. \'bf\'ec\'bc\'b1\'bc\'f8\'c0\'a7\'b0\'a1 \'b3\'f4\'c0\'ba \'bf\'e4\'bc\'d2\'b8\'a6 \'c8\'bf\'c0\'b2\'c0\'fb\'c0\'b8\'b7\'ce \'bc\'b1\'c5\'c3\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'b8\'a6 \'c0\'c7\'b9\'cc, \'b3\'aa\'b9\'ab\'b1\'b8\'c1\'b6\'b7\'ce \'b8\'b8\'b5\'eb\par
+\par
+\'c8\'fc\'c1\'a4\'b7\'c4 \'b9\'e6\'b9\'fd\par
+-\'c8\'fc\'c0\'c7 \'bb\'d1\'b8\'ae\'b4\'c2 \'c0\'fc\'c3\'bc \'b7\'b9\'c4\'da\'b5\'e5 \'c1\'df\'bf\'a1\'bc\'ad \'b0\'a1\'c0\'e5 \'c5\'ab \'b7\'b9\'c4\'da\'b5\'e5\'b0\'a1 \'b5\'c8\'b4\'d9.\par
+-\'bb\'d1\'b8\'ae\'c0\'c7 \'c0\'da\'bd\'c4\'c0\'ba \'bb\'d1\'b8\'ae \'b4\'d9\'c0\'bd\'c0\'b8\'b7\'ce \'c5\'ab \'b5\'ce\'b0\'b3\'c0\'c7 \'b7\'b9\'c4\'da\'b5\'e5\'b0\'a1 \'b5\'c8\'b4\'d9.\par
+\par
+\'c0\'e5\'c1\'a1\par
+-\'c3\'df\'b0\'a1\'c0\'fb\'c0\'ce \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c0\'fc\'c7\'f4 \'c7\'ca\'bf\'e4\'c7\'cf\'c1\'f6 \'be\'ca\'b4\'d9.\par
+\'c6\'af\'c2\'a1\par
+-\'ba\'ce\'b0\'a1\'c0\'fb\'c0\'ce \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c0\'fc\'c7\'f4 \'c7\'ca\'bf\'e4\'be\'f8\'c0\'b8\'b8\'e9\'bc\'ad \f1 O(NlogN)\f2\'c0\'c7 \'bc\'ba\'b4\'c9\'c0\'bb \'b0\'a1\'c1\'f6\'b4\'c2 \'b8\'c5\'bf\'ec \'ba\'fc\'b8\'a5 \'c1\'a4\'b7\'c4\'b9\'fd\'c0\'cc\'b8\'e7 \'c0\'d4\'b7\'c2 \'c0\'da\'b7\'e1\'bf\'a1\'b5\'b5 \'b0\'c5\'c0\'c7 \'b9\'ab\'b0\'fc\'c7\'cf\'b0\'d4 \'b0\'ed\'b8\'a5 \'bc\'ba\'b4\'c9\'c0\'bb \'ba\'b8\'bf\'a9\'c1\'d6\'b4\'c2 \'b6\'d9\'be\'ee\'b3\'ad \'bc\'ba\'b4\'c9\'c0\'bb \'b0\'a1\'c1\'f6\'b0\'ed \'c0\'d6\'b4\'d9.\par
+\par
+\cf1\highlight2\f3\fs19 //\f4\'c8\'fc\'c0\'bb\f3  \f4\'c0\'fa\'c0\'e5\'c7\'d1\f3  \f4\'b9\'e8\'bf\'ad\'b0\'fa\f3  \f4\'c1\'f6\'c0\'a7\'b8\'a6\f3  \f4\'bb\'f3\'bd\'c2\'bd\'c3\'c5\'b3\f3  \f4\'b3\'eb\'b5\'e5\'c0\'c7\f3  \f4\'b9\'f8\'c8\'a3\f3 (\f4\'c3\'b7\'c0\'da\f3 )\f4\'b8\'a6\f3  \f4\'c0\'d4\'b7\'c2\'b9\'de\'be\'c6\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'c1\'b6\'b0\'c7\'bf\'a1\f3  \f4\'b8\'c2\'b0\'d4\f3  \f4\'c1\'f6\'c0\'a7\f3  \f4\'bb\'f3\'bd\'c2\cf3\f3\par
+\cf4 void\cf3  \cf5 UpHeap\cf6 (\cf4 int\cf3  \cf7 nArray\cf6 [],\cf3  \cf4 int\cf3  \cf7 keyIndex\cf6 )\{\f5\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf4 int\cf3  \cf5 value\cf3  \cf6 =\cf3  \cf8 0\cf6 ;\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf5 value\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf7 keyIndex\cf6 ];\cf3  \f5\tab\tab\tab\cf1\f3 //value\f4\'b4\'c2\f3  keyIndex\f4\'b9\'f8\f3  \f4\'b3\'eb\'b5\'e5\'c0\'c7\f3  \f4\'c5\'b0\'b0\'aa\'c0\'bb\f3  \f4\'b0\'a1\'c1\'f8\'b4\'d9\f3 .\cf3\par
+\tab\cf7 nArray\cf6 [\cf8 0\cf6 ]\cf3  \cf6 =\cf3  \cf9 INT_MAX\cf6 ;\cf3\tab   \cf1 //\f4\'ba\'b8\'c3\'ca\f3   //\f4\'c8\'fc\f3  \f4\'b9\'e8\'bf\'ad\'bf\'a1\f3  \f4\'c0\'fa\'c0\'e5\'c7\'d2\f3  \f4\'b6\'a7\'b4\'c2\f3  \f4\'b1\'d7\f3  \f4\'b9\'f8\'c8\'a3\'b0\'a1\f3 1\f4\'ba\'ce\'c5\'cd\f3  \f4\'bd\'c3\'c0\'db\'c7\'d8\'bc\'ad\f3  0\f4\'c0\'ba\f3  \f4\'be\'c8\'be\'b8\cf3\f3\par
+\tab\cf4 while\cf3  \cf6 (\cf7 nArray\cf6 [\cf7 keyIndex\cf6 /\cf8 2\cf6 ]\cf3  \cf6 &lt;=\cf3  \cf5 value\cf6 )\f5\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf6\{\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\cf7 nArray\cf6 [\cf7 keyIndex\cf6 ]\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf7 keyIndex\cf3  \cf6 /\cf3  \cf8 2\cf6 ];\cf1 //\f4\'bb\'f0\'c0\'d4\f3  \f4\'c1\'a4\'b7\'c4\'b0\'fa\f3  \f4\'c0\'af\'bb\'e7\'c7\'cf\'b4\'d9\f3 .\f5\tab\tab\cf3\f3\par
+\tab\tab\cf7 keyIndex\cf3  \cf6 /=\cf3  \cf8 2\cf6 ;\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf7 nArray\cf6 [\cf7 keyIndex\cf6 ]\cf3  \cf6 =\cf3  \cf5 value\cf6 ;\cf3\tab\tab\tab\f5\tab\cf1\f3 //\f4\'c1\'a6\'c0\'da\'b8\'ae\'bf\'a1\f3  value\f4\'b8\'a6\f3  \f4\'b3\'f5\'b4\'c2\'b4\'d9\f3 .\f5\tab\tab\cf3\f3\par
+\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\f3\par
+\par
+\cf1 //\f4\'b9\'e8\'bf\'ad\f3  nArray\f4\'bf\'cd\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'b3\'eb\'b5\'e5\'bc\'f6\f3  n\f4\'b0\'fa\f3  \f4\'c1\'f6\'c0\'a7\'b8\'a6\f3  \f4\'c7\'cf\'b0\'ad\'bd\'c3\'c5\'b3\f3  \f4\'b3\'eb\'b5\'e5\'c0\'c7\f3  \f4\'b9\'f8\'c8\'a3\f3  keyIndex\f4\'b8\'a6\f3  \f4\'c0\'ce\'c0\'da\'b7\'ce\f3  \f4\'b0\'a1\'c1\'f8\'b4\'d9\f3 .\f5\tab\cf3\f3\par
+\cf4 void\cf3  \cf5 DownHeap\cf6 (\cf4 int\cf3  \cf7 nArray\cf6 [],\cf3  \cf4 int\cf3  \cf7 n\cf6 ,\cf3  \cf4 int\cf3  \cf7 keyIndex\cf6 )\{\f5\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf4 int\cf3  \cf5 nIndex\cf3  \cf6 =\cf3  \cf8 0\cf6 ,\cf3  \cf5 value\cf3  \cf6 =\cf3  \cf8 0\cf6 ;\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf5 value\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf7 keyIndex\cf6 ];\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf4 while\cf3  \cf6 (\cf7 keyIndex\cf3  \cf6 &lt;=\cf3  \cf7 n\cf3  \cf6 /\cf3  \cf8 2\cf6 )\cf3\tab\f5\tab\tab\cf1\f3 //keyIndex\f4\'b0\'a1\f3  \f4\'b3\'bb\'ba\'ce\f3  \f4\'b3\'eb\'b5\'e5\'c0\'ce\f3  \f4\'b0\'e6\'bf\'ec\'bf\'a1\f3  \f4\'c7\'d1\'c7\'d8\'bc\'ad\tab\cf3\f3\par
+\tab\cf6\{\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\cf5 nIndex\cf3  \cf6 =\cf3  \cf7 keyIndex\cf3  \cf6 *\cf3  \cf8 2\cf6 ;\cf3\tab\f5\tab\cf1\f3 //nIndex\f4\'b4\'c2\f3  keyIndex\f4\'c0\'c7\f3  \f4\'bf\'de\'c2\'ca\f3  \f4\'c0\'da\'bd\'c4\f3  \f4\'b9\'f8\'c8\'a3\'c0\'cc\'b4\'d9\f3 .\f5\tab\cf3\f3\par
+\tab\tab\cf4 if\cf3  \cf6 (\cf5 nIndex\cf3  \cf6 &lt;\cf3  \cf7 n\cf3  \cf6 &amp;&amp;\cf3  \cf7 nArray\cf6 [\cf5 nIndex\cf6 ]\cf3  \cf6 &lt;\cf3  \cf7 nArray\cf6 [\cf5 nIndex\cf3  \cf6 +\cf3  \cf8 1\cf6 ])\f5\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\cf5 nIndex\cf6 ++;\cf3\tab\tab\tab\cf1 //\f4\'bf\'de\'c2\'ca\f3  \f4\'c0\'da\'bd\'c4\'b0\'fa\f3  \f4\'bf\'c0\'b8\'a5\'c2\'ca\f3  \f4\'c0\'da\'bd\'c4\'c1\'df\f3  \f4\'c5\'ab\f3  \f4\'b0\'cd\'c0\'bb\f3  \f4\'bc\'b1\'c5\'c3\tab\cf3\f3\par
+\tab\tab\cf4 if\cf3  \cf6 (\cf5 value\cf3  \cf6 &gt;=\cf3  \cf7 nArray\cf6 [\cf5 nIndex\cf6 ])\f5\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\tab\tab\cf4 break\cf6 ;\cf3\tab\tab\tab\tab\cf1 //\f4\'c8\'fc\f3  \f4\'c1\'b6\'b0\'c7\'c0\'bb\f3  \f4\'b8\'b8\'c1\'b7\'c7\'cf\'b8\'e9\f3  \f4\'c1\'df\'b4\'dc\tab\tab\tab\cf3\f3\par
+\tab\tab\cf7 nArray\cf6 [\cf7 keyIndex\cf6 ]\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf5 nIndex\cf6 ];\cf1 //\f4\'c8\'fc\f3  \f4\'c1\'b6\'b0\'c7\'c0\'bb\f3  \f4\'b8\'b8\'c1\'b7\'c7\'cf\'c1\'f6\f3  \f4\'be\'ca\'c0\'b8\'b8\'e9\f3  \f4\'bb\'f0\'c0\'d4\tab\tab\cf3\f3\par
+\tab\tab\cf7 keyIndex\cf3  \cf6 =\cf3  \cf5 nIndex\cf6 ;\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf7 nArray\cf6 [\cf7 keyIndex\cf6 ]\cf3  \cf6 =\cf3  \cf5 value\cf6 ;\cf3\tab\f5\tab\tab\cf1\f3 //keyIndex\f4\'b4\'c2\f3  value\f4\'b0\'a1\f3  \f4\'b5\'e9\'be\'ee\'b0\'a1\'be\'df\f3  \f4\'c7\'d2\f3  \f4\'c0\'da\'b8\'ae\'c0\'cc\'b4\'d9\f3 .\cf3\par
+\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\f3\par
+\par
+\cf1 //\f4\'c0\'ce\'c0\'da\f3  n \f4\'c0\'ba\f3  \f4\'c0\'fc\'c3\'bc\f3  \f4\'b9\'e8\'bf\'ad\'c5\'a9\'b1\'e2\'b0\'a1\f3  \f4\'be\'c6\'b4\'cf\'b6\'f3\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'c5\'a9\'b1\'e2\'b4\'d9\f3 .\f5\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\cf1 //\f4\'bb\'f0\'c0\'d4\'c0\'ba\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'b8\'bb\'b4\'dc\'bf\'a1\f3  \f4\'bb\'f5\'b7\'ce\'bf\'ee\f3  \f4\'b3\'eb\'b5\'e5\'b8\'a6\f3  \f4\'c3\'df\'b0\'a1\'c7\'cf\'b0\'ed\f3  \f4\'b1\'d7\'b0\'cd\'c0\'bb\f3  UpHeap\f4\'c7\'cf\'b8\'e9\f3  \f4\'b5\'c8\'b4\'d9\f3 .\f5\tab\tab\tab\tab\cf3\f3\par
+\cf4 void\cf3  \cf5 Insert\cf6 (\cf4 int\cf3  \cf7 nArray\cf6 [],\cf3  \cf4 int\cf3  \cf6 *\cf7 n\cf6 ,\cf3  \cf4 int\cf3  \cf7 value\cf6 )\{\f5\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf7 nArray\cf6 [++(*\cf7 n\cf6 )]\cf3  \cf6 =\cf3  \cf7 value\cf6 ;\cf3\tab\cf1 //\f4\'c8\'fc\'c0\'c7\f3  \f4\'b3\'eb\'b5\'e5\'bc\'f6\'b8\'a6\f3  \f4\'c1\'f5\'b0\'a1\'c7\'cf\'b0\'ed\f3  value\f4\'b8\'a6\f3  \f4\'c3\'df\'b0\'a1\tab\tab\tab\cf3\f3\par
+\tab\cf5 UpHeap\cf6 (\cf7 nArray\cf6 ,\cf3  \cf6 *\cf7 n\cf6 );\cf3\tab\tab\cf1 //UpHeap \f4\'b5\'bf\'c0\'db\f3  \f4\'bc\'f6\'c7\'e0\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\f3\par
+\par
+\cf1 //\f4\'b9\'e8\'bf\'ad\'b0\'fa\f3  \f4\'c8\'fc\'c0\'c7\'b3\'eb\'b5\'e5\'bc\'f6\f3  *n\f4\'c0\'bb\f3  \f4\'c0\'d4\'b7\'c2\'b9\'de\'be\'c6\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'bb\'d1\'b8\'ae\f3 (\f4\'b0\'a1\'c0\'e5\f3  \f4\'c5\'ab\'b0\'aa\f3 )\f4\'b8\'a6\f3  \f4\'b8\'ae\'c5\'cf\tab\tab\tab\tab\tab\cf3\f3\par
+\cf1 //\f4\'c8\'fc\'c0\'c7\f3  \f4\'b3\'eb\'b5\'e5\'bc\'f6\'b4\'c2\f3  \f4\'c7\'cf\'b3\'aa\f3  \f4\'b0\'a8\'bc\'d2\'c7\'cf\'b8\'e7\f3  \f4\'bb\'d1\'b8\'ae\'bf\'a1\'b4\'c2\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'b8\'bb\'b4\'dc\f3  \f4\'b3\'eb\'b5\'e5\'b8\'a6\f3  \f4\'c1\'fd\'be\'ee\'b3\'d6\'be\'ee\f3  DownHeap\f4\'bc\'f6\'c7\'e0\tab\tab\cf3\f3\par
+\cf4 int\cf3  \cf5 Remove\cf6 (\cf4 int\cf3  \cf7 nArray\cf6 [],\cf3  \cf4 int\cf3  \cf6 *\cf7 n\cf6 )\{\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf4 int\cf3  \cf5 value\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf8 1\cf6 ];\cf3\tab\tab\cf1 //nArray[1]\f4\'c0\'ba\f3  \f4\'bb\'d1\'b8\'ae\'c0\'cc\'b9\'c7\'b7\'ce\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'c3\'d6\'b4\'eb\'b0\'aa\'c0\'cc\'b4\'d9\f3 .\f5\tab\tab\cf3\f3\par
+\tab\cf7 nArray\cf6 [\cf8 1\cf6 ]\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [(*\cf7 n\cf6 )--];\f5\tab\cf3\f3\tab\cf1 //\f4\'bb\'d1\'b8\'ae\'c0\'c7\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'b8\'bb\'b4\'dc\f3  \f4\'b3\'eb\'b5\'e5\'b8\'a6\f3  \f4\'b3\'d6\'b0\'ed\f3  \f4\'b3\'eb\'b5\'e5\'bc\'f6\f3  \f4\'b0\'a8\'bc\'d2\tab\cf3\f3\par
+\tab\cf5 DownHeap\cf6 (\cf7 nArray\cf6 ,\cf3  \cf6 *\cf7 n\cf6 ,\cf3  \cf8 1\cf6 );\f5\tab\cf3\f3\tab\cf1 //\f4\'bb\'d1\'b8\'ae\f3  \f4\'b3\'eb\'b5\'e5\'b8\'a6\f3  \f4\'c8\'fc\'c0\'c7\f3  \f4\'c1\'b6\'b0\'c7\'bf\'a1\f3  \f4\'b8\'c2\'b0\'d4\f3  \f4\'c7\'cf\'b0\'ad\tab\tab\cf3\f3\par
+\tab\cf4 return\cf3  \cf5 value\cf6 ;\cf3\tab\tab\tab\tab\cf1 //\f4\'bf\'f8\'b7\'a1\f3  \f4\'bb\'d1\'b8\'ae\'c0\'c7\f3  \f4\'b0\'aa\f3 (\f4\'c8\'fc\'c0\'c7\f3  \f4\'c3\'d6\'b4\'eb\'b0\'aa\f3 )\f4\'c0\'bb\f3  \f4\'b8\'ae\'c5\'cf\tab\tab\cf3\f3\par
+\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\f3\par
+\par
+\cf4 void\cf3  \cf5 HeapSort\cf6 (\cf4 int\cf3  \cf7 nArray\cf6 [],\cf3  \cf4 int\cf3  \cf7 n\cf6 )\{\f5\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf4 int\cf3  \cf5 nIndex\cf3  \cf6 =\cf3  \cf8 0\cf6 ;\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f3\par
+\tab\cf4 int\cf3  \cf5 nHeapNode\cf3  \cf6 =\cf3  \cf8 0\cf6 ;\cf3\tab\tab\tab\tab\tab\f5   \cf1\f3 //\f4\'c8\'fc\'c0\'c7\f3  \f4\'b3\'eb\'b5\'e5\f3  \f4\'bc\'f6\tab\tab\tab\cf3\f3\par
+\tab\cf4 for\cf3  \cf6 (\cf5 nIndex\cf3  \cf6 =\cf3  \cf8 1\cf6 ;\cf3  \cf5 nIndex\cf3  \cf6 &lt;=\cf3  \cf7 n\cf6 ;\cf3  \cf5 nIndex\cf6 ++)\cf3\tab\tab\f5   \cf1\f3 //\f4\'b9\'e8\'bf\'ad\'c0\'c7\f3  \f4\'b0\'aa\'c0\'bb\f3  \f4\'c2\'f7\'b7\'ca\'b7\'ce\f3  \f4\'c8\'fc\'bf\'a1\f3  \f4\'bb\'f0\'c0\'d4\tab\cf3\f3\par
+\tab\tab\cf5 Insert\cf6 (\cf7 nArray\cf6 ,\cf3  \cf6 &amp;\cf5 nHeapNode\cf6 ,\cf3  \cf7 nArray\cf6 [\cf5 nIndex\cf6 ]);\cf1 //nArray\f4\'b9\'e8\'bf\'ad\'c0\'bb\f3  \f4\'c8\'fc\'c0\'b8\'b7\'ce\f3  \f4\'bb\'e7\'bf\'eb\tab\cf3\f3\par
+\tab\cf4 for\cf3  \cf6 (\cf5 nIndex\cf3  \cf6 =\cf3  \cf5 nHeapNode\cf6 ;\cf3  \cf5 nIndex\cf3  \cf6 &gt;=\cf3  \cf8 1\cf6 ;\cf3  \cf5 nIndex\cf6 --)\cf3\tab\f5   \cf1\f3 //\f4\'c8\'fc\'c0\'c7\f3  \f4\'c3\'d6\'b4\'eb\'b0\'aa\'c0\'bb\f3  \f4\'b2\'a8\'b3\'bb\'be\'ee\f3  \f4\'bf\'aa\'bc\'f8\'c0\'b8\'b7\'ce\f3  \f4\'c0\'fa\'c0\'e5\cf3\f3\par
+\tab\tab\cf7 nArray\cf6 [\cf5 nIndex\cf6 ]\cf3  \cf6 =\cf3  \cf5 Remove\cf6 (\cf7 nArray\cf6 ,\cf3  \cf6 &amp;\cf5 nHeapNode\cf6 );\f5\tab\tab\tab\tab\tab\cf3\f3\par
+\cf6\}\f5\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf0\highlight0\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>힙 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T22:01:16.2964493+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T19:49:01.4848797+09:00</UpdatedOn>
+  <Words>힙은 우선순위 큐 의 일종이다. 우선순위가 높은 요소를 효율적으로 선택할 수 있는 자료구조를 의미, 나무구조로 만듬
+
+힙정렬 방법
+-힙의 뿌리는 전체 레코드 중에서 가장 큰 레코드가 된다.
+-뿌리의 자식은 뿌리 다음으로 큰 두개의 레코드가 된다.
+
+장점
+-추가적인 메모리가 전혀 필요하지 않다.
+특징
+-부가적인 메모리가 전혀 필요없으면서 O(NlogN)의 성능을 가지는 매우 빠른 정렬법이며 입력 자료에도 거의 무관하게 고른 성능을 보여주는 뛰어난 성능을 가지고 있다.
+
+//힙을 저장한 배열과 지위를 상승시킬 노드의 번호(첨자)를 입력받아 힙의 조건에 맞게 지위 상승
+void UpHeap(int nArray[], int keyIndex){								
+	int value = 0;										
+	value = nArray[keyIndex]; 			//value는 keyIndex번 노드의 키값을 가진다.
+	nArray[0] = INT_MAX;	  //보초  //힙 배열에 저장할 때는 그 번호가1부터 시작해서 0은 안씀
+	while (nArray[keyIndex/2] &lt;= value)							
+	{												
+		nArray[keyIndex] = nArray[keyIndex / 2];//삽입 정렬과 유사하다.		
+		keyIndex /= 2;									
+	}												
+	nArray[keyIndex] = value;				//제자리에 value를 놓는다.		
+}													
+
+//배열 nArray와 힙의 노드수 n과 지위를 하강시킬 노드의 번호 keyIndex를 인자로 가진다.	
+void DownHeap(int nArray[], int n, int keyIndex){						
+	int nIndex = 0, value = 0;									
+	value = nArray[keyIndex];									
+	while (keyIndex &lt;= n / 2)			//keyIndex가 내부 노드인 경우에 한해서	
+	{												
+		nIndex = keyIndex * 2;		//nIndex는 keyIndex의 왼쪽 자식 번호이다.	
+		if (nIndex &lt; n &amp;&amp; nArray[nIndex] &lt; nArray[nIndex + 1])				
+			nIndex++;			//왼쪽 자식과 오른쪽 자식중 큰 것을 선택	
+		if (value &gt;= nArray[nIndex])							
+			break;				//힙 조건을 만족하면 중단			
+		nArray[keyIndex] = nArray[nIndex];//힙 조건을 만족하지 않으면 삽입		
+		keyIndex = nIndex;									
+	}												
+	nArray[keyIndex] = value;			//keyIndex는 value가 들어가야 할 자리이다.
+}													
+
+//인자 n 은 전체 배열크기가 아니라 힙의 크기다.							
+//삽입은 힙의 말단에 새로운 노드를 추가하고 그것을 UpHeap하면 된다.				
+void Insert(int nArray[], int *n, int value){							
+	nArray[++(*n)] = value;	//힙의 노드수를 증가하고 value를 추가			
+	UpHeap(nArray, *n);		//UpHeap 동작 수행						
+}													
+
+//배열과 힙의노드수 *n을 입력받아 힙의 뿌리(가장 큰값)를 리턴					
+//힙의 노드수는 하나 감소하며 뿌리에는 힙의 말단 노드를 집어넣어 DownHeap수행		
+int Remove(int nArray[], int *n){									
+	int value = nArray[1];		//nArray[1]은 뿌리이므로 힙의 최대값이다.		
+	nArray[1] = nArray[(*n)--];		//뿌리의 힙의 말단 노드를 넣고 노드수 감소	
+	DownHeap(nArray, *n, 1);		//뿌리 노드를 힙의 조건에 맞게 하강		
+	return value;				//원래 뿌리의 값(힙의 최대값)을 리턴		
+}													
+
+void HeapSort(int nArray[], int n){								
+	int nIndex = 0;										
+	int nHeapNode = 0;					  //힙의 노드 수			
+	for (nIndex = 1; nIndex &lt;= n; nIndex++)		  //배열의 값을 차례로 힙에 삽입	
+		Insert(nArray, &amp;nHeapNode, nArray[nIndex]);//nArray배열을 힙으로 사용	
+	for (nIndex = nHeapNode; nIndex &gt;= 1; nIndex--)	  //힙의 최대값을 꺼내어 역순으로 저장
+		nArray[nIndex] = Remove(nArray, &amp;nHeapNode);					
+}													</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

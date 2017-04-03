@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>9c1c219b-1b30-4e34-a6bb-d66da39c8901</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 class Parent\par
+\{\par
+\tab string s;\par
+public:\par
+\tab Parent () : s("\f1\'ba\'ce\'b8\'f0") \par
+\tab\{\par
+\tab\tab cout &lt;&lt; "\'ba\'ce\'b8\'f0 \'c5\'ac\'b7\'a1\'bd\'ba" &lt;&lt; endl;\par
+\tab\}\par
+\tab void what() \{ cout &lt;&lt; s &lt;&lt; endl;\}\par
+\};\par
+class Child : public Parent\par
+\{\par
+\tab string s;\par
+public:\par
+\tab Child () : s("\'c0\'da\'bd\'c4"), Parent() \par
+\tab\{\par
+\tab\tab cout &lt;&lt; "\'c0\'da\'bd\'c4 \'c5\'ac\'b7\'a1\'bd\'ba" &lt;&lt; endl;\par
+\tab\}\par
+\tab void what() \{ cout &lt;&lt; s &lt;&lt; endl;\}\par
+\};\par
+int main()\par
+\{\par
+\tab cout &lt;&lt; " === \'ba\'ce\'b8\'f0 \'c5\'ac\'b7\'a1\'bd\'ba \'bb\'fd\'bc\'ba ===" &lt;&lt; endl;\par
+\tab Parent p;\par
+\tab p.what();\par
+\tab cout &lt;&lt; " === \'c0\'da\'bd\'c4 \'c5\'ac\'b7\'a1\'bd\'ba \'bb\'fd\'bc\'ba ===" &lt;&lt; endl;\par
+\tab Child c;\par
+\tab c.what();\par
+\tab return 0;\par
+\}\par
+\par
+\f0\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>오버라이딩</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-03T11:04:05.8464275+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-03T11:11:00.2837883+09:00</UpdatedOn>
+  <Words>class Parent
+{
+	string s;
+public:
+	Parent () : s("부모") 
+	{
+		cout &lt;&lt; "부모 클래스" &lt;&lt; endl;
+	}
+	void what() { cout &lt;&lt; s &lt;&lt; endl;}
+};
+class Child : public Parent
+{
+	string s;
+public:
+	Child () : s("자식"), Parent() 
+	{
+		cout &lt;&lt; "자식 클래스" &lt;&lt; endl;
+	}
+	void what() { cout &lt;&lt; s &lt;&lt; endl;}
+};
+int main()
+{
+	cout &lt;&lt; " === 부모 클래스 생성 ===" &lt;&lt; endl;
+	Parent p;
+	p.what();
+	cout &lt;&lt; " === 자식 클래스 생성 ===" &lt;&lt; endl;
+	Child c;
+	c.what();
+	return 0;
+}
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

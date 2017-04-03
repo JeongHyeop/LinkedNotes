@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>ea31ad6f-6ab4-4e66-adcf-22e7cc846de5</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil DotumChe;}{\f2\fnil\fcharset129 DotumChe;}{\f3\fnil\fcharset0 DotumChe;}{\f4\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red87\green166\blue74;\red30\green30\blue30;\red220\green220\blue220;\red86\green156\blue214;\red200\green200\blue200;\red180\green180\blue180;\red127\green127\blue127;\red181\green206\blue168;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b1\'e2\'bc\'f6 \'b1\'b3\'c8\'af \'c1\'a4\'b7\'c4\'c0\'ba \'ba\'f1\'c6\'ae\'ba\'b0\'b7\'ce \'ba\'d0\'c7\'d2\'c7\'cf\'bf\'a9 \'c0\'e7\'b1\'cd\'c8\'a3\'c3\'e2\'c7\'cf\'b4\'c2 \'b8\'f0\'bd\'c0\'c0\'cc \'b8\'b6\'c4\'a1 \'c4\'fc \'c1\'a4\'b7\'c4\'b0\'fa \'ba\'f1\'bd\'c1\'c7\'cf\'b4\'d9. \'c5\'b0\'c0\'c7 \'ba\'f1\'c6\'ae\'b8\'a6 \'bf\'de\'c2\'ca\'bf\'a1\'bc\'ad \'bf\'c0\'b8\'a5\'c2\'ca\'c0\'b8\'b7\'ce \'b0\'cb\'bb\'e7\par
+\'c7\'d1\'b4\'d9.\par
+\'b1\'e2\'bc\'f6 \'b1\'b3\'c8\'af \'c1\'a4\'b7\'c4 \'b9\'e6\'b9\'fd\par
+-\'c5\'b0\'b0\'aa\'c0\'c7 \'c3\'d6\'c1\'c2\'c3\'f8 \'ba\'f1\'c6\'ae\'ba\'ce\'c5\'cd \'c2\'f7\'b7\'ca\'b4\'eb\'b7\'ce \'b0\'cb\'bb\'e7\'c7\'cf\'b8\'e9\'bc\'ad \'ba\'f1\'c6\'ae\'b0\'a1 0\'c0\'ce \'b7\'b9\'c4\'da\'b5\'e5\'b8\'a6 \'be\'d5\'c0\'b8\'b7\'ce \'ba\'f1\'c6\'ae\'b0\'a1 1\'c0\'ce \'b7\'b9\'c4\'da\'b5\'e5\'b8\'a6 \'b5\'da\'b7\'ce \'ba\'b8\'b3\'bb\'b4\'c2 \'ba\'d0\'c7\'d2\'c0\'c7 \'b0\'fa\'c1\'a4\'c0\'bb \'b9\'dd\'ba\'b9\'c7\'cf\'b8\'e9\'bc\'ad \'c0\'e7\'b1\'cd\'c7\'d8 \'b3\'aa\'b0\'a8\par
+\par
+\'c0\'e5\'c1\'a1\par
+-\'ba\'f1\'c6\'ae\'ba\'b0\'b7\'ce \'ba\'d0\'c7\'d2\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c3\'d6\'be\'c7\'c0\'c7 \'b0\'e6\'bf\'ec\'b0\'a1 \'be\'f8\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'c0\'e7\'b1\'cd\'c7\'d4\'bc\'f6\'c0\'c7 \'bb\'e7\'bf\'eb\par
+-\'c0\'da\'b7\'e1\'c7\'fc\'bf\'a1\'b5\'fb\'b6\'f3 \'ba\'f1\'c6\'ae\'c0\'c7 \'bc\'f6\'b0\'a1 \'b4\'de\'b6\'f3\'c1\'f6\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c5\'b0 \'b0\'aa\'c0\'cc \'c0\'db\'c0\'ba \'ba\'f1\'c6\'ae\'bc\'f6\'b7\'ce\'b8\'b8 \'c0\'cc\'b7\'e7\'be\'ee \'c1\'ae\'be\'df \'c7\'d1\'b4\'d9 \'be\'c6\'b4\'cf\'b8\'e9 \'bf\'a1\'b7\'af\par
+\par
+\cf1\highlight2\f1\fs19 //bitNumber \f2\'ba\'f1\'c6\'ae\'c0\'c7\f1  \f2\'b9\'f8\'c8\'a3\f1 , bitCechkNum \f2\'ba\'f1\'c6\'ae\'b8\'a6\f1  \f2\'ba\'af\'c8\'af\'c7\'d2\f1  \f2\'b0\'b3\'bc\'f6\tab\tab\tab\tab\tab\cf3\f1\par
+\cf4 unsigned\cf3  \cf5 Bits\cf6 (\cf4 unsigned\cf3  \cf7 bit\cf6 ,\cf3  \cf4 int\cf3  \cf7 bitNumber\cf6 ,\cf3  \cf4 int\cf3  \cf7 bitCheckNum\cf6 )\{\f3\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\cf4 return\cf3  \cf6 (\cf7 bit\cf3  \cf6 &gt;&gt;\cf3  \cf7 bitNumber\cf6 )\cf3  \cf6 &amp;\cf3  \cf6 ~(~\cf8 0\cf3  \cf6 &lt;&lt;\cf3  \cf7 bitCheckNum\cf6 );\f3\tab\tab\tab\tab\tab\f1\par
+\}\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\f1\par
+\cf1 //bitNum \f2\'ba\'f1\'c6\'ae\'c0\'c7\'bc\'f6\'b4\'c2\f1  (int\f2\'c7\'fc\f1  \f2\'b9\'e8\'bf\'ad\'c0\'ba\f1  16\f2\'ba\'f1\'c6\'ae\f1 ) \f2\'bb\'e7\'bf\'eb\'bd\'c3\'bf\'a1\f1  15\f2\'b8\'a6\f1  \f2\'b3\'d6\'be\'ee\'bc\'ad\f1  \f2\'bb\'e7\'bf\'eb\tab\tab\tab\tab\cf3\f1\par
+\cf4 void\cf3  \cf5 RadixExchangeSort\cf6 (\cf4 int\cf3  \cf7 nArray\cf6 [],\cf3  \cf4 int\cf3  \cf7 n\cf6 ,\cf3  \cf4 int\cf3  \cf7 bitNum\cf6 )\{\f3\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\cf4 int\cf3  \cf5 nTemp\cf3  \cf6 =\cf3  \cf8 0\cf6 ,\cf3  \cf5 nIndex1\cf3  \cf6 =\cf3  \cf8 0\cf6 ,\cf3  \cf5 nIndex2\cf3  \cf6 =\cf3  \cf8 0\cf6 ;\f3\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\cf4 if\cf3  \cf6 (\cf7 n\cf3  \cf6 &gt;\cf3  \cf8 1\cf3  \cf6 &amp;&amp;\cf3  \cf7 bitNum\cf3  \cf6 &gt;=\cf3  \cf8 0\cf6 )\cf3\tab\tab\tab\tab\tab\tab\cf1 //\f2\'c1\'be\'b7\'e1\f1  \f2\'c1\'b6\'b0\'c7\tab\tab\cf3\f1\par
+\tab\cf6\{\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\cf5 nIndex1\cf3  \cf6 =\cf3  \cf8 0\cf6 ;\cf3\tab\tab\tab\tab\tab\tab\tab\cf1 //\f2\'c3\'b9\'b9\'f8\'c2\'b0\f1  \f2\'b7\'b9\'c4\'da\'b5\'e5\tab\cf3\f1\par
+\tab\tab\cf5 nIndex2\cf3  \cf6 =\cf3  \cf7 n\cf3  \cf6 -\cf3  \cf8 1\cf6 ;\cf3\tab\tab\tab\tab\tab\tab\cf1 //\f2\'b8\'b6\'c1\'f6\'b8\'b7\f1  \f2\'b7\'b9\'c4\'da\'b5\'e5\tab\cf3\f1\par
+\tab\tab\cf4 while\cf3  \cf6 (\cf4 true\cf6 )\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\cf6\{\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\f3    \cf4\f1 while\cf3  \cf6 (\cf5 Bits\cf6 (\cf7 nArray\cf6 [\cf5 nIndex1\cf6 ],\cf3  \cf7 bitNum\cf6 ,\cf3  \cf8 1\cf6 )\cf3  \cf6 ==\cf3  \cf8 0\cf3  \cf6 &amp;&amp;\cf3  \cf5 nIndex1\cf3  \cf6 &lt;\cf3  \cf5 nIndex2\cf6 )\cf5 nIndex1\cf6 ++;\cf1 //\f2\'b0\'cb\'bb\'f6\cf3\f1\par
+\f3    \f1\tab\f3    \cf4\f1 while\cf3  \cf6 (\cf5 Bits\cf6 (\cf7 nArray\cf6 [\cf5 nIndex2\cf6 ],\cf3  \cf7 bitNum\cf6 ,\cf3  \cf8 1\cf6 )\cf3  \cf6 !=\cf3  \cf8 0\cf3  \cf6 &amp;&amp;\cf3  \cf5 nIndex1\cf3  \cf6 &lt;\cf3  \cf5 nIndex2\cf6 )\cf5 nIndex2\cf6 --;\cf1 //\f2\'b0\'cb\'bb\'f6\cf3\f1\par
+\tab\tab\tab\cf4 if\cf3  \cf6 (\cf5 nIndex1\cf3  \cf6 &gt;=\cf3  \cf5 nIndex2\cf6 )\f3\tab\cf3\f1\tab\cf1 //nIndex1\f2\'b0\'fa\f1  nIndex2\f2\'b0\'a1\f1  \f2\'b0\'b0\'be\'c6\'c1\'f6\'b8\'e9\f1  \f2\'b3\'a1\tab\cf3\f1\par
+\tab\tab\tab\tab\cf4 break\cf6 ;\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\tab\cf5 nTemp\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf5 nIndex1\cf6 ];\f3\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\tab\cf7 nArray\cf6 [\cf5 nIndex1\cf6 ]\cf3  \cf6 =\cf3  \cf7 nArray\cf6 [\cf5 nIndex2\cf6 ];\f3\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\tab\cf7 nArray\cf6 [\cf5 nIndex2\cf6 ]\cf3  \cf6 =\cf3  \cf5 nTemp\cf6 ;\f3\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\cf6\}\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\cf4 if\cf3  \cf6 (\cf5 Bits\cf6 (\cf7 nArray\cf6 [\cf7 n\cf3  \cf6 -\cf3  \cf8 1\cf6 ],\cf3  \cf7 bitNum\cf6 ,\cf3  \cf8 1\cf6 )\cf3  \cf6 ==\cf3  \cf8 0\cf6 )\f3\tab\cf3\f1\tab\cf1 //\f2\'ba\'f1\'c6\'ae\'b0\'a1\f1  \f2\'b8\'f0\'b5\'ce\f1  0\f2\'c0\'ce\f1  \f2\'b0\'e6\'bf\'ec\f1  \f2\'bf\'b9\'bf\'dc\f1  \f2\'c3\'b3\'b8\'ae\cf3\f1\par
+\tab\tab\tab\cf5 nIndex2\cf6 ++;\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf3\f1\par
+\tab\tab\cf5 RadixExchangeSort\cf6 (\cf7 nArray\cf6 ,\cf3  \cf5 nIndex2\cf6 ,\cf3  \cf7 bitNum\cf3  \cf6 -\cf3  \cf8 1\cf6 );\cf3\tab\cf1 //\f2\'b4\'d9\'c0\'bd\f1  \f2\'ba\'f1\'c6\'ae\f1  \f2\'ba\'d0\'c7\'d2\'bf\'a1\f1  \f2\'b4\'eb\'c7\'d8\f1  \f2\'c0\'e7\'b1\'cd\cf3\f1\par
+\tab\tab\cf5 RadixExchangeSort\cf6 (\cf7 nArray\cf3  \cf6 +\cf3  \cf5 nIndex2\cf6 ,\cf3  \cf7 n\cf3  \cf6 -\cf3  \cf5 nIndex2\cf6 ,\cf3  \cf7 bitNum\cf3  \cf6 -\cf3  \cf8 1\cf6 );\f3\tab\tab\tab\cf3\f1\par
+\tab\cf6\}\cf3\tab\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\f1\par
+\cf6\}\f3\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\cf0\highlight0\f0\fs18\par
+\f4\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>기수 교환 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T14:26:06.0843893+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T15:21:05.5001051+09:00</UpdatedOn>
+  <Words>기수 교환 정렬은 비트별로 분할하여 재귀호출하는 모습이 마치 퀵 정렬과 비슷하다. 키의 비트를 왼쪽에서 오른쪽으로 검사
+한다.
+기수 교환 정렬 방법
+-키값의 최좌측 비트부터 차례대로 검사하면서 비트가 0인 레코드를 앞으로 비트가 1인 레코드를 뒤로 보내는 분할의 과정을 반복하면서 재귀해 나감
+
+장점
+-비트별로 분할하기 때문에 최악의 경우가 없다.
+
+단점
+-재귀함수의 사용
+-자료형에따라 비트의 수가 달라지기 때문에 키 값이 작은 비트수로만 이루어 져야 한다 아니면 에러
+
+//bitNumber 비트의 번호, bitCechkNum 비트를 변환할 개수					
+unsigned Bits(unsigned bit, int bitNumber, int bitCheckNum){					
+	return (bit &gt;&gt; bitNumber) &amp; ~(~0 &lt;&lt; bitCheckNum);					
+}													
+//bitNum 비트의수는 (int형 배열은 16비트) 사용시에 15를 넣어서 사용				
+void RadixExchangeSort(int nArray[], int n, int bitNum){					
+	int nTemp = 0, nIndex1 = 0, nIndex2 = 0;							
+	if (n &gt; 1 &amp;&amp; bitNum &gt;= 0)						//종료 조건		
+	{												
+		nIndex1 = 0;							//첫번째 레코드	
+		nIndex2 = n - 1;						//마지막 레코드	
+		while (true)										
+		{											
+	   while (Bits(nArray[nIndex1], bitNum, 1) == 0 &amp;&amp; nIndex1 &lt; nIndex2)nIndex1++;//검색
+   	   while (Bits(nArray[nIndex2], bitNum, 1) != 0 &amp;&amp; nIndex1 &lt; nIndex2)nIndex2--;//검색
+			if (nIndex1 &gt;= nIndex2)		//nIndex1과 nIndex2가 같아지면 끝	
+				break;									
+			nTemp = nArray[nIndex1];							
+			nArray[nIndex1] = nArray[nIndex2];						
+			nArray[nIndex2] = nTemp;							
+		}											
+		if (Bits(nArray[n - 1], bitNum, 1) == 0)		//비트가 모두 0인 경우 예외 처리
+			nIndex2++;									
+		RadixExchangeSort(nArray, nIndex2, bitNum - 1);	//다음 비트 분할에 대해 재귀
+		RadixExchangeSort(nArray + nIndex2, n - nIndex2, bitNum - 1);			
+	}												
+}													
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>407a2e83-ca6d-47f9-83a3-af53c667b103</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 dynamic_cast\f1\fs18\'b4\'c2 \f0 c++\f1\'bf\'a1\'bc\'ad\'b8\'b8 \'bb\'e7\'bf\'eb\'c7\'d2 \'bc\'f6 \'c0\'d6\'b0\'ed \f0 c\f1\'be\'f0\'be\'ee\'bf\'a1\'bc\'ad\'b4\'c2 \'bb\'e7\'bf\'eb \'ba\'d2\'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9.\par
+\'c0\'cc\'c0\'af\'b4\'c2 \'bc\'ad\'b7\'ce \'bb\'f3\'bc\'d3\'b0\'fc\'b0\'e8\'bf\'a1 \'c0\'d6\'b4\'c2 \'c5\'ac\'b7\'a1\'bd\'ba \'b0\'a3\'bf\'a1\'bc\'ad\'b8\'b8 \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d2\'b6\'a7\'b8\'b8 \'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9. \'c0\'cc \'c7\'fc\'ba\'af\'c8\'af\'c0\'c7 \'c6\'af\'c2\'a1\'c0\'ba \'c7\'fc\'ba\'af\'c8\'af\'b0\'fa \'b5\'bf\'bd\'c3\'bf\'a1 \'c0\'cc \'c7\'fc\'ba\'af\'c8\'af\'c0\'cc \'be\'c8\'c0\'fc\'c7\'d1 \'b0\'cd\'c0\'ce\'c1\'f6 \'c8\'ae\'c0\'ce\'c7\'d8\'c1\'d6\'b0\'ed \'b0\'cb\'bb\'e7\'c7\'d8\'c1\'dc\par
+\par
+\f0 ex)\par
+class Parent\par
+class Child : public Parent\par
+\pard class Child1 : public Parent\par
+\pard\fs20\par
+Parent *p = new Parent();\par
+Child* child = dynamic_cast&lt;Child1&gt; (p);\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>dynamic_cast</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T15:17:18.7376912+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-21T15:35:50.1674715+09:00</UpdatedOn>
+  <Words>dynamic_cast는 c++에서만 사용할 수 있고 c언어에서는 사용 불가능하다.
+이유는 서로 상속관계에 있는 클래스 간에서만 형변환을 사용할때만 가능하다. 이 형변환의 특징은 형변환과 동시에 이 형변환이 안전한 것인지 확인해주고 검사해줌
+
+ex)
+class Parent
+class Child : public Parent
+class Child1 : public Parent
+
+Parent *p = new Parent();
+Child* child = dynamic_cast&lt;Child1&gt; (p);</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

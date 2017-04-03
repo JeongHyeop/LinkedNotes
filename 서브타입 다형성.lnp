@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>be00aa3a-6eba-49a9-b054-1ff13aae7183</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 (\f1\fs18\'b7\'b1\'c5\'b8\'c0\'d3 \'b4\'d9\'c7\'fc\'bc\'ba\f0\fs20 )\par
+\f1\fs18\'ba\'a3\'c0\'cc\'bd\'ba \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'b6\'c7\'b4\'c2 \'c2\'fc\'c1\'b6\'c7\'fc\'c0\'bb \'c5\'eb\'c7\'d8 \'c6\'c4\'bb\'fd \'c5\'ac\'b7\'a1\'bd\'ba\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b1\'e2\'b4\'c9\par
+\par
+\'bc\'ad\'ba\'ea\'c5\'b8\'c0\'d4 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'b7\'b1\'c5\'b8\'c0\'d3 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc\'b6\'f3\'b0\'ed \'ba\'ce\'b8\'a3\'b1\'e2\'b5\'b5 \'c7\'d1\'b4\'d9. \'b4\'d9\'c7\'fc\'bc\'ba \'c7\'d4\'bc\'f6\'c0\'c7 \'c8\'a3\'c3\'e2 \'b0\'e1\'c1\'a4\'c0\'ba \'b7\'b1\'c5\'b8\'c0\'d3\'bf\'a1 \'b0\'a1\'bb\'f3 \'c5\'d7\'c0\'cc\'ba\'ed\'c0\'bb \'c5\'eb\'c7\'d1 \'b0\'a3\'c1\'a2 \'c2\'fc\'c1\'b6\'b8\'a6 \'c5\'eb\'c7\'d8 \'c0\'cf\'be\'ee\'b3\'ad\'b4\'d9. \'c1\'bb \'b4\'f5 \'bd\'b1\'b0\'d4 \'bc\'b3\'b8\'ed\'c7\'cf\'c0\'da\'b8\'e9, \'c4\'c4\'c6\'c4\'c0\'cf\'b7\'af\'b0\'a1 \'c4\'c4\'c6\'c4\'c0\'cf \'c5\'b8\'c0\'d3 \'b6\'a7 \'c8\'a3\'c3\'e2\'b5\'c9 \'c7\'d4\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'c3\'a3\'b4\'c2 \'b0\'cd\'c0\'cc \'be\'c6\'b4\'cf\'b6\'f3 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'bb \'bd\'c7\'c7\'e0\'c7\'d2 \'b6\'a7 \'b0\'a1\'bb\'f3 \'c5\'d7\'c0\'cc\'ba\'ed\'bf\'a1 \'c0\'d6\'b4\'c2 \'bf\'c0\'b8\'a5\'c2\'ca \'c6\'f7\'c0\'ce\'c5\'cd\'b8\'a6 \'bf\'aa\'c2\'fc\'c1\'b6\'c7\'d8 \'c7\'d4\'bc\'f6\'b8\'a6 \'c8\'a3\'c3\'e2\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc\'b4\'d9.\par
+\par
+\'bf\'b9\'c1\'a6)\par
+class Felid \{\par
+    public:\par
+        virtual void meow() = 0;\par
+\};\par
+\par
+class Cat : public Felid \{\par
+public:\par
+    void meow() \{ std::cout &lt;&lt; "Meowing like a regular cat! meow!\\n"; \}\par
+\};\par
+\par
+class Tiger : public Felid \{\par
+public:\par
+    void meow() \{ std::cout &lt;&lt; "Meowing like a tiger! MREOWWW!\\n"; \}\par
+\};\par
+\par
+class Ocelot : public Felid \{\par
+public:\par
+    void meow() \{ std::cout &lt;&lt; "Meowing like an ocelot! mews!\\n"; \}\par
+\};\par
+\par
+void do_meowing(Felid *cat) \{\par
+    cat-&gt;meow();\par
+\}\par
+\par
+int main() \{\par
+    Cat cat;\par
+    Tiger tiger;\par
+    Ocelot ocelot;\par
+\par
+    do_meowing(&amp;cat);\par
+    do_meowing(&amp;tiger);\par
+    do_meowing(&amp;ocelot);\par
+\}\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>서브타입 다형성</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-03T10:15:19.6685069+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-03T10:22:47.1924973+09:00</UpdatedOn>
+  <Words>(런타임 다형성)
+베이스 클래스의 포인터 또는 참조형을 통해 파생 클래스를 사용하는 기능
+
+서브타입 다형성은 런타임 다형성이라고 부르기도 한다. 다형성 함수의 호출 결정은 런타임에 가상 테이블을 통한 간접 참조를 통해 일어난다. 좀 더 쉽게 설명하자면, 컴파일러가 컴파일 타임 때 호출될 함수의 주소를 찾는 것이 아니라 프로그램을 실행할 때 가상 테이블에 있는 오른쪽 포인터를 역참조해 함수를 호출하는 것이다.
+
+예제)
+class Felid {
+    public:
+        virtual void meow() = 0;
+};
+
+class Cat : public Felid {
+public:
+    void meow() { std::cout &lt;&lt; "Meowing like a regular cat! meow!\n"; }
+};
+
+class Tiger : public Felid {
+public:
+    void meow() { std::cout &lt;&lt; "Meowing like a tiger! MREOWWW!\n"; }
+};
+
+class Ocelot : public Felid {
+public:
+    void meow() { std::cout &lt;&lt; "Meowing like an ocelot! mews!\n"; }
+};
+
+void do_meowing(Felid *cat) {
+    cat-&gt;meow();
+}
+
+int main() {
+    Cat cat;
+    Tiger tiger;
+    Ocelot ocelot;
+
+    do_meowing(&amp;cat);
+    do_meowing(&amp;tiger);
+    do_meowing(&amp;ocelot);
+}</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

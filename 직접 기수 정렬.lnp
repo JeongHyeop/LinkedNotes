@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>7c696f22-3823-4fb8-b027-4e8d22249d86</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c1\'f7\'c1\'a2 \'b1\'e2\'bc\'f6 \'c1\'a4\'b7\'c4\'c0\'ba \'ba\'d0\'c6\'f7\'bc\'f6\'bc\'bc\'b1\'e2\'b8\'a6 \'c8\'b0\'bf\'eb\'c7\'d1 \'b0\'cd\'c0\'b8\'b7\'ce \'bf\'c0\'b8\'a5\'c2\'ca\'bf\'a1\'bc\'ad \'bf\'de\'c2\'ca\'c0\'b8\'b7\'ce \'ba\'f1\'c6\'ae\'b8\'a6 \'b0\'cb\'bb\'e7\'c7\'cf\'b8\'e9\'bc\'ad \'ba\'d0\'c6\'f7\'bc\'f6\'bc\'bc\'b1\'e2\'b8\'a6 \'c7\'d1\'b4\'d9.\par
+\par
+\'c0\'e5\'c1\'a1\par
+-\'c5\'b0\'b0\'aa\'c0\'cc \'c0\'db\'c0\'ba \'ba\'f1\'c6\'ae\'b7\'ce \'c0\'cc\'b7\'e7\'be\'ee\'c1\'fa \'b6\'a7 \'c1\'a4\'b7\'c4 \'b9\'e6\'b9\'fd\'c1\'df\'bf\'a1\'bc\'ad \'b0\'a1\'c0\'e5 \'ba\'fc\'b8\'a5 \'bc\'d3\'b5\'b5\'b8\'a6 \'b3\'bd\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'b0\'a1\'c0\'e5 \'b8\'b9\'c0\'ba \'c3\'df\'b0\'a1\'c0\'fb\'c0\'ce \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c7\'ca\'bf\'e4\'c7\'cf\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'b8\'b9\'c0\'cc \'be\'b5 \'bc\'f6 \'c0\'d6\'c0\'b8\'b8\'e9 \'be\'f3\'b8\'b6\'b5\'e7\'c1\'f6 \'bc\'d3\'b5\'b5\'b8\'a6 \'c1\'f5\'b0\'a1\'bd\'c3\'c5\'b3 \'bc\'f6 \'c0\'d6\'c0\'b8\'b8\'e7 \'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'c0\'db\'b0\'d4 \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e9 \'bc\'d3\'b5\'b5\'b8\'a6 \'b4\'d9\'bc\'d2 \'c8\'f1\'bb\'fd\'c7\'d8\'be\'df \'c7\'cf\'b4\'c2 \'c5\'b8\'c7\'f9\'c0\'c7 \'bf\'a9\'c1\'f6\'b0\'a1 \'c0\'d6\'b4\'c2 \'c1\'a4\'b7\'c4\f1\fs20  \f0\fs18\'b9\'e6\'b9\'fd\'c0\'cc\'b4\'d9.\par
+\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>직접 기수 정렬</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T14:26:11.9507248+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T15:23:18.1036896+09:00</UpdatedOn>
+  <Words>직접 기수 정렬은 분포수세기를 활용한 것으로 오른쪽에서 왼쪽으로 비트를 검사하면서 분포수세기를 한다.
+
+장점
+-키값이 작은 비트로 이루어질 때 정렬 방법중에서 가장 빠른 속도를 낸다.
+
+단점
+-가장 많은 추가적인 메모리가 필요하다.
+
+특징
+-메모리를 많이 쓸 수 있으면 얼마든지 속도를 증가시킬 수 있으며 메모리를 작게 사용하면 속도를 다소 희생해야 하는 타협의 여지가 있는 정렬 방법이다.
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

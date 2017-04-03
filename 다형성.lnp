@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>1fa1c607-42cc-4d71-a0f0-62cf0e8088d1</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'bc\'ad\'b7\'ce \'b4\'d9\'b8\'a5 \'b0\'b4\'c3\'bc\'b0\'a1 \'b5\'bf\'c0\'cf\'c7\'d1 \'b8\'de\'bd\'c3\'c1\'f6\'bf\'a1 \'b4\'eb\'c7\'cf\'bf\'a9 \'bc\'ad\'b7\'ce \'b4\'d9\'b8\'a5 \'b9\'e6\'b9\'fd\'c0\'b8\'b7\'ce \'c0\'c0\'b4\'e4\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \'b1\'e2\'b4\'c9\par
+\par
+\'c1\'ef, \'c7\'cf\'b3\'aa\'c0\'c7 \'b1\'e2\'b4\'c9\'c0\'bb \'b4\'d9\'be\'e7\'c7\'cf\'b0\'d4 \'c7\'a5\'c7\'f6\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \'b9\'e6\'b9\'fd\par
+\'bf\'b9\'bd\'c3)\'b8\'b8\'bf\'f8\'c2\'a5\'b8\'ae\'b7\'ce \'bf\'b9\'bd\'c3\'b8\'a6 \'b5\'e9\'b8\'e9 \'b8\'b8\'bf\'f8\'c2\'a5\'b8\'ae \'c7\'d1\'c0\'e5, \'c3\'b5\'bf\'f8\'c2\'a5\'b8\'ae \'bf\'ad\'c0\'e5, \'b9\'e9\'bf\'f8\'c2\'a5\'b8\'ae \'b5\'bf\'c0\'fc 100\'b0\'b3 \'b5\'ee\'c0\'b8\'b7\'ce \'b1\'b8\'bc\'ba \'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>다형성</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T16:11:29.1090456+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-03T11:29:21.1996831+09:00</UpdatedOn>
+  <Words>서로 다른 객체가 동일한 메시지에 대하여 서로 다른 방법으로 응답할 수 있는 기능
+
+즉, 하나의 기능을 다양하게 표현할 수 있는 방법
+예시)만원짜리로 예시를 들면 만원짜리 한장, 천원짜리 열장, 백원짜리 동전 100개 등으로 구성 할 수 있다.
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

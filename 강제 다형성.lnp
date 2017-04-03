@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>01e1ad25-f7ad-406a-814b-1417e241822d</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 (\f1\fs18\'c4\'b3\'bd\'ba\'c6\'c3\f0\fs20 )\par
+\f1\fs18\'b0\'ad\'c1\'a6 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'b0\'b4\'c3\'bc\f0\fs20  \f1\fs18\'b6\'c7\'b4\'c2 \'b1\'e2\'ba\'bb \'c5\'b8\'c0\'d4\'c0\'cc \'b4\'d9\'b8\'a5 \'b0\'b4\'c3\'bc\f0\fs20  \f1\fs18\'b6\'c7\'b4\'c2 \'b1\'e2\'ba\'bb \'c5\'b8\'c0\'d4\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af\'c7\'d2 \'b6\'a7 \'c0\'cf\'be\'ee\'b3\'ad\'b4\'d9.\par
+\f0\fs20 float b = 6; // int\f1\'b4\'c2 float\'c0\'b8\'b7\'ce \'b9\'ac\'bd\'c3\'c0\'fb\'c7\'fc\'ba\'af\'c8\'af\par
+int a = 9.99 // float\'c0\'ba int\'b7\'ce \'b9\'ac\'bd\'c3\'c0\'fb\'c7\'fc\'ba\'af\'c8\'af\f0\par
+\par
+\f1\'b8\'ed\'bd\'c3\'c0\'fb \'c4\'b3\'bd\'ba\'c6\'c3\'c0\'ba (unsigned int*)*\'b3\'aa *(int)*\'bf\'cd \'b0\'b0\'c0\'cc C \'bd\'ba\'c5\'b8\'c0\'cf\'c0\'c7 \'c5\'b8\'c0\'d4 \'c4\'b3\'bd\'ba\'c6\'c3 \'c7\'a5\'c7\'f6\'bd\'c4\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b0\'c5\'b3\'aa C++\'c0\'c7 static_cast, const_cast, reinterpret_cast, dynamic_cast\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d2 \'b6\'a7 \'c0\'cf\'be\'ee\'b3\'ad\'b4\'d9.\par
+\par
+\'b6\'c7\'c7\'d1 \'b0\'ad\'c1\'a6 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'bb\'fd\'bc\'ba\'c0\'da\'b0\'a1 explicit\'b7\'ce \'bc\'b1\'be\'f0\'b5\'c7\'be\'ee \'c0\'d6\'c1\'f6 \'be\'ca\'c0\'bb \'b6\'a7\'bf\'a1\'b5\'b5 \'c0\'cf\'be\'ee\'b3\'aa\'b4\'c2\'b5\'a5\par
+\'bf\'b9\'b8\'a6 \'b5\'e9\'be\'ee\par
+class A \{\par
+    int foo;\par
+public:\par
+    A(int ffoo) : foo(ffoo) \{\}\par
+    void giggidy() \{ std::cout &lt;&lt; foo &lt;&lt; std::endl; \}\par
+\};\par
+\par
+void moo(A a) \{\par
+    a.giggidy();\par
+\}\par
+\par
+int main() \{\par
+    moo(55);     // 55\'b8\'a6 \'c3\'e2\'b7\'c2 \par
+\}\par
+\par
+\'c6\'c4\'bb\'fd \'c5\'ac\'b7\'a1\'bd\'ba\'b8\'a6 \'b0\'ad\'c1\'a6 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'b8\'b7\'ce \'ba\'a3\'c0\'cc\'bd\'ba \'c5\'ac\'b7\'a1\'bd\'ba\'b7\'ce \'ba\'af\'c8\'af\'b5\'b5 \'b0\'a1\'b4\'c9\f0\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>강제 다형성</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-03T10:15:42.6191473+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-03T11:00:44.2052321+09:00</UpdatedOn>
+  <Words>(캐스팅)
+강제 다형성은 객체 또는 기본 타입이 다른 객체 또는 기본 타입으로 변환할 때 일어난다.
+float b = 6; // int는 float으로 묵시적형변환
+int a = 9.99 // float은 int로 묵시적형변환
+
+명시적 캐스팅은 (unsigned int*)*나 *(int)*와 같이 C 스타일의 타입 캐스팅 표현식을 사용하거나 C++의 static_cast, const_cast, reinterpret_cast, dynamic_cast를 사용할 때 일어난다.
+
+또한 강제 다형성은 클래스의 생성자가 explicit로 선언되어 있지 않을 때에도 일어나는데
+예를 들어
+class A {
+    int foo;
+public:
+    A(int ffoo) : foo(ffoo) {}
+    void giggidy() { std::cout &lt;&lt; foo &lt;&lt; std::endl; }
+};
+
+void moo(A a) {
+    a.giggidy();
+}
+
+int main() {
+    moo(55);     // 55를 출력 
+}
+
+파생 클래스를 강제 다형성으로 베이스 클래스로 변환도 가능</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

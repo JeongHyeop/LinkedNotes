@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>38bd7df2-b522-4fc7-8035-7d5a9545b19e</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 (\f1\fs18\'bf\'c0\'b9\'f6\'b7\'ce\'b5\'f9\f0\fs20 )\par
+\f1\fs18\'c0\'d3\'bd\'c3 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'b0\'b0\'c0\'ba \'c0\'cc\'b8\'a7\'c0\'bb \'b0\'a1\'c1\'f8 \'c7\'d4\'bc\'f6\'b0\'a1 \'b0\'a2 \'c5\'b8\'c0\'d4\'bf\'a1 \'b5\'fb\'b6\'f3 \'b4\'d9\'b8\'a3\'b0\'d4 \'c7\'e0\'b5\'bf\'c7\'d2 \'bc\'f6 \'c0\'d6\'b5\'b5\'b7\'cf \'c7\'d8\'c1\'dc\par
+\'bf\'b9\'b8\'a6 \'b5\'e9\'be\'ee, int \'c5\'b8\'c0\'d4\'c0\'c7 \'ba\'af\'bc\'f6 2\'b0\'b3\'bf\'cd + \'bf\'ac\'bb\'ea\'c0\'da\'b0\'a1 \'c1\'d6\'be\'ee\'c1\'b3\'b4\'d9\'b8\'e9, \'b5\'ce \'ba\'af\'bc\'f6\'b8\'a6 \'b4\'f5\'c7\'d1\'b4\'d9.\par
+\'b9\'dd\'b8\'e9, std::string \'c5\'b8\'c0\'d4\'c0\'c7 \'ba\'af\'bc\'f6 2\'b0\'b3\'bf\'cd + \'bf\'ac\'bb\'ea\'c0\'da\'b0\'a1 \'c1\'d6\'be\'ee\'c1\'b3\'b4\'d9\'b8\'e9, \'b5\'ce \'ba\'af\'bc\'f6\'b8\'a6 \'bf\'ac\'b0\'e1\'c7\'cf\'b0\'d4 \'b5\'c8\'b4\'d9. \'c0\'cc\'b8\'a6 \'bf\'c0\'b9\'f6\'b7\'ce\'b5\'f9\'c0\'cc\'b6\'f3\'b0\'ed\'b5\'b5 \'ba\'ce\'b8\'a5\'b4\'d9.\par
+\par
+int add(int a, int b) \{\par
+    return a + b;\par
+\}\par
+\par
+std::string add(const char *a, const char *b) \{\par
+    std::string result(a);\par
+    result += b;\par
+    return result;\par
+\}\par
+\par
+int main() \{\par
+    std::cout &lt;&lt; add(5, 9) &lt;&lt; std::endl;\par
+    std::cout &lt;&lt; add("hello ", "world") &lt;&lt; std::endl;\par
+\}\par
+\par
+C++\'bf\'a1\'bc\'ad \'c0\'d3\'bd\'c3 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'c5\'db\'c7\'c3\'b8\'b4 \'c6\'af\'bc\'f6\'c8\'ad\'b8\'a6 \'c7\'d2 \'b6\'a7\'b5\'b5 \'b3\'aa\'c5\'b8\'b3\'ad\'b4\'d9. max \'c7\'d4\'bc\'f6\'b8\'a6 \'b4\'d9\'b7\'e9 \'bf\'b9\'c1\'a6\'b7\'ce \'b5\'b9\'be\'c6\'b0\'a1, char \'c6\'f7\'c0\'ce\'c5\'cd \'c5\'b8\'c0\'d4\'c0\'c7 \'ba\'af\'bc\'f6 2\'b0\'b3\'bf\'a1 \'b4\'eb\'c7\'d1 max \'c7\'d4\'bc\'f6\'b8\'a6 \'c0\'db\'bc\'ba\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'bb \'bb\'ec\'c6\'ec\'ba\'b8\'c0\'da.\par
+\par
+\'b8\'c5\'b0\'b3 \'ba\'af\'bc\'f6 \'b4\'d9\'c7\'fc\'bc\'ba\par
+template &lt;&gt;\par
+const char *max(const char *a, const char *b) \{\par
+    return strcmp(a, b) &gt; 0 ? a : b;\par
+\}\par
+\par
+\par
+\'c0\'cc\'c1\'a6 \'b5\'ce \'b9\'ae\'c0\'da\'bf\'ad "foo"\'bf\'cd "bar" \'c1\'df \'c5\'ab \'b0\'aa\'c0\'bb \'c3\'a3\'b1\'e2 \'c0\'a7\'c7\'d8 *::max("foo", "bar")*\'b8\'a6 \'c8\'a3\'c3\'e2\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>임시 다형성</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-03T10:15:37.0811376+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-03T10:53:09.6308545+09:00</UpdatedOn>
+  <Words>(오버로딩)
+임시 다형성은 같은 이름을 가진 함수가 각 타입에 따라 다르게 행동할 수 있도록 해줌
+예를 들어, int 타입의 변수 2개와 + 연산자가 주어졌다면, 두 변수를 더한다.
+반면, std::string 타입의 변수 2개와 + 연산자가 주어졌다면, 두 변수를 연결하게 된다. 이를 오버로딩이라고도 부른다.
+
+int add(int a, int b) {
+    return a + b;
+}
+
+std::string add(const char *a, const char *b) {
+    std::string result(a);
+    result += b;
+    return result;
+}
+
+int main() {
+    std::cout &lt;&lt; add(5, 9) &lt;&lt; std::endl;
+    std::cout &lt;&lt; add("hello ", "world") &lt;&lt; std::endl;
+}
+
+C++에서 임시 다형성은 템플릿 특수화를 할 때도 나타난다. max 함수를 다룬 예제로 돌아가, char 포인터 타입의 변수 2개에 대한 max 함수를 작성하는 방법을 살펴보자.
+
+매개 변수 다형성
+template &lt;&gt;
+const char *max(const char *a, const char *b) {
+    return strcmp(a, b) &gt; 0 ? a : b;
+}
+
+
+이제 두 문자열 "foo"와 "bar" 중 큰 값을 찾기 위해 *::max("foo", "bar")*를 호출할 수 있다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
