@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>0c7c1d59-315d-4322-8185-67bbd34784dd</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'ba\'b9\'bb\'e7 \'bb\'fd\'bc\'ba\'c0\'da\'b4\'c2  \'b4\'d9\'b8\'a5 \'b0\'b4\'c3\'bc\'b7\'ce\'ba\'ce\'c5\'cd \'b0\'aa\'c0\'bb \'ba\'b9\'bb\'e7\'c7\'d8\'bc\'ad \'b0\'b4\'c3\'bc\'c0\'c7 \'b0\'aa\'c0\'bb \'c3\'ca\'b1\'e2\'c8\'ad  \'bd\'c3\'c4\'d1\'c1\'d6\'b4\'c2 \'bb\'fd\'bc\'ba\'c0\'da\par
+\'b9\'e6\'b9\'fd\'c0\'ba \'c0\'da\'bd\'c5\'b0\'fa \'b5\'bf\'c0\'cf\'c7\'d1 \'c5\'b8\'c0\'d4\'c0\'c7 \'b0\'b4\'c3\'bc\'b8\'a6 \'c2\'fc\'c1\'b6\'c7\'fc\'bd\'c4\'c0\'b8\'b7\'ce \'b9\'de\'be\'c6\'bc\'ad \'ba\'b9\'bb\'e7\'c7\'d1\'b4\'d9.\par
+\par
+\'bf\'b9\'bd\'c3)\par
+Person::Person(const Person&amp; p)\par
+\{\par
+    this-&gt;m_name = p.name;\par
+    this-&gt;m_age = p.age;\par
+    this-&gt;m_gender = p.gender;\par
+\}\par
+\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>복사 생성자</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-03T11:32:35.7247374+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-03T11:32:35.7247374+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-07T01:10:31.5794052+09:00</UpdatedOn>
+  <Words>복사 생성자는  다른 객체로부터 값을 복사해서 객체의 값을 초기화  시켜주는 생성자
+방법은 자신과 동일한 타입의 객체를 참조형식으로 받아서 복사한다.
+
+예시)
+Person::Person(const Person&amp; p)
+{
+    this-&gt;m_name = p.name;
+    this-&gt;m_age = p.age;
+    this-&gt;m_gender = p.gender;
+}
+</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

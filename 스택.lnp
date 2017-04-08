@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>80434097-357b-4934-a28c-32b739fb8f6c</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c4\'c4\'c6\'c4\'c0\'cf \'c5\'b8\'c0\'d3\'bf\'a1 \'c5\'a9\'b1\'e2\'b0\'a1 \'b0\'e1\'c1\'a4\'b5\'c9 \'bc\'f6 \'c0\'d6\'b4\'c2 \'bf\'e4\'bc\'d2\'b5\'e9\'c0\'bb \'b8\'de\'b8\'f0\'b8\'ae\f1\fs20  \f0\fs18\'b0\'f8\'b0\'a3\'bf\'a1 \'bf\'c3\'b8\'ae\'b1\'e2 \'c0\'a7\'c7\'d1 \'bf\'b5\'bf\'aa\par
+\'c1\'f6\'bf\'aa\'ba\'af\'bc\'f6, \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>스택</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T21:58:45.8654942+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-08T00:01:09.673536+09:00</UpdatedOn>
+  <Words>컴파일 타임에 크기가 결정될 수 있는 요소들을 메모리 공간에 올리기 위한 영역
+지역변수, 매개변수</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

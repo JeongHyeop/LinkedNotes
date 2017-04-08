@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>fcfb5eb3-5fd7-4de7-b67b-ea8278e55f5f</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 static\fs20  \f1\fs18\'b8\'e2\'b9\'f6 \'ba\'af\'bc\'f6\'b4\'c2 \'c5\'ac\'b7\'a1\'bd\'ba\f0\fs20  \f1\fs18\'ba\'af\'bc\'f6\'b6\'f3\'b0\'ed\'b5\'b5 \'c7\'cf\'b0\'ed \'c0\'cf\'b9\'dd\'c0\'fb\'c0\'ce \'b8\'e2\'b9\'f6 \'ba\'af\'bc\'f6\'bf\'cd \'b4\'de\'b8\'ae \'c5\'ac\'b7\'a1\'bd\'ba\'b4\'e7 \'c7\'cf\'b3\'aa\'be\'bf\'b8\'b8 \'bb\'fd\'bc\'ba\'b5\'c8\'b4\'d9. \par
+\'bf\'b9\'bd\'c3)\par
+\f0 class MyClass\par
+\{\par
+private:\par
+\tab static int staticNum;\par
+\}\par
+void main()\{\par
+\tab MyClass myClass1;\par
+\pard\tab MyClass myClass2;\par
+\tab MyClass myClass3;\par
+\pard\}\par
+\f1 3\'b0\'b3\'c0\'c7 \'b0\'b4\'c3\'bc\'b8\'a6 \'bb\'fd\'bc\'ba\'c7\'d8\'b5\'b5 \f0 staticNum\f2\'c0\'ba 3\'b0\'b3\'c0\'c7 \'b0\'b4\'c3\'bc\'c0\'fc\'ba\'ce\'b0\'a1 \'c7\'cf\'b3\'aa\'c0\'c7 \f0 staticNum\f2\'c0\'bb \'b0\'f8\'c0\'af\'c7\'d1\'b4\'d9.\f1\par
+\f0\fs20\par
+\f1\fs18\'bf\'a9\'b1\'e2\'bc\'ad \f0 staticNum\f2\'c0\'ba \'c1\'f6\'b1\'dd \f0 private\f2\'bf\'a1 \'bc\'b1\'be\'f0 \'b5\'c7\'be\'ee \'c0\'d6\'c1\'f6\'b8\'b8 \f0 public\f2\'b7\'ce \'bc\'b1\'be\'f0\'c7\'cf\'b8\'e9 \'c0\'fc\'bf\'aa\'ba\'af\'bc\'f6\'bf\'cd \'b0\'b0\'c0\'cc \'be\'ee\'b5\'f0\'bc\'ad\'b5\'e7 \'bb\'e7\'bf\'eb\'b0\'a1\'b4\'c9\'c7\'d1 \'ba\'af\'bc\'f6\'b0\'a1 \'b5\'c8\'b4\'d9.\par
+\'c0\'cc\'b7\'af\'c7\'d1 \'c1\'a1\'c0\'bb \'ba\'b8\'b8\'e9 \'be\'cb\'bc\'f6 \'c0\'d6\'b5\'ed\'c0\'cc \f0 static\f2\'c0\'b8\'b7\'ce \'bc\'b1\'be\'f0\'b5\'c8 \'b8\'e2\'b9\'f6\'ba\'af\'bc\'f6\'b4\'c2 \'b0\'b4\'c3\'bc\'be\'c8\'bf\'a1 \'bc\'d3\'c7\'d8\'c0\'d6\'c1\'f6 \'be\'ca\'b4\'d9\'b4\'c2\'b0\'cd\'c0\'bb \'be\'cb \'bc\'f6 \'c0\'d6\'b4\'d9.\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>static 멤버 변수</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T20:33:59.7905873+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-07T20:40:21.4404164+09:00</UpdatedOn>
+  <Words>static 멤버 변수는 클래스 변수라고도 하고 일반적인 멤버 변수와 달리 클래스당 하나씩만 생성된다. 
+예시)
+class MyClass
+{
+private:
+	static int staticNum;
+}
+void main(){
+	MyClass myClass1;
+	MyClass myClass2;
+	MyClass myClass3;
+}
+3개의 객체를 생성해도 staticNum은 3개의 객체전부가 하나의 staticNum을 공유한다.
+
+여기서 staticNum은 지금 private에 선언 되어 있지만 public로 선언하면 전역변수와 같이 어디서든 사용가능한 변수가 된다.
+이러한 점을 보면 알수 있듯이 static으로 선언된 멤버변수는 객체안에 속해있지 않다는것을 알 수 있다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

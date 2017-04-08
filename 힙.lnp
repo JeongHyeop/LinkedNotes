@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>d37cde57-eaa1-45be-89f3-cc5c8ffd235b</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c8\'fc\'bf\'b5\'bf\'aa\'c0\'ba \'b7\'b1\'c5\'b8\'c0\'d3\'bf\'a1 \'c5\'a9\'b1\'e2\'b0\'a1 \'b0\'e1\'c1\'a4\'b5\'c9 \'bc\'f6\'c0\'d6\'b4\'c2 \'bf\'e4\'bc\'d2\'b5\'e9\'c0\'bb \'bf\'c3\'b8\'ae\'b1\'e2 \'c0\'a7\'c7\'d1 \'b0\'f8\'b0\'a3 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b8\'d3\'b0\'a1 \'c1\'f7\'c1\'a2\'c0\'fb\'c0\'b8\'b7\'ce \'c7\'d2\'b4\'e7\'c7\'d8\'c1\'d8 \'b0\'f8\'b0\'a3\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>힙</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T21:58:58.2492025+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-07T23:58:46.2003298+09:00</UpdatedOn>
+  <Words>힙영역은 런타임에 크기가 결정될 수있는 요소들을 올리기 위한 공간 프로그래머가 직접적으로 할당해준 공간</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>5924a172-e8b0-4486-9598-11e7d029c608</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c4\'b8\'bd\'b6\'c8\'ad\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd \'b1\'e2\'b4\'c9\'b0\'fa \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'b0\'e1\'c7\'d5\'bd\'c3\'c4\'d1 \'b9\'ad\'b4\'c2 \'b0\'cd\'c0\'bb \'b8\'bb\'c7\'d1\'b4\'d9. \'c6\'af\'c1\'a4 \'b0\'b4\'c3\'bc\'b0\'a1 \'b5\'b6\'b8\'b3\'c0\'fb\'c0\'b8\'b7\'ce \'bf\'aa\'c7\'d2\'c0\'bb \'bc\'f6\'c7\'e0\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8 \'c7\'ca\'bf\'e4\'c7\'d1 \'b5\'a5\'c0\'cc\'c5\'cd\'bf\'cd \'b1\'e2\'b4\'c9\'c0\'bb \'c7\'cf\'b3\'aa\'b7\'ce \'b9\'ad\'be\'ee \'b0\'fc\'b8\'ae\'c7\'d1\'b4\'d9. \par
+\'b4\'d9\'b8\'a5 \'c0\'c7\'b9\'cc\'b7\'ce\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'b9\'db\'c0\'b8\'b7\'ce \'b3\'eb\'c3\'e2\'bd\'c3\'c5\'b0\'c1\'f6 \'be\'ca\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c0\'ba\'b4\'d0\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'bb \'c4\'b8\'bd\'b6\'c8\'ad\'b6\'f3\'b0\'ed \'c7\'d1\'b4\'d9. \'bb\'e7\'bf\'eb \'b9\'e6\'b9\'fd\'c0\'ba \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \f1 private\f2\'c0\'b8\'b7\'ce \'bc\'b1\'be\'f0\'c7\'d1 \'b5\'da \f1 get ,set\f0\'c7\'d4\'bc\'f6\'b8\'a6 \'b1\'b8\'c7\'f6\'c7\'d8 \'bb\'e7\'bf\'eb\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>캡슐화</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T16:04:26.1622761+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T16:04:26.1622761+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-06T11:40:33.1544019+09:00</UpdatedOn>
+  <Words>캡슐화는 데이터 기능과 데이터를 결합시켜 묶는 것을 말한다. 특정 객체가 독립적으로 역할을 수행하기 위해 필요한 데이터와 기능을 하나로 묶어 관리한다. 
+다른 의미로는 데이터를 밖으로 노출시키지 않기 위해서 데이터를 은닉하는 것을 캡슐화라고 한다. 사용 방법은 데이터를 private으로 선언한 뒤 get ,set함수를 구현해 사용</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

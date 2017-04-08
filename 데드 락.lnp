@@ -2,11 +2,17 @@
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>9bc25478-2e34-41a8-b6ec-fbc8b8257317</PageId>
   <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
-\viewkind4\uc1\pard\lang1042\f0\fs18\'b1\'b3\'c2\'f8 \'bb\'f3\'c5\'c2\par
-\par
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'b6\'f5 \'b4\'d9\'c1\'df \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6 \'bd\'c3\'bd\'ba\'c5\'db\'bf\'a1\'bc\'ad \'b0\'e1\'c4\'da \'c0\'cf\'be\'ee\'b3\'aa\'c1\'f6 \'be\'ca\'c0\'bb \'bb\'e7\'b0\'c7\'c0\'bb \'b1\'e2\'b4\'d9\'b8\'ae\'b0\'ed \'c0\'d6\'b4\'c2 \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba \'bb\'f3\'c5\'c2\'b8\'a6 \'c0\'c7\'b9\'cc \'c1\'ef, \'bd\'c3\'bd\'ba\'c5\'db \'c3\'f8\'b8\'e9\'bf\'a1\'bc\'ad \'c0\'da\'bf\'f8\'c0\'c7 \'bf\'e4\'b1\'b8\'b0\'a1 \'bc\'ad\'b7\'ce \'b5\'da\'be\'fb\'c5\'b2 \'bb\'f3\'c5\'c2\par
 \par
 \'c7\'d8\'b0\'e1 \'b9\'e6\'b9\'fd\par
-\f1\fs20\par
+\fs20\'bf\'b9\'b9\'e6, \'c8\'b8\'c7\'c7, \'c5\'bd\'c1\'f6, \'c8\'b8\'ba\'b9 4\'b0\'a1\'c1\'f6 \'b9\'e6\'b9\'fd\'c0\'cc \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9.\par
+\'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'c0\'c7 \'bf\'b9\'b9\'e6 : \'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'b0\'a1 \'b9\'df\'bb\'fd\'c7\'d2 4\'b0\'a1\'c1\'f6 \'c7\'ca\'bf\'e4\'c1\'b6\'b0\'c7 \'c1\'df \'bb\'f3\'c8\'a3\'b9\'e8\'c1\'a6 \'c1\'b6\'b0\'c7\'c0\'bb \'c1\'a6\'bf\'dc\'c7\'d1 \'b3\'aa\'b8\'d3\'c1\'f6 \'c1\'b6\'b0\'c7(\'c1\'a1\'c0\'af\'bf\'cd \'b4\'eb\'b1\'e2, \'ba\'f1\'c1\'df\'b4\'dc, \'c8\'af\'c7\'fc\'b4\'eb\'b1\'e2) \'b0\'a1\'bf\'ee\'b5\'a5 \'be\'ee\'b4\'c0 \'c7\'d1\'b0\'a1\'c1\'f6\'b8\'b8\'c0\'cc\'b6\'f3\'b5\'b5 \'c0\'cf\'be\'ee\'b3\'aa\'c1\'f6 \'be\'ca\'b5\'b5\'b7\'cf \'b8\'b7\'b4\'c2 \'b9\'e6\'b9\'fd.\par
+\par
+\'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'c0\'c7 \'c8\'b8\'c7\'c7 : \'c0\'da\'bf\'f8\'bf\'a1 \'b0\'fc\'c7\'d1 \'bb\'f3\'c5\'c2 \'c1\'a4\'ba\'b8(\'c0\'da\'bf\'f8\'c0\'c7 \'c3\'d6\'b4\'eb\'bc\'f6, \'bb\'e7\'bf\'eb\'b0\'a1\'b4\'c9 \'c0\'da\'bf\'f8\'c0\'c7 \'bc\'f6, \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba\'c0\'c7 \'c3\'d6\'b4\'eb \'bf\'e4\'b1\'b8 \'bc\'f6)\'b8\'a6 \'c0\'cc\'bf\'eb\'c7\'cf\'bf\'a9, \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba\'bf\'a1\'b0\'d4 \'c0\'da\'bf\'f8\'c0\'bb \'c7\'d2\'b4\'e7\'c7\'d2 \'b6\'a7 \'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'b8\'a6 \'c8\'b8\'c7\'c7\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \'be\'c8\'c1\'a4\'bb\'f3\'c5\'c2\'b8\'a6 \'c0\'af\'c1\'f6\'c7\'cf\'b5\'b5\'b7\'cf \'b4\'c9\'b5\'bf\'c0\'fb\'c0\'b8\'b7\'ce \'c1\'b6\'c1\'a4\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd.\par
+\par
+\'b1\'b3\'c2\'f8 \'bb\'f3\'c5\'c2\'c0\'c7 \'c5\'bd\'c1\'f6 : \'c0\'da\'bf\'f8 \'c7\'d2\'b4\'e7 \'b1\'d7\'b7\'a1\'c7\'c1 \'c8\'a4\'c0\'ba \'b4\'eb\'b1\'e2 \'b1\'d7\'b7\'a1\'c7\'c1(WFG:Wait-For Graph)\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'bf\'a9 \'bb\'e7\'c0\'cc\'c5\'ac\'c0\'bb \'c5\'bd\'c1\'f6\'c7\'d4\'c0\'b8\'b7\'ce\'bd\'e1 \'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'b8\'a6 \'b0\'cb\'c3\'e2\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd.\par
+\par
+\'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2\'b7\'ce\'ba\'ce\'c5\'cd\'c0\'c7 \'c8\'b8\'ba\'b9 : \'b1\'b3\'c2\'f8\'bb\'f3\'c5\'c2 \'bb\'e7\'c0\'cc\'c5\'ac\'c0\'cc \'be\'f8\'be\'ee\'c1\'fa \'b6\'a7\'b1\'ee\'c1\'f6 \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba\'b5\'e9\'c0\'bb \'c1\'be\'b7\'e1\'bd\'c3\'c5\'b0\'b0\'c5\'b3\'aa \'c7\'d2\'b4\'e7\'b5\'c8 \'c0\'da\'bf\'f8\'c0\'bb \'c1\'df\'b4\'dc(preemption)\'bd\'c3\'c5\'b0\'b4\'c2 \'b9\'e6\'b9\'fd.\f1\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -14,12 +20,18 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T16:14:27.7396868+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T16:17:11.7920401+09:00</UpdatedOn>
-  <Words>교착 상태
-
+  <UpdatedOn>2017-04-08T00:18:48.5751017+09:00</UpdatedOn>
+  <Words>교착상태란 다중 프로그래밍 시스템에서 결코 일어나지 않을 사건을 기다리고 있는 프로세스 상태를 의미 즉, 시스템 측면에서 자원의 요구가 서로 뒤엉킨 상태
 
 해결 방법
-</Words>
+예방, 회피, 탐지, 회복 4가지 방법이 있습니다.
+교착상태의 예방 : 교착상태가 발생할 4가지 필요조건 중 상호배제 조건을 제외한 나머지 조건(점유와 대기, 비중단, 환형대기) 가운데 어느 한가지만이라도 일어나지 않도록 막는 방법.
+
+교착상태의 회피 : 자원에 관한 상태 정보(자원의 최대수, 사용가능 자원의 수, 프로세스의 최대 요구 수)를 이용하여, 프로세스에게 자원을 할당할 때 교착상태를 회피할 수 있는 안정상태를 유지하도록 능동적으로 조정하는 방법.
+
+교착 상태의 탐지 : 자원 할당 그래프 혹은 대기 그래프(WFG:Wait-For Graph)를 사용하여 사이클을 탐지함으로써 교착상태를 검출하는 방법.
+
+교착상태로부터의 회복 : 교착상태 사이클이 없어질 때까지 프로세스들을 종료시키거나 할당된 자원을 중단(preemption)시키는 방법.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

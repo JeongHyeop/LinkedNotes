@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <PageId>47f3bdd0-f7ee-4295-9ade-7801b54a5b9f</PageId>
+  <PageId>451bfbac-e720-4f3c-82a9-e413d438754d</PageId>
   <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
-\viewkind4\uc1\pard\lang1042\f0\fs18\'bf\'ac\'bb\'ea\'c0\'da\'c0\'cc\'b4\'d9 \'bf\'b9\'b8\'a6 \'b5\'e9\'b8\'e9  +, - \'b5\'ee\'c0\'cc \'c0\'d6\'b4\'d9.\par
-\f1\fs20\par
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c3\'ca\'b1\'e2\'c8\'ad \'b5\'c8 \'c0\'fc\'bf\'aa \'ba\'af\'bc\'f6, \f1 static \f0\'ba\'af\'bc\'f6\'b8\'a6 \'c0\'a7\'c7\'d1 \'b8\'de\'b8\'f0\'b8\'ae\f1  \f0\'b0\'f8\'b0\'a3\f1\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
-  <Name>오퍼레이터</Name>
+  <Name>데이터 영역</Name>
   <CreatedBy>Anonymous</CreatedBy>
-  <CreatedOn>2017-04-03T10:59:35.9039119+09:00</CreatedOn>
+  <CreatedOn>2017-04-07T23:54:56.7902082+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-07T18:11:33.8279337+09:00</UpdatedOn>
-  <Words>연산자이다 예를 들면  +, - 등이 있다.
-</Words>
+  <UpdatedOn>2017-04-08T00:20:30.6419395+09:00</UpdatedOn>
+  <Words>초기화 된 전역 변수, static 변수를 위한 메모리 공간</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

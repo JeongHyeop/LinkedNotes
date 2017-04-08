@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>49dfd073-f57b-4be6-a058-16e24d6cb912</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'b0\'b4\'c3\'bc\f1  \f0\'c1\'f6\'c7\'e2 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6\'c0\'ba \f1\fs18 OOP(Object Oriented Programming) \f0\'bb\'e7\'b9\'b0 \'c0\'a7\'c1\'d6\'c0\'c7 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6\'c0\'cc\'b6\'f3\'b0\'ed\'b5\'b5 \'c7\'d1\'b4\'d9.\par
+\'b0\'b4\'c3\'bc\f1\fs20  \f0\'c1\'f6\'c7\'e2 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6\'c0\'ba \'c7\'f6\'c0\'e7 \'b0\'a1\'c0\'e5 \'c8\'b0\'b9\'df\'c7\'cf\'b0\'d4 \'be\'b2\'c0\'cc\'b4\'c2 \'c4\'c4\'c7\'bb\'c5\'cd \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6 \'c6\'d0\'b7\'af\'b4\'d9\'c0\'d3 \'c1\'df \'c7\'cf\'b3\'aa\'c0\'cc\'b4\'d9. \'b8\'f0\'b5\'e7 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'b0\'b4\'c3\'bc\'b7\'ce \'c3\'eb\'b1\'de\'c7\'cf\'bf\'a9 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6 \'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd \'c3\'b3\'b8\'ae \'bf\'e4\'b1\'b8\'b8\'a6 \'b9\'de\'c0\'ba \'b0\'b4\'c3\'bc\'b0\'a1 \'c0\'da\'b1\'e2 \'c0\'da\'bd\'c5\'c0\'c7 \'be\'c8\'bf\'a1 \'c0\'d6\'b4\'c2 \'b3\'bb\'bf\'eb\'c0\'bb \'b0\'a1\'c1\'f6\'b0\'ed \'c3\'b3\'b8\'ae\'c7\'cf\'b4\'c2 \'b9\'e6\'bd\'c4\'c0\'cc\'b4\'d9.\par
+\par
+\f1\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>객체 지향 프로그래밍</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T15:51:34.1218732+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T15:51:34.1218732+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-07T18:46:07.0935177+09:00</UpdatedOn>
+  <Words>객체 지향 프로그래밍은 OOP(Object Oriented Programming) 사물 위주의 프로그래밍이라고도 한다.
+객체 지향 프로그래밍은 현재 가장 활발하게 쓰이는 컴퓨터 프로그래밍 패러다임 중 하나이다. 모든 데이터를 객체로 취급하여 프로그래밍 하는 방법 처리 요구를 받은 객체가 자기 자신의 안에 있는 내용을 가지고 처리하는 방식이다.
+
+</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

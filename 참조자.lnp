@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>ae8f0681-ed18-4d44-a9a6-9f6bbd0ac452</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c2\'fc\'c1\'b6\'c0\'da\'b4\'c2 \'c0\'da\'bd\'c5\'c0\'cc \'c2\'fc\'c1\'b6\'c7\'cf\'b4\'c2 \'ba\'af\'bc\'f6\'b8\'a6 \'b4\'eb\'bd\'c5\'c7\'d2\'bc\'f6 \'c0\'d6\'b4\'c2 \'b6\'c7\'c7\'cf\'b3\'aa\'c0\'c7 \'c0\'cc\'b8\'a7\'c0\'cc\'b4\'d9.\par
+\par
+\'bf\'b9\'bd\'c3)\par
+\f1 int num1 = 200;\par
+\par
+int &amp;num2 = num1;\par
+\f0\'c0\'cc\'b6\'a7 \f1 num2\f2\'b4\'c2 \'c2\'fc\'c1\'b6\'c0\'da \par
+\par
+\f1 num2 = 300;\par
+\par
+\f2\'b0\'e1\'b0\'fa \par
+\f1 num1 -&gt; 300\tab\par
+num2 -&gt; 300\par
+\f2\'b5\'d1\'b4\'d9 \'b0\'aa\'c0\'cc \'b9\'d9\'b2\'ee\'b4\'c2 \'b0\'cd\'c0\'bb \'be\'cb \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'c2\'fc\'c1\'b6\'c0\'da\'b4\'c2 \'ba\'af\'bc\'f6\'bf\'a1 \'c2\'fc\'c1\'b6\'b0\'aa\'c0\'bb \'bc\'b1\'be\'f0\'c1\'ef\'bd\'c3 \'b9\'de\'be\'c6\'be\'df \'c7\'d4 \par
+\f1 ex) &amp;num2 = 20; X\par
+       &amp;num2;          X\par
+       &amp;num2=NULL;X\par
+\f2\'c0\'fc\'ba\'ce \'be\'c8\'b5\'c7\'b0\'ed \f1 int &amp;num2 = num1;\f2\'b8\'b8 \'b0\'a1\'b4\'c9\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>참조자</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T16:38:36.188911+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-07T16:45:15.6817607+09:00</UpdatedOn>
+  <Words>참조자는 자신이 참조하는 변수를 대신할수 있는 또하나의 이름이다.
+
+예시)
+int num1 = 200;
+
+int &amp;num2 = num1;
+이때 num2는 참조자 
+
+num2 = 300;
+
+결과 
+num1 -&gt; 300	
+num2 -&gt; 300
+둘다 값이 바뀌는 것을 알 수 있다.
+
+특징
+-참조자는 변수에 참조값을 선언즉시 받아야 함 
+ex) &amp;num2 = 20; X
+       &amp;num2;          X
+       &amp;num2=NULL;X
+전부 안되고 int &amp;num2 = num1;만 가능</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

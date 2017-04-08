@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>92279b34-bb43-4792-baba-4566fceab71a</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b0\'a1\'bb\'f3 \'c7\'d4\'bc\'f6\f1\fs20  \f0\fs18\'c5\'d7\'c0\'cc\'ba\'ed\'c0\'ba \'c5\'ac\'b7\'a1\'bd\'ba\f1\fs20  \f0\fs18\'b3\'bb\'bf\'a1 \f1 virtual\fs20  \f0\fs18\'c5\'b0\'bf\'f6\'b5\'e5\'b0\'a1 \'ba\'d9\'c0\'ba \'b0\'a1\'bb\'f3 \'c7\'d4\'bc\'f6\'b0\'a1 \'c0\'d6\'b4\'d9\'b8\'e9 \'b1\'d7 \'c7\'d4\'bc\'f6\'b8\'a6 \'b0\'a1\'bb\'f3 \'c7\'d4\'bc\'f6 \'c5\'d7\'c0\'cc\'ba\'ed\'bf\'a1 \'bf\'c3\'b8\'ae\'b0\'ed \'b0\'a1\'bb\'f3 \'c7\'d4\'bc\'f6\f1\fs20  \f0\fs18\'c6\'f7\'c0\'ce\'c5\'cd\'b7\'ce \'c7\'d4\'bc\'f6\'b8\'a6 \'b1\'b8\'ba\'b0 \'c7\'d2 \'bc\'f6 \'c0\'d6\'b0\'d4 \'c7\'d8\'c1\'d8\'b4\'d9.\par
+\par
+\par
+\'c0\'cc\'b0\'cd\'c0\'cc \'be\'f8\'b4\'d9\'b8\'e9 \'b0\'b4\'c3\'bc\'b4\'c2 \'c8\'a5\'b5\'bf\'c7\'d8\'bc\'ad \'b0\'b4\'c3\'bc\f1\fs20  \f0\fs18\'bb\'fd\'bc\'ba\'bd\'c3\'bf\'a1 \'bc\'b1\'be\'f0\'c7\'d1 \'c6\'f7\'c0\'ce\'c5\'cd\'c0\'c7 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'bb \'b1\'e2\'c1\'d8\'c0\'b8\'b7\'ce  \'c6\'c7\'b4\'dc\'c7\'d8\'bc\'ad \'c8\'a3\'c3\'e2 \'c7\'cf\'b0\'d4 \'b5\'c8\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>가상 함수 테이블</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T15:53:25.7068803+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-07T17:41:21.2502602+09:00</UpdatedOn>
+  <Words>가상 함수 테이블은 클래스 내에 virtual 키워드가 붙은 가상 함수가 있다면 그 함수를 가상 함수 테이블에 올리고 가상 함수 포인터로 함수를 구별 할 수 있게 해준다.
+
+
+이것이 없다면 객체는 혼동해서 객체 생성시에 선언한 포인터의 자료형을 기준으로  판단해서 호출 하게 된다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>6a222325-9045-4bcd-ab7e-e29722042531</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b0\'b4\'c3\'bc\'b6\'f5 \'b5\'a5\'c0\'cc\'c5\'cd\'bf\'cd \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'b1\'e2\'b4\'c9\'c0\'bb \'b8\'f0\'b5\'ce \'c6\'f7\'c7\'d4\'c7\'d1 \'b0\'b3\'b3\'e4\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>객체</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-02T20:47:06.3095773+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-02T20:47:06.3095773+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-07T18:47:26.50906+09:00</UpdatedOn>
+  <Words>객체란 데이터와 데이터의 기능을 모두 포함한 개념</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>03f01777-5084-4e11-a04a-019d0e39743e</PageId>
-  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
-\viewkind4\uc1\pard\lang1042\f0\fs20\par
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'bc\'d2\'b8\'ea\'c0\'da\'b4\'c2 \'b0\'b4\'c3\'bc\'c0\'c7 \'b8\'de\'b8\'f0\'b8\'ae \'b9\'dd\'c8\'af\'c0\'bb \'c0\'a7\'c7\'d8\'bc\'ad \'b0\'b4\'c3\'bc \'bc\'d2\'b8\'ea\'bd\'c3(\'c7\'d4\'bc\'f6\'b0\'a1 \'b3\'a1\'b3\'aa\'b0\'c5\'b3\'aa \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'cc \'b3\'a1\'b3\'aa\'b0\'c5\'b3\'aa) \'c0\'da\'b5\'bf \'c8\'a3\'c3\'e2 \'b5\'c7\'b4\'c2 \'c7\'d4\'bc\'f6\'c0\'cc\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'c0\'fc\'b4\'de \'c0\'ce\'c0\'da\'b4\'c2 \'c7\'d7\'bb\'f3 \f1 void\f0\'c7\'fc\'c0\'b8\'b7\'ce \'bf\'c0\'b9\'f6\'b7\'ce\'b5\'f9, \'b5\'f0\'c6\'fa\'c6\'ae \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6 \'bc\'b1\'be\'f0\'c0\'cc \'ba\'d2\'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9.\par
+\par
+\'b0\'b4\'c3\'bc\'b0\'a1 \'bc\'d2\'b8\'ea\'b5\'c7\'b4\'c2 \'bd\'c3\'c1\'a1\par
+\f1 -\f0\'c7\'d4\'bc\'f6 \'b3\'bb\'bf\'a1 \'c1\'f6\'bf\'aa\'c0\'fb\'c0\'b8\'b7\'ce \'ba\'af\'bc\'f6\'b0\'a1 \'bc\'b1\'be\'f0\'b5\'c7\'b8\'e9 \'c7\'d4\'bc\'f6 \'c8\'a3\'c3\'e2\'c0\'cc \'b3\'a1\'b3\'b2\'b0\'fa \'b5\'bf\'bd\'c3\'bf\'a1 \'bc\'d2\'b8\'ea, \'c0\'cc\'bf\'cd \'b8\'b6\'c2\'f9\'b0\'a1\'c1\'f6\'b7\'ce \'b0\'b4\'c3\'bc\'b5\'b5 \'c7\'d4\'bc\'f6\'b3\'bb\'bf\'a1\'bc\'ad \'bc\'b1\'be\'f0\'b5\'c8\'b4\'d9\'b0\'ed \'c7\'cf\'b8\'e9, \'c7\'d4\'bc\'f6 \'c8\'a3\'c3\'e2\'c0\'cc \'b3\'a1\'b3\'aa\'b8\'e9 \'bc\'d2\'b8\'e9\'b5\'c8\'b4\'d9.\par
+-\'c0\'fc\'bf\'aa\'c0\'fb\'c0\'b8\'b7\'ce \'bc\'b1\'be\'f0\'b5\'c8 \'b0\'b4\'c3\'bc: \'c0\'fc\'bf\'aa\'ba\'af\'bc\'f6\'b4\'c2 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5 \'bd\'c3\'c0\'db\'b0\'fa \'b5\'bf\'bd\'c3\'bf\'a1 \'b8\'de\'b8\'f0\'b8\'ae\'bf\'a1 \'bf\'c3\'b6\'f3\'b0\'ac\'b4\'d9\'b0\'a1 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'cc \'c1\'be\'b7\'e1 \'b5\'c9 \'b6\'a7 \'bc\'d2\'b8\'ea\par
+\par
+\'b0\'b4\'c3\'bc\f1  \f0\'bc\'d2\'b8\'ea \'bc\'f8\'bc\'ad\par
+\'bc\'d2\'b8\'ea\'c0\'da \'c8\'a3\'c3\'e2 -&gt; \'b8\'de\'b8\'f0\'b8\'ae \'b9\'dd\'c8\'af\'bc\'f8\'bc\'ad\'b7\'ce \'b0\'b4\'c3\'bc\'b0\'a1 \'bc\'d2\'b8\'ea\'b5\'c7\'b0\'ed, \'bc\'d2\'b8\'ea\'c0\'da\'c0\'c7 \'c8\'a3\'c3\'e2\'c0\'bb \'b8\'d5\'c0\'fa \'c7\'d8\'c1\'d6\'b4\'c2 \'c0\'cc\'c0\'af\'b4\'c2 \'bc\'d2\'b8\'ea\'c0\'da\'c0\'c7 \'c8\'a3\'c3\'e2\'c0\'bb \'b8\'d5\'c0\'fa \'c7\'d8\'c1\'dc\'c0\'b8\'b7\'ce\'bc\'ad, \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'b9\'dd\'c8\'af \'b5\'c7\'be\'ee\'c1\'fa \'b6\'a7 \'b9\'dd\'c8\'af\'b5\'c7\'be\'ee\'c1\'f6\'c1\'f6 \'be\'ca\'c0\'bb \'b8\'de\'b8\'f0\'b8\'ae \'b0\'f8\'b0\'a3\'c0\'bb \'b8\'ed\'bd\'c3\'c0\'fb\'c0\'b8\'b7\'ce \'b9\'dd\'c8\'af\'c7\'d8\'c1\'d6\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad\'c0\'cc\'b4\'d9.\f1\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -10,8 +20,19 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-02T20:57:14.9013868+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-02T20:58:16.3359006+09:00</UpdatedOn>
-  <Words />
+  <UpdatedOn>2017-04-07T01:23:16.5891613+09:00</UpdatedOn>
+  <Words>소멸자는 객체의 메모리 반환을 위해서 객체 소멸시(함수가 끝나거나 프로그램이 끝나거나) 자동 호출 되는 함수이다.
+
+특징
+-전달 인자는 항상 void형으로 오버로딩, 디폴트 매개변수 선언이 불가능하다.
+
+객체가 소멸되는 시점
+-함수 내에 지역적으로 변수가 선언되면 함수 호출이 끝남과 동시에 소멸, 이와 마찬가지로 객체도 함수내에서 선언된다고 하면, 함수 호출이 끝나면 소면된다.
+-전역적으로 선언된 객체: 전역변수는 프로그램 시작과 동시에 메모리에 올라갔다가 프로그램이 종료 될 때 소멸
+
+객체 소멸 순서
+소멸자 호출 -&gt; 메모리 반환순서로 객체가 소멸되고, 소멸자의 호출을 먼저 해주는 이유는 소멸자의 호출을 먼저 해줌으로서, 메모리가 반환 되어질 때 반환되어지지 않을 메모리 공간을 명시적으로 반환해주기 위해서이다.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

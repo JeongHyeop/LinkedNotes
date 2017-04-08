@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>8cbeb4a3-6eab-4eb9-a74e-6c2da37b1e76</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 static\f1\fs18\'b8\'e2\'b9\'f6 \'c7\'d4\'bc\'f6\'b4\'c2 \f0\fs20 static\f1\fs18\'b8\'e2\'b9\'f6 \'ba\'af\'bc\'f6\'bf\'cd \'b5\'bf\'c0\'cf\'c7\'cf\'b4\'d9. \par
+-\'bc\'b1\'be\'f0\'b5\'c8 \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'b8\'f0\'b5\'e7 \'b0\'b4\'c3\'bc\'b0\'a1 \'b0\'f8\'c0\'af\'c7\'d1\'b4\'d9.\par
+-\f0 public\f1\'c0\'b8\'b7\'ce \'bc\'b1\'be\'f0\'c0\'cc \'b5\'c7\'b8\'e9, \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'c0\'cc\'b8\'a7\'c0\'bb \'c0\'cc\'bf\'eb\'c7\'d8\'bc\'ad \'c8\'a3\'c3\'e2\'c0\'cc \'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9.\par
+-\'b0\'b4\'c3\'bc\'c0\'c7 \'b8\'e2\'b9\'f6\'b7\'ce \'c1\'b8\'c0\'e7 \'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'be\'c6\'b4\'cf\'b4\'d9.\f0\fs20\par
+\par
+\f1\fs18\'c6\'af\'c2\'a1\par
+-\f0 static\fs20  \f1\fs18\'b8\'e2\'b9\'f6\'c7\'d4\'bc\'f6 \'b3\'bb\'bf\'a1\'bc\'ad\'b4\'c2 \f0 static\fs20  \f1\fs18\'b8\'e2\'b9\'f6 \'ba\'af\'bc\'f6\'bf\'cd \f0 static\fs20  \f1\fs18\'b8\'e2\'b9\'f6 \'c7\'d4\'bc\'f6\'b8\'b8 \'c8\'a3\'c3\'e2\'c0\'cc \'b0\'a1\'b4\'c9\'c7\'cf\'b4\'d9.\par
+\par
+\f0 ex)\par
+class testClass\par
+\{\par
+private:\par
+\tab int num1;\par
+\tab static int num2;\par
+public:\par
+\tab static void Adder(int n)\par
+\tab\{\par
+\tab\tab num1 += n;\tab //\f1\'c4\'c4\'c6\'c4\'c0\'cf \'bf\'a1\'b7\'af \'b9\'df\'bb\'fd\f0\par
+\tab\tab num2 += n;\par
+\tab\}\par
+\par
+\}\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>static 멤버 함수</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T20:40:22.4134721+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-07T20:44:53.6699871+09:00</UpdatedOn>
+  <Words>static멤버 함수는 static멤버 변수와 동일하다. 
+-선언된 클래스의 모든 객체가 공유한다.
+-public으로 선언이 되면, 클래스의 이름을 이용해서 호출이 가능하다.
+-객체의 멤버로 존재 하는 것이 아니다.
+
+특징
+-static 멤버함수 내에서는 static 멤버 변수와 static 멤버 함수만 호출이 가능하다.
+
+ex)
+class testClass
+{
+private:
+	int num1;
+	static int num2;
+public:
+	static void Adder(int n)
+	{
+		num1 += n;	//컴파일 에러 발생
+		num2 += n;
+	}
+
+}</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

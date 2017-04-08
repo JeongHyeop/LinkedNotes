@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>ba86d782-0f1e-4b10-aa48-9643540322e3</PageId>
-  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
 \viewkind4\uc1\pard\lang1042\f0\fs18\'be\'c6\'bd\'ba\'c5\'b0 \'b9\'ae\'c0\'da \'c4\'da\'b5\'e5 \'bb\'d3\'b8\'b8 \'be\'c6\'b4\'cf\'b6\'f3, \'c7\'d1\'b1\'db, \'c0\'cf\'be\'ee \'b5\'ee \'be\'ee\'b6\'b0\'c7\'d1 \'b9\'ae\'c0\'da\'b5\'e9\'c0\'bb \'b8\'c1\'b6\'f3\'c7\'cf\'b0\'ed \'b0\'a2 \'c7\'d1 \'b9\'ae\'c0\'da\'bf\'a1 2\f1 Byte\f0\'be\'bf\'c0\'b8\'b7\'ce \'c7\'d2\'b4\'e7\'c7\'cf\'bf\'a9 \'b8\'b8\'b5\'e7 \'b9\'ae\'c0\'da \'c1\'fd\'c7\'d5\'c0\'cc\'b4\'d9.\par
-\par
 \f1\fs20\par
+\f0\'b8\'d6\'c6\'bc \'b9\'d9\'c0\'cc\'c6\'ae\'c0\'c7 \'b9\'ae\'c1\'a6\'b4\'c2 1\'b9\'d9\'c0\'cc\'c6\'ae \'b5\'da\'bf\'a1 1\'b9\'d9\'c0\'cc\'c6\'ae\'b8\'a6 \'b4\'f5 \'ba\'d9\'c0\'ce \'b0\'cd\'c0\'cc\'bf\'a9\'bc\'ad \'bf\'b5\'be\'ee\'c0\'cf \'b0\'e6\'bf\'ec\'bf\'a1\'b4\'c2 1\'b9\'d9\'c0\'cc\'c6\'ae\'c1\'f6\'b8\'b8 \'b4\'d9\'b8\'a5 \'be\'f0\'be\'ee\'b4\'c2 \'c7\'c3\'b7\'af\'bd\'ba \'be\'cb\'c6\'c4\'b0\'a1 \'b5\'c8\'b4\'d9. \'c0\'cc\'b6\'a7 \'c7\'d1\'b1\'b9\'be\'ee\'b7\'ce \'b5\'c8 \'b9\'ae\'c0\'e5\'c0\'bb \'c0\'cf\'ba\'bb\'be\'ee\'b7\'ce \'c7\'d8\'bc\'ae\'c7\'cf\'b0\'d4 \'b5\'c8\'b4\'d9\'b8\'e9 \'b1\'db\'c0\'da\'b0\'a1 \'b1\'fa\'c1\'f6\'b0\'d4 \'b5\'c7\'b4\'c2\'b5\'a5 \'c0\'cc\'b0\'cd\'c0\'bb \'c0\'a7\'c7\'d8 \'b3\'aa\'bf\'c2 \'b0\'cd\'c0\'cc \'c0\'af\'b4\'cf\'c4\'da\'b5\'e5\'b4\'d9.\par
+\par
+\'be\'d6\'c3\'ca\'bf\'a1 \'c3\'b3\'c0\'bd\'ba\'ce\'c5\'cd 2\'b9\'d9\'c0\'cc\'c6\'ae\'b8\'a6 \'c7\'d2\'b4\'e7\'c7\'cf\'bf\'a9 \'bc\'bc\'bb\'f3\'bf\'a1 \'c0\'d6\'b4\'c2 \'b9\'ae\'c0\'da\'b8\'a6 \'b4\'e3\'be\'c6\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'cf\'b0\'d4 \'b8\'b8\'b5\'e9\'be\'fa\'b4\'d9.\par
+\par
+\'c7\'cf\'c1\'f6\'b8\'b8 \'bf\'a9\'b1\'e2\'bc\'ad \'c0\'af\'b4\'cf\'c4\'da\'b5\'e5 \'b9\'ae\'c0\'da\'b4\'c2 2\'b9\'d9\'c0\'cc\'c6\'ae\'b7\'ce \'c7\'d2\'b4\'e7\'c7\'d1 \'b8\'b8\'c5\'ad \'c1\'a6\'c0\'cf \'b8\'b9\'c0\'cc \'be\'b2\'b4\'c2 \'bf\'b5\'be\'ee\'b4\'c2 \'b8\'de\'b8\'f0\'b8\'ae \'b3\'b6\'ba\'f1\'b0\'a1 \'bd\'c9\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c0\'cc\'b0\'cd\'c0\'bb \'c7\'d8\'b0\'e1\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8 \'c0\'af\'b4\'cf\'c4\'da\'b5\'e5\'b8\'a6 3\'b0\'a1\'c1\'f6\'b7\'ce \'b3\'aa\'b4\'b3\'b4\'d9 \f1 UTF-8, UTF-16, UTF-32  \f0\'bf\'a9\'b1\'e2\'bc\'ad \f1 UTF- 8\f2\'c0\'ba 8\'ba\'f1\'c6\'ae\'b8\'b8 \'bb\'e7\'bf\'eb\'c7\'d1 \'b1\'db\'c0\'da 16\'c0\'ba 16\'ba\'f1\'c6\'ae\'b1\'ee\'c1\'f6 \'bb\'e7\'bf\'eb\'c7\'d1 \'b1\'db\'c0\'da \'c0\'cc\'b7\'b8\'b5\'ed\'c0\'cc \'c7\'c3\'b7\'af\'bd\'ba \'be\'cb\'c6\'c4\'b0\'a1 \'be\'c6\'b4\'d1 \f1 UTF-8\f2\'c0\'ba \'bf\'b5\'be\'ee\'b8\'b8 \'be\'b2\'b4\'c2 1\'b9\'d9\'c0\'cc\'c6\'ae\'c2\'a5\'b8\'ae\'b0\'ed \f1 UTF-16\f2\'c0\'ba \'b4\'d9\'b8\'a5 \'b9\'ae\'c0\'da\'b5\'b5 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 2\'b9\'d9\'c0\'cc\'c6\'ae\'b4\'d9.\f1\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -12,10 +16,14 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T14:49:12.1184144+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T14:52:30.2805065+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-07T21:56:27.9886081+09:00</UpdatedOn>
   <Words>아스키 문자 코드 뿐만 아니라, 한글, 일어 등 어떠한 문자들을 망라하고 각 한 문자에 2Byte씩으로 할당하여 만든 문자 집합이다.
 
-</Words>
+멀티 바이트의 문제는 1바이트 뒤에 1바이트를 더 붙인 것이여서 영어일 경우에는 1바이트지만 다른 언어는 플러스 알파가 된다. 이때 한국어로 된 문장을 일본어로 해석하게 된다면 글자가 깨지게 되는데 이것을 위해 나온 것이 유니코드다.
+
+애초에 처음부터 2바이트를 할당하여 세상에 있는 문자를 담아서 사용하게 만들었다.
+
+하지만 여기서 유니코드 문자는 2바이트로 할당한 만큼 제일 많이 쓰는 영어는 메모리 낭비가 심하기 때문에 이것을 해결하기 위해 유니코드를 3가지로 나눴다 UTF-8, UTF-16, UTF-32  여기서 UTF- 8은 8비트만 사용한 글자 16은 16비트까지 사용한 글자 이렇듯이 플러스 알파가 아닌 UTF-8은 영어만 쓰는 1바이트짜리고 UTF-16은 다른 문자도 사용하는 2바이트다.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

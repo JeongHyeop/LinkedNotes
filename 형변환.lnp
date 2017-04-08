@@ -2,7 +2,9 @@
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>c665597c-3e6f-4d39-8dcb-2f9f822f991f</PageId>
   <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
-\viewkind4\uc1\pard\lang1042\f0\fs20\'c7\'fc\'ba\'af\'c8\'af\'bd\'c3 \'b0\'ed\'b7\'c1\'bb\'e7\'c7\'d7\par
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c7\'fc \'ba\'af\'c8\'af\'c0\'cc\'b6\'f5 \'b4\'d9\'b8\'a5 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af  \'bd\'c3\'c4\'d1 \'c1\'d6\'b4\'c2 \'b0\'cd\par
+\par
+\'c7\'fc\'ba\'af\'c8\'af\'bd\'c3 \'b0\'ed\'b7\'c1\'bb\'e7\'c7\'d7\par
  \'c5\'ab \'c0\'da\'b7\'e1\'c7\'fc\'bf\'a1\'bc\'ad \'c0\'db\'c0\'ba \'c0\'da\'b7\'e1\'c7\'fc\'c0\'b8\'b7\'ce \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb \'c7\'d2 \'b0\'e6\'bf\'ec \'c0\'cf\'ba\'ce\'b0\'a1 \'c0\'df\'b7\'c1\'b3\'aa\'b0\'a5 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
 \par
     float number1 = 55.55;\par
@@ -33,8 +35,10 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-18T14:40:32.655748+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-18T15:22:19.9482539+09:00</UpdatedOn>
-  <Words>형변환시 고려사항
+  <UpdatedOn>2017-04-07T18:50:44.125363+09:00</UpdatedOn>
+  <Words>형 변환이란 다른 자료형으로 변환  시켜 주는 것
+
+형변환시 고려사항
  큰 자료형에서 작은 자료형으로 형변환을 할 경우 일부가 잘려나갈 수 있다.
 
     float number1 = 55.55;

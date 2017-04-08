@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>8303f647-e9fb-497d-9c15-812f8b86fcb1</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 const\f1\fs18\'b6\'f5 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'bb\'f3\'bc\'f6\'c8\'ad \'c7\'cf\'b4\'c2 \'b0\'cd \'c1\'ef, \'b0\'ed\'c1\'a4\'b0\'aa\'c0\'b8\'b7\'ce \'be\'b2\'b0\'da\'b4\'d9\'b0\'ed \'b8\'ed\'bd\'c3\'c7\'d8 \'b5\'ce\'b4\'c2 \'b0\'cd\par
+\par
+\f0 ex)\par
+const int maxHP = 100;\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>const</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-07T18:36:22.3710735+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-07T19:15:30.4463757+09:00</UpdatedOn>
+  <Words>const란 데이터를 상수화 하는 것 즉, 고정값으로 쓰겠다고 명시해 두는 것
+
+ex)
+const int maxHP = 100;</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
