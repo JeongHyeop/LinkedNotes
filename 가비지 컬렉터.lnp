@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>5a4be3e2-c04d-4658-8c12-743733d3fed8</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'c5\'cd(\'be\'b2\'b7\'b9\'b1\'e2 \'bc\'f6\'c1\'fd\'b0\'a1)\'b4\'c2 \f1 c#\f0\'bf\'a1\'bc\'ad \'c8\'fc\'bf\'b5\'bf\'aa\'bf\'a1 \'b8\'de\'b8\'f0\'b8\'ae\f1\fs20  \f0\fs18\'c7\'d8\'c1\'a6\'b8\'a6 \'b4\'eb\'bd\'c5 \'c7\'d8\'c1\'d6\'b4\'c2 \'bf\'aa\'c7\'d2\'c0\'bb \'c7\'cf\'b0\'ed \'c0\'d6\'b4\'d9.\par
+\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'c5\'cd\'b5\'b5 \'bc\'d2\'c7\'c1\'c6\'ae\'bf\'fe\'be\'ee\'c0\'cc\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \f1 cpu\f2\'bf\'cd \'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b0\'d4 \'b5\'c7\'b0\'ed \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'c5\'cd\'b0\'a1 \'c3\'d6\'bc\'d2\'c7\'d1\'c0\'b8\'b7\'ce \'bb\'e7\'bf\'eb\'b5\'c7\'b0\'d4 \'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'c3\'d6\'c0\'fb\'c8\'ad \'b9\'e6\'b9\'fd\'c1\'df \'c7\'cf\'b3\'aa\'c0\'cc\'b4\'d9.\par
+\par
+\'b5\'bf\'c0\'db\'bf\'f8\'b8\'ae\par
+\f1 c \f2\'b7\'b1\'c5\'b8\'c0\'d3\'c3\'b3\'b7\'b3 \'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'c2\'c9\'b0\'b3\'b0\'ed \'c3\'a3\'b0\'ed \'c7\'cf\'c1\'f6 \'be\'ca\'b0\'ed \'c0\'cf\'c1\'a4 \'b8\'de\'b8\'f0\'b8\'ae\f1\fs20  \f2\fs18\'b0\'f8\'b0\'a3\'c0\'bb \'c8\'ae\'ba\'b8\'c7\'d8\'bc\'ad \'c7\'cf\'b3\'aa\'c0\'c7 \'c8\'fc\'bf\'b5\'bf\'aa\'c0\'bb \'b8\'b6\'b7\'c3\'c7\'d1 \'b5\'da\'bf\'a1 \'b0\'b4\'c3\'bc\'b8\'a6 \'c7\'d2\'b4\'e7\'c7\'cf\'b0\'d4 \'b5\'c7\'b8\'e9 \'b8\'de\'b8\'f0\'b8\'ae\'bf\'a1 \'bc\'f8\'bc\'ad\'b4\'eb\'b7\'ce \'c7\'d2\'b4\'e7\'c7\'cf\'b0\'d4 \'b5\'cb\'b4\'cf\'b4\'d9. \'b1\'d7 \'b5\'da\'bf\'a1 \'c2\'fc\'c1\'b6\'c7\'fc\'bd\'c4\'c0\'c7 \'b0\'b4\'c3\'bc\'b0\'a1 \'c7\'d2\'b4\'e7\'b5\'c9 \'b6\'a7\'b4\'c2 \'bd\'ba\'c5\'c3\'bf\'b5\'bf\'aa\'bf\'a1\'b4\'c2 \'c8\'fc\'c0\'c7 \'b8\'de\'b8\'f0\'b8\'ae\f1\fs20  \f2\fs18\'c1\'d6\'bc\'d2\'b8\'a6, \'c8\'fc\f1\fs20  \f2\fs18\'bf\'b5\'bf\'aa\'bf\'a1\'b4\'c2 \'bd\'c7\'c1\'a6 \'b0\'aa\'c0\'cc \'b5\'e9\'be\'ee \'b0\'a3\'b4\'d9. \'c0\'cc\'c8\'c4 \'b0\'b4\'c3\'bc\'b0\'a1 \'c7\'d2\'b4\'e7\'b5\'c8 \'bd\'ba\'c4\'da\'c7\'c1\'b8\'a6 \'ba\'fc\'c1\'ae \'b3\'aa\'b0\'a1\'b8\'e9 \'bd\'ba\'c5\'c3\f1\fs20  \f2\fs18\'bf\'b5\'bf\'aa\'c0\'c7 \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c8\'b8\'bc\'f6\'b5\'c7\'b0\'ed \'c8\'fc\'bf\'b5\'bf\'aa\'bf\'a1\'b4\'c2 \'be\'c6\'b1\'ee \'c0\'fa\'c0\'e5\'b5\'c8 \'b0\'aa\'b8\'b8 \'b3\'b2\'b0\'d4 \'b5\'cb\'b4\'cf\'b4\'d9. \'c0\'cc\'b6\'a7 \'be\'b2\'b7\'b9\'b1\'e2\'b0\'aa\'c0\'bb \'c8\'b8\'bc\'f6 \'c7\'cf\'b0\'d4 \'b5\'cb\'b4\'cf\'b4\'d9.\par
+\par
+\'b5\'bf\'c0\'db \'bc\'f8\'bc\'ad\par
+1.\'b8\'f0\'b5\'e7 \'b0\'b4\'c3\'bc\'b8\'a6 \'be\'b2\'b7\'b9\'b1\'e2\'b6\'f3\'b0\'ed \'b0\'a1\'c1\'a4\'c7\'d1 \'b5\'da\par
+2.\'b7\'e7\'c6\'ae \'b8\'f1\'b7\'cf\'c0\'bb \'bc\'f8\'c8\'b8\'c7\'cf\'b8\'e9\'bc\'ad \'c8\'fc\'c0\'c7 \'b0\'aa\'b0\'fa \'c2\'fc\'c1\'b6\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'c0\'d6\'b3\'aa \'c8\'ae\'c0\'ce\'c0\'bb \'c7\'cf\'b0\'ed \'c2\'fc\'c1\'b6 \'b5\'c7\'c1\'f6 \'be\'ca\'c0\'ba \'b0\'aa\'c0\'ba \'be\'b2\'b7\'b9\'b1\'e2\'b7\'ce \'b0\'a3\'c1\'d6 \'b5\'ca.\par
+3.\'be\'b2\'b7\'b9\'b1\'e2\'b0\'a1 \'c2\'f7\'c1\'f6\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'f8 \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c8\'b8\'bc\'f6 \'b5\'c7\'b8\'e9, \'bf\'b7\'bf\'a1 \'c0\'d6\'b4\'f8 \'b0\'b4\'c3\'bc\'b5\'e9\'c0\'bb \'c0\'cc\'b5\'bf\'bd\'c3\'c4\'d1 \'c2\'f7\'b0\'ee\'c2\'f7\'b0\'ee \'c3\'a4\'bf\'f6\'bc\'ad \'b4\'d9\'bd\'c3 \'c1\'a4\'b8\'ae \'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\f1 CLR\f2\'c0\'c7 \'b8\'de\'b8\'f0\'b8\'ae\f1\fs20  \f2\fs18\'b1\'b8\'bf\'aa\'c0\'bb \'b3\'aa\'b4\'ab\'b4\'d9!\par
+\'b1\'b8\'c3\'bc\'c0\'fb\'c0\'b8\'b7\'ce\'b4\'c2 0\'bc\'bc\'b4\'eb,1\'bc\'bc\'b4\'eb,2\'bc\'bc\'b4\'eb \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'c5\'cd\'b7\'ce \'b3\'aa\'b4\'ab \'b5\'da\'bf\'a1 0\'bc\'bc\'b4\'eb\'b4\'c2 \'c1\'a6\'c0\'cf \'bb\'a1\'b8\'ae \'bb\'e7\'b6\'f3\'c1\'fa \'b0\'b4\'c3\'bc -&gt; 2\'bc\'bc\'b4\'eb \'c1\'a6\'c0\'cf \'bf\'c0\'b7\'a1 \'bb\'e7\'b6\'f3 \'b3\'b2\'c0\'bb \'b0\'b4\'c3\'bc\f1\fs20  \f2\fs18\'bc\'f8\'c0\'b8\'b7\'ce \'c1\'a4\'b8\'ae\'c7\'d8\'bc\'ad \'ba\'d0\'b8\'ae\'c7\'d4\par
+\'bc\'bc\'b4\'eb \'b5\'bf\'c0\'db \'bc\'f8\'bc\'ad\par
+1.0\'bc\'bc\'b4\'eb \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'bc\'c7 \'c0\'d3\'b0\'e8\'c4\'a1\'bf\'a1 \'b5\'b5\'b4\'de\'c7\'cf\'b8\'e9 0\'bc\'bc\'b4\'eb \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'bc\'c7\'c0\'bb \'bc\'f6\'c7\'e0 \'bb\'ec\'be\'c6\'b3\'b2\'c0\'ba \'b0\'aa\'b5\'e9\'c0\'ba 1\'bc\'bc\'b4\'eb\'b7\'ce \'bf\'c5\'b0\'dc\'c1\'fc\par
+2.1\'b9\'f8\'b0\'fa\'c1\'a4\'c0\'bb \'b0\'e8\'bc\'d3 \'b9\'dd\'ba\'b9\'c7\'cf\'b4\'d9 \'ba\'b8\'b8\'e9 1\'bc\'bc\'b4\'eb \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'bc\'c7\'c0\'cc \'c0\'d3\'b0\'e8\'c4\'a1\'bf\'a1 \'b5\'b5\'b4\'de\'c7\'cf\'b0\'ed 1\'b9\'f8\'b0\'fa \'b8\'b6\'c2\'f9\'b0\'a1\'c1\'f6\'b7\'ce \'b3\'b2\'c0\'ba \'b0\'b4\'c3\'bc\'b4\'c2 2\'bc\'bc\'b4\'eb\'b7\'ce \'bf\'c5\'b0\'dc\'c1\'fc\par
+3.2\'b9\'f8\'b0\'fa\'c1\'a4\'b5\'b5 \'c1\'f6\'bc\'d3\'b5\'c7\'b4\'d9 \'ba\'b8\'b8\'e9 2\'bc\'bc\'b4\'eb \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'bc\'c7\'c0\'cc \'c0\'d3\'b0\'e8\'c4\'a1\'bf\'a1 \'b5\'b5\'b4\'de\'c7\'d4, \'c0\'cc\'c8\'c4 0,1,2 \'bc\'bc\'b4\'eb \'c0\'fc\'c3\'bc \'b0\'a1\'ba\'f1\'c1\'f6 \'c4\'c3\'b7\'ba\'bc\'c7 \'bd\'c7\'c7\'e0\par
+\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>가비지 컬렉터</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T15:58:29.3378669+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T15:58:29.3378669+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-10T10:58:34.8874937+09:00</UpdatedOn>
+  <Words>가비지 컬렉터(쓰레기 수집가)는 c#에서 힙영역에 메모리 해제를 대신 해주는 역할을 하고 있다.
+
+
+특징
+-가비지 컬렉터도 소프트웨어이기 때문에 cpu와 메모리를 사용하게 되고 가비지 컬렉터가 최소한으로 사용되게 하는 것이 최적화 방법중 하나이다.
+
+동작원리
+c 런타임처럼 메모리를 쪼개고 찾고 하지 않고 일정 메모리 공간을 확보해서 하나의 힙영역을 마련한 뒤에 객체를 할당하게 되면 메모리에 순서대로 할당하게 됩니다. 그 뒤에 참조형식의 객체가 할당될 때는 스택영역에는 힙의 메모리 주소를, 힙 영역에는 실제 값이 들어 간다. 이후 객체가 할당된 스코프를 빠져 나가면 스택 영역의 메모리가 회수되고 힙영역에는 아까 저장된 값만 남게 됩니다. 이때 쓰레기값을 회수 하게 됩니다.
+
+동작 순서
+1.모든 객체를 쓰레기라고 가정한 뒤
+2.루트 목록을 순회하면서 힙의 값과 참조하는 것이 있나 확인을 하고 참조 되지 않은 값은 쓰레기로 간주 됨.
+3.쓰레기가 차지하고 있던 메모리가 회수 되면, 옆에 있던 객체들을 이동시켜 차곡차곡 채워서 다시 정리 합니다.
+
+CLR의 메모리 구역을 나눈다!
+구체적으로는 0세대,1세대,2세대 가비지 컬렉터로 나눈 뒤에 0세대는 제일 빨리 사라질 객체 -&gt; 2세대 제일 오래 사라 남을 객체 순으로 정리해서 분리함
+세대 동작 순서
+1.0세대 가비지 컬렉션 임계치에 도달하면 0세대 가비지 컬렉션을 수행 살아남은 값들은 1세대로 옮겨짐
+2.1번과정을 계속 반복하다 보면 1세대 가비지 컬렉션이 임계치에 도달하고 1번과 마찬가지로 남은 객체는 2세대로 옮겨짐
+3.2번과정도 지속되다 보면 2세대 가비지 컬렉션이 임계치에 도달함, 이후 0,1,2 세대 전체 가비지 컬렉션 실행
+</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

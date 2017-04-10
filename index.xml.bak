@@ -65,7 +65,7 @@
 </page>
 <page name="템플릿">
 </page>
-<page name="인라인 함수" expand="1">
+<page name="인라인 함수">
 </page>
 <page name="참조자">
 </page>
@@ -244,6 +244,8 @@
 </page>
 <page name="힙">
 </page>
+</page>
+<page name="런타임">
 </page>
 </page>
 <page name="수학">
