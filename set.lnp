@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>ba6fb828-990e-4f8f-a027-97e02f50ca4e</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18 Set\f1  \'c0\'cc\'b6\'f5 \'bf\'f8\'c7\'cf\'b4\'c2 \f0 key\f1\'b8\'a6 \'bd\'c5\'bc\'d3\'c7\'cf\'b0\'d4 \'c3\'a3\'b0\'ed \'b6\'c7 \'c0\'cc \f0 key\f1\'b0\'a1 \'c1\'a4\'b7\'c4\'b5\'c7\'b1\'e2\'b8\'a6 \'bf\'f8\'c7\'d2 \'b6\'a7 \'bb\'e7\'bf\'eb \f0 map\f1\'b0\'fa \'ba\'f1\'bd\'c1\'c7\'cf\'c1\'f6\'b8\'b8 \'b4\'d9\'b8\'a5 \'c1\'a1\'c0\'ba \f0 map\f1\'c0\'ba \'c5\'b0\'bf\'cd \'b0\'aa\'c0\'bb \'c7\'d1\'bd\'d6\'c0\'b8\'b7\'ce \'c0\'fa\'c0\'e5\'c7\'cf\'c1\'f6\'b8\'b8 \f0 set\f1\'c0\'ba \'c5\'b0\'c0\'c7 \'b0\'aa\'b8\'b8 \'c0\'fa\'c0\'e5\'c7\'d1\'b4\'d9. \'c1\'df\'ba\'b9 \'b5\'c8 \'c5\'b0\'b8\'a6 \'b0\'a1\'c1\'f6\'b0\'ed \'bd\'cd\'b4\'d9\'b8\'e9 \f0 multiset\f1\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d8\'be\'df \'c7\'d1\'b4\'d9. \f0 set\f1\'c0\'c7 \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'b4\'c2 \f0 map\f1\'b0\'fa \'b0\'b0\'c0\'cc \'c0\'cc\'c1\'f8 \'c5\'bd\'bb\'f6 \'c6\'ae\'b8\'ae\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9.\par
+\par
+\'bb\'e7\'bf\'eb \'b5\'c9 \'b6\'a7\par
+-\'c1\'a4\'b7\'c4\'c7\'d8\'be\'df \'c7\'d2 \'b6\'a7\par
+-\f0 key\f1\'b0\'a1 \'c0\'d6\'b4\'c2\'c1\'f6 \'be\'f8\'b4\'c2\'c1\'f6 \'be\'cb\'be\'c6\'be\'df \'c7\'d2 \'b6\'a7\par
+-\'b8\'b9\'c0\'ba \'c0\'da\'b7\'e1\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'b0\'cb\'bb\'f6\'bc\'d3\'b5\'b5\'b0\'a1 \'bb\'a1\'b6\'f3\'be\'df \'c7\'d2 \'b6\'a7\par
+\cf1\par
+\pard\f0 set\f1\'c0\'c7 \'c1\'d6\'bf\'e4 \'b8\'e2\'b9\'f6\par
+\par
+begin \tab\tab\'c3\'b9 \'b9\'f8\'c2\'b0 \'bf\'f8\'bc\'d2\'c0\'c7 \'b7\'a3\'b4\'fd \'c1\'a2\'b1\'d9 \'b9\'dd\'ba\'b9\'c0\'da\'b8\'a6 \'b8\'ae\'c5\'cf\par
+clear\tab\tab\'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'c2 \'b8\'f0\'b5\'e7 \'bf\'f8\'bc\'d2\'b8\'a6 \'bb\'e8\'c1\'a6\par
+empty \tab\tab\'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'c2 \'bf\'e4\'bc\'d2\'b0\'a1 \'be\'f8\'c0\'b8\'b8\'e9 true \'b8\'ae\'c5\'cf\par
+end \tab\tab\'b8\'b6\'c1\'f6\'b8\'b7 \'bf\'f8\'bc\'d2 \'b4\'d9\'c0\'bd\'c0\'c7 (\'b9\'cc \'bb\'e7\'bf\'eb \'bf\'b5\'bf\'aa) \'b9\'dd\'ba\'b9\'c0\'da\'b8\'a6 \'b8\'ae\'c5\'cf\par
+erase \tab\tab\'c6\'af\'c1\'a4 \'c0\'a7\'c4\'a1\'c0\'c7 \'bf\'f8\'bc\'d2\'b3\'aa \'c1\'f6\'c1\'a4 \'b9\'fc\'c0\'a7\'c0\'c7 \'bf\'f8\'bc\'d2\'b5\'e9\'c0\'bb \'bb\'e8\'c1\'a6\par
+find\tab\tab  key \'bf\'cd \'bf\'ac\'b0\'fc\'b5\'c8 \'bf\'f8\'bc\'d2\'c0\'c7 \'b9\'dd\'ba\'b9\'c0\'da \'b8\'ae\'c5\'cf\par
+insert \tab\tab\'bf\'f8\'bc\'d2 \'c3\'df\'b0\'a1\par
+lower_bound \tab\'c1\'f6\'c1\'a4\'c7\'d1 key \'c0\'c7 \'bf\'e4\'bc\'d2\'b8\'a6 \'b0\'a1\'c1\'f6\'b0\'ed \'c0\'d6\'b4\'d9\'b8\'e9 \'c7\'d8\'b4\'e7 \'c0\'a7\'c4\'a1\'c0\'c7 \'b9\'dd\'ba\'b9\'c0\'da\'b8\'a6 \'b8\'ae\'c5\'cf\par
+operator[] \tab\'c1\'f6\'c1\'a4\'c7\'d1 key \'b0\'aa\'c0\'b8\'b7\'ce \'bf\'f8\'bc\'d2 \'c3\'df\'b0\'a1 \'b9\'d7 \'c1\'a2\'b1\'d9\par
+rbegin \tab\tab\'bf\'aa\'b9\'e6\'c7\'e2\'c0\'b8\'b7\'ce \'c3\'b9 \'b9\'f8\'c2\'b0 \'bf\'f8\'bc\'d2\'c0\'c7 \'b9\'dd\'ba\'b9\'c0\'da\'b8\'a6 \'b8\'ae\'c5\'cf\par
+rend \tab\tab\'bf\'aa\'b9\'e6\'c7\'e2\'c0\'b8\'b7\'ce \'b8\'b6\'c1\'f6\'b8\'b7 \'bf\'f8\'bc\'d2 \'b4\'d9\'c0\'bd\'c0\'c7 \'b9\'dd\'ba\'b9\'c0\'da\'b8\'a6 \'b8\'ae\'c5\'cf\par
+size \tab\tab\'bf\'f8\'bc\'d2\'c0\'c7 \'b0\'b3\'bc\'f6\'b8\'a6 \'b8\'ae\'c5\'cf\par
+\pard upper_bound \tab\'c1\'f6\'c1\'a4\'c7\'d1 key \'bf\'e4\'bc\'d2\'b8\'a6 \'b0\'a1\'c1\'f6\'b0\'ed \'c0\'d6\'b4\'d9\'b8\'e9 \'c7\'d8\'b4\'e7 \'c0\'a7\'c4\'a1 \'b4\'d9\'c0\'bd \'c0\'a7\'c4\'a1\'c0\'c7 \'b9\'dd\'ba\'b9\'c0\'da \'b8\'ae\'c5\'cf\cf0\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>set</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-11T16:58:08.4644667+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-11T18:58:34.7287854+09:00</UpdatedOn>
+  <Words>Set 이란 원하는 key를 신속하게 찾고 또 이 key가 정렬되기를 원할 때 사용 map과 비슷하지만 다른 점은 map은 키와 값을 한쌍으로 저장하지만 set은 키의 값만 저장한다. 중복 된 키를 가지고 싶다면 multiset을 사용해야 한다. set의 자료구조는 map과 같이 이진 탐색 트리를 사용한다.
+
+사용 될 때
+-정렬해야 할 때
+-key가 있는지 없는지 알아야 할 때
+-많은 자료를 저장하고 검색속도가 빨라야 할 때
+
+set의 주요 멤버
+
+begin 		첫 번째 원소의 랜덤 접근 반복자를 리턴
+clear		저장하고 있는 모든 원소를 삭제
+empty 		저장하고 있는 요소가 없으면 true 리턴
+end 		마지막 원소 다음의 (미 사용 영역) 반복자를 리턴
+erase 		특정 위치의 원소나 지정 범위의 원소들을 삭제
+find		 key 와 연관된 원소의 반복자 리턴
+insert 		원소 추가
+lower_bound 	지정한 key 의 요소를 가지고 있다면 해당 위치의 반복자를 리턴
+operator[] 	지정한 key 값으로 원소 추가 및 접근
+rbegin 		역방향으로 첫 번째 원소의 반복자를 리턴
+rend 		역방향으로 마지막 원소 다음의 반복자를 리턴
+size 		원소의 개수를 리턴
+upper_bound 	지정한 key 요소를 가지고 있다면 해당 위치 다음 위치의 반복자 리턴</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

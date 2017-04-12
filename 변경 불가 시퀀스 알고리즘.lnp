@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>5878bd2c-56ef-4a02-afd3-7e9da244f208</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'ba\'af\'b0\'e6 \'ba\'d2\'b0\'a1 \'bd\'c3\'c4\'f6\'bd\'ba \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \f1 find\f2\'bf\'cd \f1 foreach \f2\'b5\'ee\'c0\'cc \'c0\'d6\'b0\'ed \'b4\'eb\'bb\'f3 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'c0\'c7 \'b3\'bb\'bf\'eb\'c0\'bb \'ba\'af\'b0\'e6\'c7\'cf\'c1\'f6 \'b8\'f8\'c7\'d1\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>변경 불가 시퀀스 알고리즘</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-11T23:34:35.2646996+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-11T23:35:47.9268556+09:00</UpdatedOn>
+  <Words>변경 불가 시퀀스 알고리즘은 find와 foreach 등이 있고 대상 컨테이너의 내용을 변경하지 못한다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

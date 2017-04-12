@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>18fb8093-a15c-47b8-a6ec-f89c18bde0e8</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b9\'fc\'bf\'eb \'bc\'f6\'c4\'a1 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \'b0\'aa\'c0\'bb \'b0\'e8\'bb\'ea\'c7\'cf\'b4\'c2 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'b8\'b7\'ce \f1 accumulate \f0\'b5\'ee\'c0\'cc \'c0\'d6\'b4\'d9.\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>범용 수치 알고리즘</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-11T23:35:00.3391338+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-11T23:38:02.6945639+09:00</UpdatedOn>
+  <Words>범용 수치 알고리즘은 값을 계산하는 알고리즘으로 accumulate 등이 있다.
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

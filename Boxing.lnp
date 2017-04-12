@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>16d7ba70-deec-4d22-9c72-ad961aec9965</PageId>
+  <Encrypted>false</Encrypted>
+  <Name>Boxing</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-10T22:23:43.2723106+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-10T22:23:43.2723106+09:00</UpdatedOn>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,12 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>3c5be8a4-ba33-4a58-9494-c5b5f01eeda7</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset129 KoPub\'b5\'b8\'bf\'f2\'c3\'bc Bold;}{\f4\fnil\fcharset129 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}}
+{\colortbl ;\red0\green0\blue0;\red255\green255\blue255;}
+\viewkind4\uc1\pard\lang1042\f0\fs20 List\f1\fs18\'b6\'f5 \'bf\'ec\'b8\'ae\'b0\'a1 \'be\'cb\'b0\'ed \'c0\'d6\'b4\'c2 \'bf\'ac\'b0\'e1\'b8\'ae\'bd\'ba\'c6\'ae\'c0\'cc\'b4\'d9.\f0\fs20\par
+\par
+\f2\fs18\'c0\'e5\'c1\'a1\par
+-\'b1\'e6\'c0\'cc\'c0\'c7 \'c1\'a6\'c7\'d1\'c0\'bb \'b5\'ce\'c1\'f6 \'be\'ca\'b0\'ed \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9\par
+-\'c1\'df\'b0\'a3\'bf\'a1 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'f0\'c0\'d4, \'bb\'e8\'c1\'a6\'b0\'a1 \'bf\'eb\'c0\'cc\'c7\'cf\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'c0\'ce\'b5\'a6\'bd\'ba\'b0\'a1 \'be\'f8\'c0\'b8\'b9\'c7\'b7\'ce \'c1\'df\'b0\'a3\'bf\'a1 \'c1\'a2\'b1\'d9\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad\'b4\'c2 \'bc\'f8\'c8\'b8\'b8\'a6 \'c7\'d8\'be\'df\'c7\'d1\'b4\'d9.\par
+\f0\fs20\par
+\f2\'bb\'e7\'bf\'eb\'c7\'d8\'be\'df \'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec\par
+-\'c0\'fa\'c0\'e5\'c7\'d2 \'b5\'a5\'c0\'cc\'c5\'cd \'b0\'b3\'bc\'f6\'b0\'a1 \'c1\'a4\'c7\'d8\'c1\'f6\'c1\'f6 \'be\'ca\'be\'d2\'c0\'bb\'b6\'a7\par
+-\'c1\'df\'b0\'a3\'bf\'a1 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'f0\'c0\'d4\'c0\'cc\'b3\'aa \'bb\'e8\'c1\'a6\'b0\'a1 \'c0\'da\'c1\'d6 \'c0\'cf\'be\'ee\'b3\'af\'b6\'a7 - \'c1\'a4\'ba\'b8\'b8\'a6 \'b1\'d9\'c3\'b3\'c0\'c7 \'c5\'ac\'b6\'f3\'c0\'cc\'be\'f0\'c6\'ae\'bf\'a1\'b0\'d4\'b8\'b8 \'c5\'eb\'ba\'b8\'c7\'d2 \'b6\'a7 \'c1\'f6\'b5\'b5\'b8\'a6 \'c0\'db\'c0\'ba \'b4\'dc\'c0\'a7\'b7\'ce \'b3\'aa\'b4\'ab\'c8\'c4 \'b0\'b0\'c0\'ba \'b4\'dc\'c0\'a7\'bf\'a1 \'c6\'f7\'c7\'d4 \'b5\'c7\'be\'ee \'c0\'d6\'b4\'c2 \'c5\'ac\'b6\'f3\'c0\'cc\'be\'f0\'c6\'ae\'bf\'cd \'b1\'d7 \'b4\'dc\'c0\'a7 \'b1\'d9\'c3\'b3 \'c5\'ac\'b6\'f3\'c0\'cc\'be\'f0\'c6\'ae\'bf\'a1\'b0\'d4\'b8\'b8 \'c5\'eb\'ba\'b8\'c7\'d1\'b4\'d9.\par
+\par
+\'bb\'e7\'bf\'eb\'c7\'cf\'c1\'f6 \'b8\'bb\'be\'c6\'be\'df \'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec\par
+-\'c0\'fa\'c0\'e5\'c7\'d2 \'b5\'a5\'c0\'cc\'c5\'cd \'b0\'b3\'bc\'f6\'b0\'a1 \'b8\'b9\'c0\'b8\'b8\'e9\'bc\'ad \'b0\'cb\'bb\'f6\'c0\'bb \'c0\'da\'c1\'d6 \'c7\'d2\'b6\'a7 - \'b8\'ae\'bd\'ba\'c6\'ae\'b4\'c2 \'bc\'f8\'c2\'f7\'c0\'fb\'c0\'b8\'b7\'ce \'bc\'f8\'c8\'b8\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'b0\'cb\'bb\'f6\'c0\'cc \'b8\'b9\'be\'c6\'c1\'f6\'b8\'e9 \'b4\'c0\'b7\'c1\'c1\'f8\'b4\'d9. \'c0\'cc\'b7\'b2\'b6\'a7\'b4\'c2 \f0 map, set, hash_map\f1\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9.\f2\par
+\f0 -\f2\'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'b7\'a3\'b4\'fd\'c7\'cf\'b0\'d4 \'c1\'a2\'b1\'d9\'c7\'d8\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'d8\'be\'df \'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec - \'c0\'cc\'b7\'b2\'b6\'a7\'b4\'c2 \'c0\'ce\'b5\'a6\'bd\'ba \'c1\'a2\'b1\'d9\'c0\'cc \'b0\'a1\'b4\'c9\'c7\'d1 \'b9\'e8\'bf\'ad\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'c1\'c1\'b4\'d9.\par
+\par
+\cf1\f1\fs18 #include &lt;list&gt;\par
+list &lt; \'c0\'da\'b7\'e1\'c7\'fc &gt;* \'ba\'af\'bc\'f6 \'c0\'cc\'b8\'a7 = new list&lt; \'c0\'da\'b7\'e1\'c7\'fc &gt;;\par
+list&lt; int &gt;* list2 = new list&lt; int&gt;;\cf0\f0\fs20\par
+\par
+\f1\fs18\'b8\'ae\'bd\'ba\'c6\'ae \'b8\'e2\'b9\'f6\cf2\b\f3\fs16\'b8\'e2\'b9\'f6 \'bc\'b3\'b8\'ed\par
+\cf1\b0\f1\fs18 begin\tab\tab\'c3\'b9 \'b9\'f8\'c2\'b0 \'c0\'a7\'c4\'a1\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b2\'b4\'d9.\par
+end\tab\tab\'b8\'b6\'c1\'f6\'b8\'b7 \'c0\'a7\'c4\'a1\'c0\'c7 \'b4\'d9\'c0\'bd\'c0\'bb \'b0\'a1\'b8\'ae\'c5\'b2\'b4\'d9.\par
+rbegin\tab\tab\'bf\'aa \'b9\'e6\'c7\'e2\'c0\'b8\'b7\'ce \'c3\'b9 \'b9\'f8\'c2\'b0 \'c0\'a7\'c4\'a1\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b2\'b4\'d9\par
+rend\tab\tab\'bf\'aa \'b9\'e6\'c7\'e2\'c0\'b8\'b7\'ce \'b8\'b6\'c1\'f6\'b8\'b7 \'c0\'a7\'c4\'a1\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b2\'b4\'d9\par
+push_front \tab\'c3\'b9 \'b9\'f8\'c2\'b0 \'c0\'a7\'c4\'a1\'bf\'a1 \'b5\'a5\'c0\'cc\'c5\'cd \'c3\'df\'b0\'a1\par
+pop_front\tab\'c3\'b9 \'b9\'f8\'c2\'b0 \'c0\'a7\'c4\'a1\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'e8\'c1\'a6\par
+push_back\tab  \'b8\'b6\'c1\'f6\'b8\'b7 \'c0\'a7\'c4\'a1\'bf\'a1 \'b5\'a5\'c0\'cc\'c5\'cd \'c3\'df\'b0\'a1\par
+pop_back \tab\'b8\'b6\'c1\'f6\'b8\'b7 \'c0\'a7\'c4\'a1\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'e8\'c1\'a6\par
+front \tab\tab\'c3\'b9 \'b9\'f8\'c2\'b0 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'c2\'fc\'c1\'b6 \'b8\'ae\'c5\'cf\par
+back \tab\tab\'b8\'b6\'c1\'f6\'b8\'b7 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'c2\'fc\'c1\'b6 \'b8\'ae\'c5\'cf\par
+clear \tab\tab\'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'c2 \'b8\'f0\'b5\'e7 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'e8\'c1\'a6\par
+empty \tab\tab\'c0\'fa\'c0\'e5 \'b5\'a5\'c0\'cc\'c5\'cd \'c0\'af/\'b9\'ab, \'be\'f8\'c0\'b8\'b8\'e9 true \'b8\'ae\'c5\'cf\par
+size \tab\tab\'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'b0\'b3\'bc\'f6 \'b8\'ae\'c5\'cf\par
+insert \tab\tab\'c1\'f6\'c1\'a4\'b5\'c8 \'c0\'a7\'c4\'a1\'bf\'a1 \'bb\'f0\'c0\'d4\par
+erase \tab\tab\'c1\'f6\'c1\'a4\'b5\'c8 \'b9\'fc\'c0\'a7\'bf\'a1 \'c0\'d6\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'e8\'c1\'a6\par
+remove \tab\tab\'c1\'f6\'c1\'a4\'b5\'c8 \'b0\'aa\'b0\'fa \'c0\'cf\'c4\'a1\'c7\'cf\'b4\'c2 \'b8\'f0\'b5\'e7 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'e8\'c1\'a6\par
+remove_if \tab\'c7\'d4\'bc\'f6\'b0\'b4\'c3\'bc\'c0\'c7 \'c1\'b6\'b0\'c7\'c0\'bb \'b8\'b8\'c1\'b7\'c7\'cf\'b4\'c2 \'b8\'f0\'b5\'e7 \'b5\'a5\'c0\'cc\'c5\'cd \'bb\'e8\'c1\'a6\par
+sort \tab\tab\'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c1\'a4\'b7\'c4\'c7\'d1\'b4\'d9.\par
+\f4\fs19\par
+\cf0\f0\fs20\par
+\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>List</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T15:57:51.5947081+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T15:57:51.5947081+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-11T17:27:02.5096485+09:00</UpdatedOn>
+  <Words>List란 우리가 알고 있는 연결리스트이다.
+
+장점
+-길이의 제한을 두지 않고 사용한다
+-중간에 데이터 삽입, 삭제가 용이하다.
+
+단점
+-인덱스가 없으므로 중간에 접근하기 위해서는 순회를 해야한다.
+
+사용해야 하는 경우
+-저장할 데이터 개수가 정해지지 않았을때
+-중간에 데이터 삽입이나 삭제가 자주 일어날때 - 정보를 근처의 클라이언트에게만 통보할 때 지도를 작은 단위로 나눈후 같은 단위에 포함 되어 있는 클라이언트와 그 단위 근처 클라이언트에게만 통보한다.
+
+사용하지 말아야 하는 경우
+-저장할 데이터 개수가 많으면서 검색을 자주 할때 - 리스트는 순차적으로 순회하기 때문에 검색이 많아지면 느려진다. 이럴때는 map, set, hash_map을 사용한다.
+-데이터를 랜덤하게 접근해서 사용해야 하는 경우 - 이럴때는 인덱스 접근이 가능한 배열을 사용하는 것이 좋다.
+
+#include &lt;list&gt;
+list &lt; 자료형 &gt;* 변수 이름 = new list&lt; 자료형 &gt;;
+list&lt; int &gt;* list2 = new list&lt; int&gt;;
+
+리스트 멤버멤버 설명
+begin		첫 번째 위치를 가리킨다.
+end		마지막 위치의 다음을 가리킨다.
+rbegin		역 방향으로 첫 번째 위치를 가리킨다
+rend		역 방향으로 마지막 위치를 가리킨다
+push_front 	첫 번째 위치에 데이터 추가
+pop_front	첫 번째 위치의 데이터 삭제
+push_back	 마지막 위치에 데이터 추가
+pop_back 	마지막 위치의 데이터 삭제
+front 		첫 번째 데이터의 참조 리턴
+back 		마지막 데이터의 참조 리턴
+clear 		저장하고 있는 모든 데이터 삭제
+empty 		저장 데이터 유/무, 없으면 true 리턴
+size 		저장하고 있는 데이터의 개수 리턴
+insert 		지정된 위치에 삽입
+erase 		지정된 범위에 있는 데이터 삭제
+remove 		지정된 값과 일치하는 모든 데이터 삭제
+remove_if 	함수객체의 조건을 만족하는 모든 데이터 삭제
+sort 		데이터를 정렬한다.
+
+
+</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

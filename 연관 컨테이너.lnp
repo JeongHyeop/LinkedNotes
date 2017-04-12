@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>a9c43f21-cb2c-4638-aa77-f142496a3bbe</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset129 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f4\fswiss\fcharset0 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f5\fswiss\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'bf\'ac\'b0\'fc \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'b4\'c2 \'be\'ee\'b6\'b0\'c7\'d1 \f1 Key\f2\'bf\'cd \'c2\'a6\'c0\'bb \'c0\'cc\'b7\'e7\'be\'ee \'c0\'da\'b7\'e1\'b8\'a6 \'ba\'b8\'b0\'fc\'c7\'cf\'b4\'c2 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'c0\'cc\'b4\'d9. \'b1\'d7\'b7\'a1\'bc\'ad \'c0\'da\'b7\'e1\'b8\'a6 \'b3\'d6\'b0\'ed, \'bb\'a9\'b0\'ed, \'c3\'a3\'c0\'bb \'b6\'a7\'b4\'c2 \f1 key\f2\'b0\'a1 \'c7\'ca\'bf\'e4\'c7\'cf\'b4\'d9.\par
+\f1 map, set, hash_map, hash_set\f2\'c0\'cc \'c0\'d6\'b4\'d9.\par
+\par
+\'b8\'b8\'be\'e0 \'c1\'df\'ba\'b9\'b5\'c7\'b4\'c2 \f1 key\f2\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d2 \'b6\'a7\'b4\'c2 \f3\fs19\'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'c0\'c7 \'be\'d5\'bf\'a1 \f4 'multi'\f3\'b8\'a6 \'ba\'d9\'c0\'ce \f4 multi_map, multi_set, hash_multimap,hash_multiset\f3\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9\f4 . Key\f3\'c0\'c7 \'c1\'df\'ba\'b9 \'c7\'e3\'bf\'eb \'bf\'a9\'ba\'ce\'b8\'b8 \'b4\'d9\'b8\'a6 \'bb\'d3 \'bb\'e7\'bf\'eb\'b9\'e6\'b9\'fd\'c0\'ba \'b0\'b0\'b4\'d9\f4 .\f2\fs18\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'b4\'eb\'b7\'ae\'c0\'c7 \'c0\'da\'b7\'e1\'b8\'a6 \'ba\'b8\'b0\'fc\'c7\'cf\'b0\'ed \'b0\'cb\'bb\'f6\'c0\'bb \'ba\'fc\'b8\'a3\'b0\'d4 \'c7\'cf\'b0\'ed \'bd\'cd\'c0\'bb\'b6\'a7 \'bb\'e7\'bf\'eb\par
+\par
+\f4\fs20 hash\f5\'c0\'c7 \'c2\'f7\'c0\'cc\par
+-\'bf\'f8\'b7\'a1 \f4 map\f5\'b0\'fa \f4 set\f5  \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'b4\'c2 \'c0\'da\'b7\'e1\'b8\'a6 \'c1\'a4\'b7\'c4\'c7\'cf\'bf\'a9 \'c0\'fa\'c0\'e5\'c7\'cf\'b4\'c2\'b5\'a5 \'c0\'cc\'b8\'a6 \'b3\'d6\'c0\'ba \'bc\'f8\'bc\'ad\'b4\'eb\'b7\'ce\'b0\'a1 \'be\'c6\'b4\'d1 \'c1\'a4\'b7\'c4 \'b5\'c8 \'bc\'f8\'bc\'ad\'b4\'eb\'b7\'ce \'bc\'f8\'c8\'b8\'b8\'a6 \'c7\'d1\'b4\'d9. \'c0\'cc\'b6\'a7 \'be\'d5\'bf\'a1 \f4 hash\f5\'b0\'a1 \'ba\'d9\'b4\'c2\'b4\'d9\'b8\'e9 \'c1\'a4\'b7\'c4\'c7\'cf\'c1\'f6 \'be\'ca\'b0\'ed \'c0\'fa\'c0\'e5 \'c7\'d1\'b4\'d9. \f4 hash\f5\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d4\'c0\'b8\'b7\'ce\'bd\'e1 \'b0\'cb\'bb\'f6\'bc\'d3\'b5\'b5\'b0\'a1 \f4 map\f5\'b0\'fa \f4 set\f5\'c0\'c7 \'ba\'f1\'c7\'d8 \'bb\'a1\'b6\'f3\'c1\'f8\'b4\'d9.\par
+\par
+\f4 hash\f5\'b0\'a1 \'ba\'d9\'c0\'ba \'b0\'cd\'c0\'c7 \'c6\'af\'c2\'a1\par
+\f4 -hash_map\f5\'b0\'fa \f4 hash_set\f5\'c0\'ba \'c7\'a5\'c1\'d8 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'b0\'a1 \'be\'c6\'b4\'cf\'b4\'d9.\par
+-\f4\fs19 unordered_map, unordered_set\f5\fs18\'b0\'a1 \'bb\'f5\'b7\'d3\'b0\'d4 \'b3\'aa\'bf\'d4\'b4\'c2\'b5\'a5 \f4 hash_map\f5\'b0\'fa \f4 hash_set\f5\'c0\'cc\'b6\'fb \'b0\'b0\'b4\'d9.\par
+\par
+\par
+\par
+-\'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'bf\'a1 \'c3\'df\'b0\'a1\'b3\'aa \'bb\'e8\'c1\'a6\'b8\'a6 \'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'ba \f4 list, vector, deque\f5\'b0\'a1 \'bf\'ac\'b0\'fc \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'ba\'b8\'b4\'d9 \'ba\'fc\'b8\'a3\'b4\'d9.\par
+-\'c0\'fb\'c0\'ba \'bf\'e4\'bc\'d2\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'b0\'cb\'bb\'f6\'c7\'d2 \'b6\'a7\'b4\'c2 \f4 vector\f5\'b3\'aa \f4 list\f5\'b0\'a1 \'c8\'ce\'be\'c0 \'ba\'fc\'b8\'a3\'b4\'d9\par
+-\'bc\'f6\'c3\'b5\'c0\'c7 \'bf\'e4\'bc\'d2\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'b0\'cb\'bb\'f6\'c7\'d2 \'b6\'a7\'b4\'c2 \f4 hash_map\f5\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'c1\'c1\'b4\'d9.\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>연관 컨테이너</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-11T18:23:38.8119058+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-11T18:41:27.0380049+09:00</UpdatedOn>
+  <Words>연관 컨테이너는 어떠한 Key와 짝을 이루어 자료를 보관하는 컨테이너이다. 그래서 자료를 넣고, 빼고, 찾을 때는 key가 필요하다.
+map, set, hash_map, hash_set이 있다.
+
+만약 중복되는 key를 사용할 때는 컨테이너의 앞에 'multi'를 붙인 multi_map, multi_set, hash_multimap,hash_multiset을 사용한다. Key의 중복 허용 여부만 다를 뿐 사용방법은 같다.
+
+특징
+-대량의 자료를 보관하고 검색을 빠르게 하고 싶을때 사용
+
+hash의 차이
+-원래 map과 set 컨테이너는 자료를 정렬하여 저장하는데 이를 넣은 순서대로가 아닌 정렬 된 순서대로 순회를 한다. 이때 앞에 hash가 붙는다면 정렬하지 않고 저장 한다. hash를 사용함으로써 검색속도가 map과 set의 비해 빨라진다.
+
+hash가 붙은 것의 특징
+-hash_map과 hash_set은 표준 컨테이너가 아니다.
+-unordered_map, unordered_set가 새롭게 나왔는데 hash_map과 hash_set이랑 같다.
+
+
+
+-컨테이너에 추가나 삭제를 하는 것은 list, vector, deque가 연관 컨테이너보다 빠르다.
+-적은 요소를 저장하고 검색할 때는 vector나 list가 훨씬 빠르다
+-수천의 요소를 저장하고 검색할 때는 hash_map을 사용하는 것이 좋다.
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
