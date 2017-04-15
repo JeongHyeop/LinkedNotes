@@ -22,7 +22,7 @@ int main() \{\par
 //(\'c0\'d3\'bd\'c3 \'b4\'d9\'c7\'fc\'bc\'ba)\par
 \par
 \'c6\'f7\'c0\'ce\'c5\'cd\'b8\'a6 \'c5\'eb\'c7\'d1 \'ba\'f1\'b1\'b3\'b4\'c2 \'b3\'bb\'bf\'eb\'c0\'cc \'be\'c6\'b4\'d1 \'b8\'de\'b8\'f0\'b8\'ae\'c0\'a7 \'c0\'a7\'c4\'a1\'b8\'a6 \'ba\'f1\'b1\'b3\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'c5\'b8\'c0\'d4\'bf\'a1 \'b4\'eb\'c7\'d8\'bc\'ad\'b4\'c2 \'b5\'bf\'c0\'db\'c7\'cf\'c1\'f6 \'be\'ca\'b4\'c2\'b4\'d9.\par
-\'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'c5\'b8\'c0\'d4\'bf\'a1 \'b4\'eb\'c7\'d8\'bc\'ad \'b5\'bf\'c0\'db\'c7\'cf\'b0\'d4 \'b8\'b8\'b5\'e9\'b0\'ed \'bd\'cd\'b4\'d9\'b8\'e9 \'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'c5\'b8\'c0\'d4\'bf\'a1 \'b4\'eb\'c7\'d8 \'c5\'db\'c7\'c3\'b8\'b4 \'c6\'af\'bc\'f6\'c8\'ad\'c7\'d8\'be\'df \'b5\'c7\'b4\'c2\'b5\'a5 \'b1\'d7\'b7\'b8\'b0\'d4 \'b5\'c7\'b8\'e9 \'b4\'f5 \'c0\'cc\'bb\'f3 \'b8\'c5\'b0\'b3 \'ba\'af\'bc\'f6\f0\fs20  \f1\fs18\'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc \'be\'c6\'b4\'d1 \'c0\'d3\'bd\'c3 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc \'b5\'c9 \'b0\'cd\'c0\'cc\'b4\'d9.\par
+\'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'c5\'b8\'c0\'d4\'bf\'a1 \'b4\'eb\'c7\'d8\'bc\'ad \'b5\'bf\'c0\'db\'c7\'cf\'b0\'d4 \'b8\'b8\'b5\'e9\'b0\'ed \'bd\'cd\'b4\'d9\'b8\'e9 \'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'c5\'b8\'c0\'d4\'bf\'a1 \'b4\'eb\'c7\'d8 \'c5\'db\'c7\'c3\'b8\'b4 \'c6\'af\'bc\'f6\'c8\'ad\'c7\'d8\'be\'df \'b5\'c7\'b4\'c2\'b5\'a5 \'b1\'d7\'b7\'b8\'b0\'d4 \'b5\'c7\'b8\'e9 \'b4\'f5 \'c0\'cc\'bb\'f3 \'b8\'c5\'b0\'b3 \'ba\'af\'bc\'f6\f0\fs20  \f1\fs18\'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc \'be\'c6\'b4\'d1 \'c0\'d3\'bd\'c3 \'b4\'d9\'c7\'fc\'bc\'ba \'c0\'cc \'b5\'c9 \'b0\'cd\'c0\'cc\'b4\'d9.\par
 \par
 \'b8\'c5\'b0\'b3 \'ba\'af\'bc\'f6\f0\fs20  \f1\fs18\'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'c4\'c4\'c6\'c4\'c0\'cf \'c5\'b8\'c0\'d3\'bf\'a1 \'c0\'cf\'be\'ee\'b3\'aa\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c4\'c4\'c6\'c4\'c0\'cf \'c5\'b8\'c0\'d3 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc\'b6\'f3\'b0\'ed\'b5\'b5 \'ba\'ce\'b8\'a5\'b4\'d9.\f0\fs20\par
 }
@@ -32,7 +32,7 @@ int main() \{\par
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-03T10:15:28.3597222+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-03T10:53:38.6363057+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-14T21:02:47.4891819+09:00</UpdatedOn>
   <Words>(컴파일 타임 다형성)
 매개 변수 다형성은 어떤 타입에 대해 동일한 코드를 실행하기 위한 수단을 제공한다.
 C++에서는 템플릿 c#에서는 제네릭을 통해 구현
@@ -53,7 +53,7 @@ int main() {
 //(임시 다형성)
 
 포인터를 통한 비교는 내용이 아닌 메모리위 위치를 비교하기 때문에 포인터 타입에 대해서는 동작하지 않는다.
-포인터 타입에 대해서 동작하게 만들고 싶다면 포인터 타입에 대해 템플릿 특수화해야 되는데 그렇게 되면 더 이상 매개 변수 다형성이 아닌 임시 다형성이 될 것이다.
+포인터 타입에 대해서 동작하게 만들고 싶다면 포인터 타입에 대해 템플릿 특수화해야 되는데 그렇게 되면 더 이상 매개 변수 다형성이 아닌 임시 다형성 이 될 것이다.
 
 매개 변수 다형성은 컴파일 타임에 일어나기 때문에 컴파일 타임 다형성이라고도 부른다.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>

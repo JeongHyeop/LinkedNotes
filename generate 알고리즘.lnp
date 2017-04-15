@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>f47f13f6-a16f-4079-95c9-eee6c47bc84d</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs20 generate\f1\fs18\'b4\'c2 \'c6\'af\'c1\'a4\'c7\'d1 \'b9\'fc\'c0\'a7\'b8\'a6 \'c6\'af\'c1\'a4 \'b0\'aa\'c0\'b8\'b7\'ce \'c3\'a4\'bf\'ec\'b0\'ed \'bd\'cd\'c0\'bb\'b6\'a7 \'bb\'e7\'bf\'eb \'b5\'c7\'b4\'c2 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\f0\fs20\par
+\cf1\f1\fs18\par
+struct User\par
+\{\par
+\tab int UID;\par
+\tab int RaceType;\par
+\tab int Sex;\par
+\tab int Money;\par
+\};\par
+struct SetUserInfo\par
+\{\par
+\tab SetUserInfo() \{ UserCount = 0; \}\par
+\tab User operator() ()\par
+\tab\{\par
+\tab\tab User user;\par
+\tab\tab ++UserCount;\par
+\tab\tab user.UID = UserCount;\par
+\tab\tab user.Money = 2000;\par
+\tab\tab if( 0 == (UserCount%2) )\par
+\tab\tab\{\par
+\tab\tab\tab user.RaceType = 1;\par
+\tab\tab\tab user.Sex = 1;\par
+\tab\tab\tab user.Money += 1000;\par
+\tab\tab\}\par
+\tab\tab else\par
+\tab\tab\{\par
+\tab\tab\tab user.RaceType = 0;\par
+\tab\tab\tab user.Sex = 0;\par
+\tab\tab\}\par
+\tab\tab return user;\par
+\tab\}\par
+\tab int UserCount;\par
+\};\par
+\par
+int main()\par
+\{\par
+\tab vector&lt; User &gt; Users(5);\par
+\tab generate( Users.begin(), Users.end(), SetUserInfo() );\par
+\tab char szUserInfo[256] = \{0,\};\par
+\tab vector&lt; User &gt;::iterator IterUser;\par
+\tab for( IterUser = Users.begin(); IterUser != Users.end(); ++IterUser )\par
+\tab\{\par
+\tab\tab sprintf( szUserInfo, "UID %d, RaceType : %d, Sex : %d, Money : %d",\par
+\tab\tab IterUser-&gt;UID, IterUser-&gt;RaceType, IterUser-&gt;Sex, IterUser-&gt;Money );\par
+\tab\tab cout &lt;&lt; szUserInfo &lt;&lt; endl;\par
+\tab\}\par
+return 0;\par
+\}\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>generate 알고리즘</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-12T23:37:29.5972219+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-12T23:42:12.4995208+09:00</UpdatedOn>
+  <Words>generate는 특정한 범위를 특정 값으로 채우고 싶을때 사용 되는 알고리즘
+
+struct User
+{
+	int UID;
+	int RaceType;
+	int Sex;
+	int Money;
+};
+struct SetUserInfo
+{
+	SetUserInfo() { UserCount = 0; }
+	User operator() ()
+	{
+		User user;
+		++UserCount;
+		user.UID = UserCount;
+		user.Money = 2000;
+		if( 0 == (UserCount%2) )
+		{
+			user.RaceType = 1;
+			user.Sex = 1;
+			user.Money += 1000;
+		}
+		else
+		{
+			user.RaceType = 0;
+			user.Sex = 0;
+		}
+		return user;
+	}
+	int UserCount;
+};
+
+int main()
+{
+	vector&lt; User &gt; Users(5);
+	generate( Users.begin(), Users.end(), SetUserInfo() );
+	char szUserInfo[256] = {0,};
+	vector&lt; User &gt;::iterator IterUser;
+	for( IterUser = Users.begin(); IterUser != Users.end(); ++IterUser )
+	{
+		sprintf( szUserInfo, "UID %d, RaceType : %d, Sex : %d, Money : %d",
+		IterUser-&gt;UID, IterUser-&gt;RaceType, IterUser-&gt;Sex, IterUser-&gt;Money );
+		cout &lt;&lt; szUserInfo &lt;&lt; endl;
+	}
+return 0;
+}</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

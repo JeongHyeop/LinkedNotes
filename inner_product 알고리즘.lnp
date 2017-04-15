@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>f0a402e7-ade5-403c-b710-58b1f5f34792</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f3\fswiss\fcharset0 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f4\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs20 inner_product \f1\'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \'b5\'ce \'c0\'d4\'b7\'c2 \'bd\'c3\'c4\'f6\'bd\'ba\'c0\'c7 \'b3\'bb\'c0\'fb\'c0\'bb \'b0\'e8\'bb\'ea\'c7\'cf\'b4\'c2 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'b8\'b7\'ce \f2\fs19\'b1\'e2\'ba\'bb\'c0\'fb\'c0\'b8\'b7\'ce\'b4\'c2 \f3 +\f2\'bf\'cd \f3 *\f2\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9\f3 . \f2\'b5\'ce \'c0\'d4\'b7\'c2 \'bd\'c3\'c4\'f6\'bd\'ba\'c0\'c7 \'b0\'aa\'c0\'ba \'c0\'a7\'c4\'a1\'c0\'c7 \'b0\'aa\'c0\'bb \'bc\'ad\'b7\'ce \'b0\'f6\'c7\'d1 \'b0\'aa\'c0\'bb \'b8\'f0\'b5\'ce \'b4\'f5 \'c7\'d1 \'b0\'cd\'c0\'cc \'c3\'d6\'c1\'be\'b0\'e8\'bb\'ea \'b0\'aa\'c0\'cc \'b5\'c8\'b4\'d9\f3 . \f2\'c1\'d6\'c0\'c7 \'c7\'d8\'be\'df \'c7\'d2 \'b0\'cd\'c0\'ba \'b5\'ce \'c0\'d4\'b7\'c2 \'bd\'c3\'c4\'f6\'bd\'ba\'c0\'c7 \'b1\'b8\'b0\'a3 \'c1\'df \'b5\'ce \'b9\'f8\'c2\'b0 \'bd\'c3\'c4\'f6\'bd\'ba\'b4\'c2 \'c3\'b9 \'b9\'f8\'c2\'b0 \'bd\'c3\'c4\'f6\'bd\'ba \'b1\'b8\'b0\'a3 \'ba\'b8\'b4\'d9 \'c5\'a9\'b0\'c5\'b3\'aa \'b0\'b0\'be\'c6\'be\'df \'c7\'d1\'b4\'d9\f3 . \f2\'c1\'ef \'c3\'b9 \'b9\'f8\'c2\'b0 \'bd\'c3\'c4\'f6\'bd\'ba \'b1\'b8\'b0\'a3\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd\'b4\'c2 \f3 5\f2\'b0\'b3\'b0\'a1 \'c0\'d6\'b4\'c2\'b5\'a5 \'b5\'ce \'b9\'f8\'c2\'b0 \'bd\'c3\'c4\'f6\'bd\'ba\'bf\'a1 \'c0\'d6\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd\'b0\'a1 \f3 5\f2\'b0\'b3 \'ba\'b8\'b4\'d9 \'c0\'db\'c0\'b8\'b8\'e9 \'be\'c8 \'b5\'c8\'b4\'d9\f3 .\par
+\par
+\cf1\f4\fs18 inner_product\'c0\'c7 \'bf\'f8\'c7\'fc\par
+template&lt;class InputIterator1, class InputIterator2, class Type&gt;\par
+Type inner_product( InputIterator1 _First1, InputIterator1 _Last1,InputIterator2 _First2,Type _Val );\par
+\'c1\'b6\'b0\'c7\'c0\'da\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b9\'f6\'c0\'fc\'c0\'b8\'b7\'ce \'c1\'b6\'b0\'c7\'c0\'da\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e9 \'c0\'af\'c0\'fa \'c1\'a4\'c0\'c7\'c7\'fc\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \'b3\'bb\'c0\'fb \'bf\'ac\'bb\'ea \'b9\'e6\'b9\'fd\'c0\'bb \'b9\'d9\'b2\'dc \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+\par
+template&lt;class InputIterator1, class InputIterator2, class Type, class BinaryOperation1, class BinaryOperation2&gt;\par
+Type inner_product( InputIterator1 _First1, InputIterator1 _Last1,InputIterator2 _First2,Type _Val, BinaryOperation1 _Binary_op1, BinaryOperation2 _Binary_op2 );\par
+\par
+\'bb\'e7\'bf\'eb \'bf\'b9)\par
+#include &lt;vector&gt;\par
+#include &lt;iostream&gt;\par
+#include &lt;numeric&gt;\par
+using namespace std;\par
+int main()\par
+\{\par
+\tab vector&lt;int&gt; vec1;\par
+\tab for( int i = 1; i &lt; 4; ++i )\par
+\tab\tab vec1.push_back(i);\par
+\par
+\tab vector&lt;int&gt; vec2;\par
+\tab for( int i = 1; i &lt; 4; ++i )\par
+\tab\tab vec2.push_back(i);\par
+\par
+\tab int Result = inner_product( vec1.begin(), vec1.end(), vec2.begin(), 0 );\par
+\tab cout &lt;&lt; Result &lt;&lt; endl;\par
+\tab return 0;\par
+\}\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>inner_product 알고리즘</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-13T00:15:48.640478+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-13T00:18:27.7397629+09:00</UpdatedOn>
+  <Words>inner_product 알고리즘은 두 입력 시퀀스의 내적을 계산하는 알고리즘으로 기본적으로는 +와 *을 사용한다. 두 입력 시퀀스의 값은 위치의 값을 서로 곱한 값을 모두 더 한 것이 최종계산 값이 된다. 주의 해야 할 것은 두 입력 시퀀스의 구간 중 두 번째 시퀀스는 첫 번째 시퀀스 구간 보다 크거나 같아야 한다. 즉 첫 번째 시퀀스 구간의 데이터는 5개가 있는데 두 번째 시퀀스에 있는 데이터가 5개 보다 작으면 안 된다.
+
+inner_product의 원형
+template&lt;class InputIterator1, class InputIterator2, class Type&gt;
+Type inner_product( InputIterator1 _First1, InputIterator1 _Last1,InputIterator2 _First2,Type _Val );
+조건자를 사용하는 버전으로 조건자를 사용하면 유저 정의형을 사용할 수 있는 내적 연산 방법을 바꿀 수 있다.
+
+template&lt;class InputIterator1, class InputIterator2, class Type, class BinaryOperation1, class BinaryOperation2&gt;
+Type inner_product( InputIterator1 _First1, InputIterator1 _Last1,InputIterator2 _First2,Type _Val, BinaryOperation1 _Binary_op1, BinaryOperation2 _Binary_op2 );
+
+사용 예)
+#include &lt;vector&gt;
+#include &lt;iostream&gt;
+#include &lt;numeric&gt;
+using namespace std;
+int main()
+{
+	vector&lt;int&gt; vec1;
+	for( int i = 1; i &lt; 4; ++i )
+		vec1.push_back(i);
+
+	vector&lt;int&gt; vec2;
+	for( int i = 1; i &lt; 4; ++i )
+		vec2.push_back(i);
+
+	int Result = inner_product( vec1.begin(), vec1.end(), vec2.begin(), 0 );
+	cout &lt;&lt; Result &lt;&lt; endl;
+	return 0;
+}</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

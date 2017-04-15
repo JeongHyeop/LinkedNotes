@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>be00aa3a-6eba-49a9-b054-1ff13aae7183</PageId>
-  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
 \viewkind4\uc1\pard\lang1042\f0\fs20 (\f1\fs18\'b7\'b1\'c5\'b8\'c0\'d3 \'b4\'d9\'c7\'fc\'bc\'ba\f0\fs20 )\par
-\f1\fs18\'ba\'a3\'c0\'cc\'bd\'ba \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'c6\'f7\'c0\'ce\'c5\'cd\f0\fs20  \f1\fs18\'b6\'c7\'b4\'c2 \'c2\'fc\'c1\'b6\'c7\'fc\'c0\'bb \'c5\'eb\'c7\'d8 \'c6\'c4\'bb\'fd \'c5\'ac\'b7\'a1\'bd\'ba\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b1\'e2\'b4\'c9\par
-\par
-\'bc\'ad\'ba\'ea\'c5\'b8\'c0\'d4 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'b7\'b1\'c5\'b8\'c0\'d3 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc\'b6\'f3\'b0\'ed \'ba\'ce\'b8\'a3\'b1\'e2\'b5\'b5 \'c7\'d1\'b4\'d9. \'b4\'d9\'c7\'fc\'bc\'ba \'c7\'d4\'bc\'f6\'c0\'c7 \'c8\'a3\'c3\'e2 \'b0\'e1\'c1\'a4\'c0\'ba \'b7\'b1\'c5\'b8\'c0\'d3\'bf\'a1 \'b0\'a1\'bb\'f3 \'c5\'d7\'c0\'cc\'ba\'ed\'c0\'bb \'c5\'eb\'c7\'d1 \'b0\'a3\'c1\'a2 \'c2\'fc\'c1\'b6\'b8\'a6 \'c5\'eb\'c7\'d8 \'c0\'cf\'be\'ee\'b3\'ad\'b4\'d9. \'c1\'bb \'b4\'f5 \'bd\'b1\'b0\'d4 \'bc\'b3\'b8\'ed\'c7\'cf\'c0\'da\'b8\'e9, \'c4\'c4\'c6\'c4\'c0\'cf\'b7\'af\'b0\'a1 \'c4\'c4\'c6\'c4\'c0\'cf \'c5\'b8\'c0\'d3 \'b6\'a7 \'c8\'a3\'c3\'e2\'b5\'c9 \'c7\'d4\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'c3\'a3\'b4\'c2 \'b0\'cd\'c0\'cc \'be\'c6\'b4\'cf\'b6\'f3 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'bb \'bd\'c7\'c7\'e0\'c7\'d2 \'b6\'a7 \'b0\'a1\'bb\'f3 \'c5\'d7\'c0\'cc\'ba\'ed\'bf\'a1 \'c0\'d6\'b4\'c2 \'bf\'c0\'b8\'a5\'c2\'ca \'c6\'f7\'c0\'ce\'c5\'cd\'b8\'a6 \'bf\'aa\'c2\'fc\'c1\'b6\'c7\'d8 \'c7\'d4\'bc\'f6\'b8\'a6 \'c8\'a3\'c3\'e2\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc\'b4\'d9.\par
+\f1\fs18\'bc\'ad\'ba\'ea\'c5\'b8\'c0\'d4 \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \f0 A\f2\'b0\'a1 \f0 B\f2\'c0\'c7 \'bc\'ad\'ba\'ea\'c5\'b8\'c0\'d4\'c0\'cf \'b0\'e6\'bf\'ec \f0 A\f2\'b8\'a6 \f0 B\f2\'b7\'ce \'b0\'a3\'c1\'d6\'c7\'d8\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'d8\'b5\'b5 \'bd\'c7\'c1\'a6\'b7\'ce \f0 A\f2\'b7\'ce\'bd\'e1 \'c0\'db\'b5\'bf\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'bb \'b8\'bb\'c7\'d1\'b4\'d9.\par
+\'bf\'b9\'b8\'a6\'b5\'e9\'be\'ee \'b5\'bf\'b9\'b0\'c0\'cc\'b6\'f5 \'b0\'b4\'c3\'bc\'b0\'a1 \'bc\'ad\'ba\'ea\'c5\'b8\'c0\'d4\'c0\'b8\'b7\'ce \'c4\'b9, \'c5\'b8\'c0\'cc\'b0\'c5, \'b0\'b3\'b8\'a6 \'bc\'ad\'ba\'ea\'c5\'b8\'c0\'d4\'c0\'b8\'b7\'ce \'b0\'a1\'c1\'f6\'b0\'ed \'c0\'d6\'c0\'bb \'b0\'e6\'bf\'ec \'b6\'c8\'b0\'b0\'c0\'cc \'b5\'bf\'b9\'b0\'b7\'ce \'b0\'a3\'c1\'d6\'c7\'d8\'bc\'ad \'b5\'bf\'c0\'db\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'cc\'b4\'d9. \f0 C++\f2\'c0\'ba \'c0\'cc\'b0\'cd\'c0\'bb \'b1\'b8\'c7\'f6\'c7\'d2\'b6\'a7 \'bf\'c0\'b9\'f6\'b6\'f3\'c0\'cc\'b5\'f9\'c0\'bb \'c5\'eb\'c7\'d8\'bc\'ad \'c1\'f6\'bf\'f8\'c7\'d1\'b4\'d9. \'b5\'bf\'b9\'b0\'c0\'bb \'b0\'a2\'b0\'a2 \'bb\'f3\'bc\'d3\'b9\'de\'b0\'ed \'b0\'a2\'c0\'da \'b8\'de\'bc\'ad\'b5\'e5\'b7\'ce \'bf\'c0\'b9\'f6\'b6\'f3\'c0\'cc\'b5\'f9\'c7\'d8\'bc\'ad \'b7\'b1\'c5\'b8\'c0\'d3\'b6\'a7 \'b0\'a1\'bb\'f3 \'c5\'d7\'c0\'cc\'ba\'ed\'bf\'a1\'bc\'ad \'c2\'fc\'c1\'b6\'c7\'cf\'bf\'a9 \'bd\'c7\'c7\'e0\'b5\'c9 \'c7\'d4\'bc\'f6\'b8\'a6 \'b0\'e1\'c1\'a4\'c7\'d1\'b4\'d9.\f1\par
 \par
 \'bf\'b9\'c1\'a6)\par
 class Felid \{\par
@@ -48,11 +47,10 @@ int main() \{\par
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-03T10:15:19.6685069+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-03T10:22:47.1924973+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-14T21:01:41.7244203+09:00</UpdatedOn>
   <Words>(런타임 다형성)
-베이스 클래스의 포인터 또는 참조형을 통해 파생 클래스를 사용하는 기능
-
-서브타입 다형성은 런타임 다형성이라고 부르기도 한다. 다형성 함수의 호출 결정은 런타임에 가상 테이블을 통한 간접 참조를 통해 일어난다. 좀 더 쉽게 설명하자면, 컴파일러가 컴파일 타임 때 호출될 함수의 주소를 찾는 것이 아니라 프로그램을 실행할 때 가상 테이블에 있는 오른쪽 포인터를 역참조해 함수를 호출하는 것이다.
+서브타입 다형성은 A가 B의 서브타입일 경우 A를 B로 간주해서 사용해도 실제로 A로써 작동하는 것을 말한다.
+예를들어 동물이란 객체가 서브타입으로 캣, 타이거, 개를 서브타입으로 가지고 있을 경우 똑같이 동물로 간주해서 동작하는 방법이다. C++은 이것을 구현할때 오버라이딩을 통해서 지원한다. 동물을 각각 상속받고 각자 메서드로 오버라이딩해서 런타임때 가상 테이블에서 참조하여 실행될 함수를 결정한다.
 
 예제)
 class Felid {

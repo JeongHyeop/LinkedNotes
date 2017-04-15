@@ -2,7 +2,7 @@
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>a5696c97-d122-407b-85db-5ac8fddac3ab</PageId>
   <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
-\viewkind4\uc1\pard\lang1042\f0\fs18\'ba\'af\'b0\'e6 \'b0\'a1\'b4\'c9 \'bd\'c3\'c4\'f6\'bd\'ba \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \f1 copy, generate \f0\'b5\'ee\'c0\'cc \'c0\'d6\'c0\'b8\'b8\'e7 \'b4\'eb\'bb\'f3 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca \'b3\'bb\'bf\'eb\'c0\'bb \'ba\'af\'b0\'e6\'c7\'d1\'b4\'d9.\f1\fs20\par
+\viewkind4\uc1\pard\lang1042\f0\fs18\'ba\'af\'b0\'e6 \'b0\'a1\'b4\'c9 \'bd\'c3\'c4\'f6\'bd\'ba \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \f1 copy, generate \f0\'b5\'ee\'c0\'cc \'c0\'d6\'c0\'b8\'b8\'e7 \'b4\'eb\'bb\'f3 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca \'b3\'bb\'bf\'eb\'c0\'bb \'ba\'af\'b0\'e6\'c7\'d1\'b4\'d9. \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'bf\'a1 \'ba\'b9\'bb\'e7, \'bb\'e8\'c1\'a6, \'b4\'eb\'c3\'bc\'b5\'ee\'c0\'bb \'c7\'d2 \'b6\'a7 \'bb\'e7\'bf\'eb\'b5\'c7\'b4\'c2 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'cc\'b4\'d9.\f1\fs20\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -10,8 +10,8 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-11T23:34:46.4113371+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-11T23:36:16.2954782+09:00</UpdatedOn>
-  <Words>변경 가능 시퀀스 알고리즘은 copy, generate 등이 있으며 대상 컨테이너 내용을 변경한다.</Words>
+  <UpdatedOn>2017-04-12T23:37:32.0942263+09:00</UpdatedOn>
+  <Words>변경 가능 시퀀스 알고리즘은 copy, generate 등이 있으며 대상 컨테이너 내용을 변경한다. 컨테이너에 복사, 삭제, 대체등을 할 때 사용되는 알고리즘이다.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

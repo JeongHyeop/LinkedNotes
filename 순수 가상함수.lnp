@@ -7,7 +7,9 @@
 \'bf\'b9\'bd\'c3)\par
 \f1 virtual int Sum() = 0; //\f0\'bc\'f8\'bc\'f6 \'b0\'a1\'bb\'f3\'c7\'d4\'bc\'f6\par
 \par
-\'c1\'f7\'c1\'a2\'c0\'fb\'c0\'b8\'b7\'ce \'be\'c8\'c0\'c7 \'b3\'bb\'bf\'eb\'c0\'bb \'c1\'a4\'c7\'d8\'c1\'d6\'c1\'f6 \'be\'ca\'be\'d2\'c1\'f6\'b8\'b8 \'c6\'b2\'c0\'ba \'b8\'b8\'b5\'e9\'be\'ee\'c1\'d6\'be\'ee\'bc\'ad \'b0\'a2\'b0\'a2 \'bb\'e7\'bf\'eb\'c7\'d8\'b6\'f3 \'b6\'f3\'b4\'c2 \'c7\'d4\'bc\'f6\'c0\'cc\'b4\'d9.\f1\fs20\par
+\'c1\'f7\'c1\'a2\'c0\'fb\'c0\'b8\'b7\'ce \'be\'c8\'c0\'c7 \'b3\'bb\'bf\'eb\'c0\'bb \'c1\'a4\'c7\'d8\'c1\'d6\'c1\'f6 \'be\'ca\'be\'d2\'c1\'f6\'b8\'b8 \'c6\'b2\'c0\'ba \'b8\'b8\'b5\'e9\'be\'ee\'c1\'d6\'be\'ee\'bc\'ad \'b0\'a2\'b0\'a2 \'bb\'e7\'bf\'eb\'c7\'d8\'b6\'f3 \'b6\'f3\'b4\'c2 \'c7\'d4\'bc\'f6\'c0\'cc\'b4\'d9.\par
+\par
+\'c1\'ef, \'c3\'d6\'bb\'f3\'c0\'a7 \'b0\'b4\'c3\'bc\'c0\'c7 \f1 virtual\f0\'c5\'b0\'bf\'f6\'b5\'e5\'b8\'a6 \'ba\'d9\'bf\'a9 \'bc\'f8\'bc\'f6 \'b0\'a1\'bb\'f3\'c7\'d4\'bc\'f6\'b7\'ce \'b8\'b8\'b5\'e7\'b4\'d9\'b8\'e9 \'b1\'d7 \'c7\'d4\'bc\'f6\'b4\'c2 \'c6\'c4\'bb\'fd\'c5\'ac\'b7\'a1\'bd\'ba\'bf\'a1\'b5\'b5 \'c0\'fc\'ba\'ce \'b0\'a1\'bb\'f3\'c7\'d4\'bc\'f6\'b7\'ce \'bb\'e7\'bf\'eb\'c7\'cf\'b6\'f3\'b4\'c2 \'c0\'c7\'b9\'cc\'c0\'cc\'b4\'d9.\f1\fs20\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -15,13 +17,15 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-05T23:46:56.9004304+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-07T17:16:23.5605972+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-14T21:25:55.7215842+09:00</UpdatedOn>
   <Words>순수 가상함수란 함수의 몸체가 정의되지 않은 함수
 
 예시)
 virtual int Sum() = 0; //순수 가상함수
 
-직접적으로 안의 내용을 정해주지 않았지만 틀은 만들어주어서 각각 사용해라 라는 함수이다.</Words>
+직접적으로 안의 내용을 정해주지 않았지만 틀은 만들어주어서 각각 사용해라 라는 함수이다.
+
+즉, 최상위 객체의 virtual키워드를 붙여 순수 가상함수로 만든다면 그 함수는 파생클래스에도 전부 가상함수로 사용하라는 의미이다.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

@@ -8,7 +8,7 @@
 \f0\'bf\'a9\'b1\'e2\'bc\'ad \f1 a\f2\'b4\'c2 \f1 int\f2\'c7\'fc \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'d9.\par
 \par
 &amp;: \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b0\'aa\par
-*: \'c6\'f7\'c0\'ce\'c5\'cd \'ba\'af\'bc\'f6\'b0\'a1 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c1\'d6\'bc\'d2\'c0\'c7 \'b0\'aa\par
+*: \'c6\'f7\'c0\'ce\'c5\'cd \'ba\'af\'bc\'f6\'b0\'a1 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c1\'d6\'bc\'d2\'be\'c8\'c0\'c7 \'b0\'aa\par
 \par
 //\'c6\'f7\'c0\'ce\'c5\'cd\'c7\'fc \'ba\'af\'bc\'f6\'b4\'c2 \'b4\'d9\'b8\'a5 \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b0\'aa\'b8\'b8 \'b9\'de\'c0\'bb \'bc\'f6\'c0\'d6\'b4\'d9.\par
 \f1 ex)*a = &amp;value;\par
@@ -39,14 +39,14 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-18T14:15:54.6688496+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-25T13:38:34.8176881+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-14T20:46:28.0910835+09:00</UpdatedOn>
   <Words>포인터는 다른 변수의 주소를 저장하고 있는 변수
 
 int *a;
 여기서 a는 int형 변수의 주소를 저장하고 있다.
 
 &amp;: 변수의 주소값
-*: 포인터 변수가 가리키는 주소의 값
+*: 포인터 변수가 가리키는 주소안의 값
 
 //포인터형 변수는 다른 변수의 주소값만 받을 수있다.
 ex)*a = &amp;value;

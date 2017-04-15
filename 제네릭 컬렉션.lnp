@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>5e233476-db5f-45d8-bd82-08ca4ba35b37</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c1\'a6\'b3\'d7\'b8\'af\f1\fs20  \f0\fs18\'c4\'c3\'b7\'ba\'bc\'c7\'c0\'cc\'b6\'f5 \'c1\'a6\'b3\'d7\'b8\'af\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'d1 \'c4\'c3\'b7\'ba\'bc\'c7\f1\fs20  \f2\fs18\'c1\'ef, \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'bf\'a1 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'bb \'c1\'f6\'c1\'a4\'c7\'d8\'c1\'d6\'b4\'c2 \'b0\'cd\par
+\cf1\lang1033\kerning24\par
+\'c1\'a6\'b3\'d7\'b8\'af \'c4\'c3\'b7\'ba\'bc\'c7 \'c1\'be\'b7\'f9\par
+-List\par
+ArrayList\lang1042\'bf\'cd \'b1\'e2\'b4\'c9\'c0\'ba \'b0\'b0\'b4\'d9\lang1033 . \lang1042\'c7\'cf\'c1\'f6\'b8\'b8 \'c7\'fc\'bd\'c4 \'c1\'f6\'c1\'a4\'c0\'da \'bb\'e7\'bf\'eb \f1 List&lt;int&gt; list\f2  = \f1 new List&lt;int&gt;();\f2\par
+\lang1033\par
+-Queue\par
+\'c4\'c3\'b7\'ba\'bc\'c7 Queue\lang1042\'b1\'e2\'b4\'c9\'c0\'ba \'b0\'b0\'b4\'d9\lang1033 . \lang1042\'c7\'cf\'c1\'f6\'b8\'b8 \'c7\'fc\'bd\'c4 \'c1\'f6\'c1\'a4\'c0\'da \'bb\'e7\'bf\'eb \f1 Queue&lt;int&gt; queue\f2  = \f1 new Queue&lt;int&gt;();\f2\par
+\lang1033\par
+-Stack\par
+\'c4\'c3\'b7\'ba\'bc\'c7 Stack\'b0\'fa \lang1042\'b1\'e2\'b4\'c9\'c0\'ba \'b0\'b0\'b4\'d9\lang1033 . \lang1042\'c7\'cf\'c1\'f6\'b8\'b8 \'c7\'fc\'bd\'c4 \'c1\'f6\'c1\'a4\'c0\'da \'bb\'e7\'bf\'eb \f1 Stack&lt;int&gt; stack\f2  = \f1 new Stack&lt;int&gt;();\f2\par
+\lang1033\par
+-Dictionary\par
+\'c4\'c3\'b7\'ba\'bc\'c7 \f1 HashTable\f2\'c0\'cc\'b6\'f3\'b0\'ed \'bb\'fd\'b0\'a2\'c7\'cf\'b8\'e9 \'b5\'c8\'b4\'d9. &lt;\f1 Key, Value\f2 &gt; \f1 Dictionary&lt;string, string&gt; dictionary = new Dictionary&lt;string, string&gt;();\par
+\f2\par
+-Sorted List\par
+HashTable\lang1042\'b0\'fa \lang1033 ArrayList\lang1042\'c0\'c7 \'c8\'a5\'c7\'d5\'c7\'fc \'c1\'ef\lang1033 , Key\lang1042\'bf\'cd \lang1033 Value\lang1042\'b7\'ce \'c0\'cc\'b7\'e7\'be\'ee\'c1\'ae \'c0\'d6\'b0\'ed \'c5\'b0\'b8\'a6 \'b1\'e2\'c1\'d8\'c0\'b8\'b7\'ce \'c1\'a4\'b7\'c4\'c7\'d1\'b4\'d9 \'b1\'d7\'b8\'ae\'b0\'ed  \lang1033 index\lang1042\'bf\'cd \lang1033 key\lang1042\'b7\'ce \'c1\'a2\'b1\'d9 \'b0\'a1\'b4\'c9\lang1033\par
+SortedList&lt;\f1 int, string\f2 &gt; \f1 sortedList\f2  = \f1 new SortedList&lt;int, string&gt;();\f2\par
+\cf0\lang1042\kerning0\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>제네릭 컬렉션</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-13T11:32:55.4293702+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-13T11:50:56.017835+09:00</UpdatedOn>
+  <Words>제네릭 컬렉션이란 제네릭을 사용한 컬렉션 즉, 자료구조에 자료형을 지정해주는 것
+
+제네릭 컬렉션 종류
+-List
+ArrayList와 기능은 같다. 하지만 형식 지정자 사용 List&lt;int&gt; list = new List&lt;int&gt;();
+
+-Queue
+컬렉션 Queue기능은 같다. 하지만 형식 지정자 사용 Queue&lt;int&gt; queue = new Queue&lt;int&gt;();
+
+-Stack
+컬렉션 Stack과 기능은 같다. 하지만 형식 지정자 사용 Stack&lt;int&gt; stack = new Stack&lt;int&gt;();
+
+-Dictionary
+컬렉션 HashTable이라고 생각하면 된다. &lt;Key, Value&gt; Dictionary&lt;string, string&gt; dictionary = new Dictionary&lt;string, string&gt;();
+
+-Sorted List
+HashTable과 ArrayList의 혼합형 즉, Key와 Value로 이루어져 있고 키를 기준으로 정렬한다 그리고  index와 key로 접근 가능
+SortedList&lt;int, string&gt; sortedList = new SortedList&lt;int, string&gt;();
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

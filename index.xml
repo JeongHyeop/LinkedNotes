@@ -3,7 +3,7 @@
 <page name="C++" expand="1">
 <page name="포인터">
 </page>
-<page name="상속">
+<page name="상속" expand="1">
 <page name="포함">
 </page>
 </page>
@@ -82,13 +82,33 @@
 </page>
 <page name="STL" expand="1">
 <page name="STL 알고리즘" expand="1">
-<page name="변경 불가 시퀀스 알고리즘">
+<page name="변경 불가 시퀀스 알고리즘" expand="1">
+<page name="find 알고리즘">
 </page>
-<page name="변경 가능 시퀀스 알고리즘">
+<page name="for_each 알고리즘">
 </page>
-<page name="정렬 관련 알고리즘">
 </page>
-<page name="범용 수치 알고리즘">
+<page name="변경 가능 시퀀스 알고리즘" expand="1">
+<page name="generate 알고리즘">
+</page>
+<page name="copy 알고리즘">
+</page>
+<page name="remove 알고리즘">
+</page>
+<page name="replace 알고리즘">
+</page>
+</page>
+<page name="정렬 관련 알고리즘" expand="1">
+<page name="sort 알고리즘">
+</page>
+<page name="merge 알고리즘">
+</page>
+</page>
+<page name="범용 수치 알고리즘" expand="1">
+<page name="accumulate 알고리즘">
+</page>
+<page name="inner_product 알고리즘">
+</page>
 </page>
 </page>
 <page name="시퀀스 컨테이너" expand="1">
@@ -115,15 +135,19 @@
 </page>
 <page name="델리게이트">
 </page>
-<page name="코루틴">
-</page>
 <page name="제네릭">
 </page>
 <page name="컬렉션">
 </page>
+<page name="제네릭 컬렉션">
+</page>
+<page name="코루틴">
+</page>
 <page name="Boxing">
 </page>
 <page name="UnBoxing">
+</page>
+<page name="프로퍼티">
 </page>
 </page>
 <page name="자료구조" expand="1">
@@ -227,7 +251,7 @@
 </page>
 <page name="구조체">
 </page>
-<page name="프로그램 진행순서">
+<page name="프로그램 진행순서" expand="1">
 <page name="전처리기" expand="1">
 <page name="#if">
 </page>
@@ -276,6 +300,8 @@
 </page>
 <page name="힙">
 </page>
+</page>
+<page name="네임 스페이스">
 </page>
 </page>
 <page name="수학">

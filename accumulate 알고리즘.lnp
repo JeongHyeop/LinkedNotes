@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>0248d360-568e-4f9f-93f4-b4e6715a472a</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f3\fswiss\fcharset0 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f4\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs20 accumulate \f1\'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \f2\fs19\'c1\'f6\'c1\'a4\'c7\'d1 \'b1\'b8\'b0\'a3\'bf\'a1 \'bc\'d3\'c7\'d1 \'b0\'aa\'b5\'e9\'c0\'bb \'b8\'f0\'b5\'e7 \'b4\'f5\'c7\'d1 \'b0\'aa\'c0\'bb \'b0\'e8\'bb\'ea\'c7\'d1\'b4\'d9\f3 . \f2\'b1\'e2\'ba\'bb\'c0\'fb\'c0\'b8\'b7\'ce \'b4\'f5\'c7\'cf\'b1\'e2 \'bf\'ac\'bb\'ea\'b8\'b8 \'c7\'cf\'c1\'f6\'b8\'b8 \'c1\'b6\'b0\'c7\'c0\'da\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e9 \'b4\'f5\'c7\'cf\'b1\'e2 \'c0\'cc\'bf\'dc\'c0\'c7 \'bf\'ac\'bb\'ea\'b5\'b5 \'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9\f3 . accumulate\f2\'b8\'a6\'bb\'e7\'bf\'eb\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad\'b4\'c2 \'be\'d5\'bc\'ad \'bc\'d2\'b0\'b3\'c7\'d1 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'b0\'fa \'b4\'d9\'b8\'a3\'b0\'d4 \f3 &lt;numeric&gt; \f2\'c7\'ec\'b4\'f5 \'c6\'c4\'c0\'cf\'c0\'bb \'c6\'f7\'c7\'d4\'c7\'d8\'be\'df \'c7\'d1\'b4\'d9\f3 .\par
+\par
+\cf1\f4\fs18 accumulate\'c0\'c7 \'bf\'f8\'c7\'fc\par
+template&lt;class InputIterator, class Type&gt;\par
+Type accumulate( InputIterator _First, InputIterator _Last, Type _Val );\par
+\'c3\'b9 \'b9\'f8\'c2\'b0\'bf\'cd \'b5\'ce \'b9\'f8\'c2\'b0 \'c6\'c4\'b6\'f3\'b9\'cc\'c5\'cd\'b4\'c2 \'b1\'b8\'b0\'a3\'c0\'cc\'b8\'e7, \'bc\'bc \'b9\'f8\'c2\'b0 \'c6\'c4\'b6\'f3\'b9\'cc\'c5\'cd\'b4\'c2 \'b1\'b8\'b0\'a3\'bf\'a1 \'c0\'d6\'b4\'c2 \'b0\'aa\'bf\'a1 \'b4\'f5\'c7\'d2 \'b0\'aa\'c0\'cc\'b4\'d9.\par
+\par
+template&lt;class InputIterator, class Type, class BinaryOperation&gt;\par
+Type accumulate( InputIterator _First, InputIterator _Last, Type _Val, BinaryOperation _Binary_op );\par
+\'b3\'d7 \'b9\'f8\'c2\'b0 \'c6\'c4\'b6\'f3\'b9\'cc\'c5\'cd\'b4\'c2 \'c1\'b6\'b0\'c7\'c0\'da\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'bf\'a9 \'b1\'e2\'ba\'bb \'c0\'da\'b7\'e1 \'c7\'fc \'c0\'cc\'bf\'dc\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'b4\'f5\'c7\'d2\'bc\'f6 \'c0\'d6\'b0\'ed, \'b4\'f5\'c7\'cf\'b1\'e2 \'bf\'ac\'bb\'ea\'c0\'cc \'be\'c6\'b4\'d1 \'b4\'d9\'b8\'a5 \'bf\'ac\'bb\'ea\'c0\'bb \'c7\'d2 \'bc\'f6\'b5\'b5 \'c0\'d6\'b4\'d9.\par
+\par
+accumulate \'bb\'e7\'bf\'eb\'b9\'e6\'b9\'fd\par
+vector&lt;int&gt; vec1;\par
+\'a1\'a6..\par
+// vec1\'bf\'a1 \'c0\'d6\'b4\'c2 \'b0\'aa\'b5\'e9\'b8\'b8 \'b4\'f5\'c7\'d1\'b4\'d9.\par
+int Result = accmulate( vec1.begin(), vec1.end(), 0, );\cf0\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>accumulate 알고리즘</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-13T00:13:27.4056273+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-13T00:15:47.517276+09:00</UpdatedOn>
+  <Words>accumulate 알고리즘은 지정한 구간에 속한 값들을 모든 더한 값을 계산한다. 기본적으로 더하기 연산만 하지만 조건자를 사용하면 더하기 이외의 연산도 할 수 있다. accumulate를사용하기 위해서는 앞서 소개한 알고리즘과 다르게 &lt;numeric&gt; 헤더 파일을 포함해야 한다.
+
+accumulate의 원형
+template&lt;class InputIterator, class Type&gt;
+Type accumulate( InputIterator _First, InputIterator _Last, Type _Val );
+첫 번째와 두 번째 파라미터는 구간이며, 세 번째 파라미터는 구간에 있는 값에 더할 값이다.
+
+template&lt;class InputIterator, class Type, class BinaryOperation&gt;
+Type accumulate( InputIterator _First, InputIterator _Last, Type _Val, BinaryOperation _Binary_op );
+네 번째 파라미터는 조건자를 사용하여 기본 자료 형 이외의 데이터를 더할수 있고, 더하기 연산이 아닌 다른 연산을 할 수도 있다.
+
+accumulate 사용방법
+vector&lt;int&gt; vec1;
+…..
+// vec1에 있는 값들만 더한다.
+int Result = accmulate( vec1.begin(), vec1.end(), 0, );</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c25b92d8-61a4-41d5-89c3-7fe172ce3c66</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f1\fnil\fcharset129 KoPub\'b9\'d9\'c5\'c1\'c3\'bc Light;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs19 copy \f1\'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'ba \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'bf\'a1 \'c0\'fa\'c0\'e5\'c7\'d1 \'b0\'cd\'b0\'fa \'b0\'b0\'c0\'ba \'c0\'da\'b7\'e1 \'c7\'fc\'c0\'bb \'c0\'fa\'c0\'e5\'c7\'cf\'b4\'c2 \'b4\'d9\'b8\'a5 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'bf\'a1 \'ba\'b9\'bb\'e7\'c7\'cf\'b0\'ed \'bd\'cd\'c0\'bb \'b6\'a7 \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9\f0 .\par
+\f1\'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca \f0 A\f1\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca \f0 B\f1\'bf\'a1 \f0 copy \f1\'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca \f0 B\f1\'bf\'a1 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c3\'df\'b0\'a1\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'be\'c6\'b4\'cf\'b0\'ed \'b5\'a1\'be\'b2\'b4\'c2 \'b0\'cd\'c0\'cc\'b9\'c7\'b7\'ce \f0 A\f1\'bf\'a1\'bc\'ad \f0 10\f1\'b0\'b3\'b8\'a6 \'ba\'b9\'bb\'e7\'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec \f0 B\f1\'bf\'a1\'b4\'c2 \f0 10\f1\'b0\'b3\'b8\'b8\'c5\'ad\'c0\'c7 \'b0\'f8\'b0\'a3\'c0\'cc \'be\'f8\'b4\'d9\'b8\'e9 \'b9\'f6\'b1\'d7\'b0\'a1 \'b9\'df\'bb\'fd\'c7\'d1\'b4\'d9\f0 . \f1\'b6\'c7 \f0 A\f1\'bf\'cd \f0 B \f1\'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'b4\'c2 \'b0\'b0\'c0\'ba \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'c0\'cf \'c7\'ca\'bf\'e4\'b4\'c2 \'be\'f8\'c1\'f6\'b8\'b8 \'b4\'e7\'bf\'ac\'c8\'f7 \'c4\'c1\'c5\'d7\'c0\'cc\'b3\'ca\'bf\'a1 \'c0\'fa\'c0\'e5\'c7\'cf\'b4\'c2 \'c0\'da\'b7\'e1 \'c7\'fc\'c0\'ba \'b0\'b0\'be\'c6\'be\'df \'c7\'d1\'b4\'d9\f0 .\par
+\par
+\cf1\f2\fs18 copy \'bf\'f8\'c7\'fc\par
+template&lt;class InputIterator, class OutputIterator&gt;\par
+OutputIterator copy(\par
+InputIterator _First,\par
+InputIterator _Last,\par
+OutputIterator _DestBeg\par
+);\par
+\'c3\'b9 \'b9\'f8\'c2\'b0\'bf\'cd \'b5\'ce \'b9\'f8\'c2\'b0 \'c6\'c4\'b6\'f3\'b9\'cc\'c5\'cd\'b4\'c2 \'ba\'b9\'bb\'e7\'c7\'cf\'b7\'c1\'b4\'c2 \'c0\'d4\'b7\'c2 \'b1\'b8\'b0\'a3\'c0\'c7 \'bd\'c3\'c0\'db\'b0\'fa \'b8\'b6\'c1\'f6\'b8\'b7\'c0\'bb \'b0\'a1\'b8\'ae\'c5\'b0\par
+\'b4\'c2 \'b9\'dd\'ba\'b9\'c0\'da\'b4\'d9. \'bc\'bc \'b9\'f8\'c2\'b0 \'c6\'c4\'b6\'f3\'b9\'cc\'c5\'cd\'b4\'c2 \'ba\'d9\'bf\'a9 \'b3\'d6\'c0\'bb \'c3\'e2\'b7\'c2 \'b1\'b8\'b0\'a3\'c0\'c7 \'bd\'c3\'c0\'db \'c0\'a7\'c4\'a1\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2\par
+\'b9\'dd\'ba\'b9\'c0\'da\'b4\'d9.\par
+\par
+copy \'bb\'e7\'bf\'eb\'b9\'e6\'b9\'fd\par
+vector&lt;int&gt; vec1;\par
+\'a1\'a6\'a1\'a6..\par
+vector&lt;int&gt; vec2;\par
+copy( vec1.begin(), vec1.end(), vec2.begin() );\cf0\f3\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>copy 알고리즘</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-12T23:43:45.0880844+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-12T23:45:04.4710244+09:00</UpdatedOn>
+  <Words>copy 알고리즘은 컨테이너에 저장한 것과 같은 자료 형을 저장하는 다른 컨테이너에 복사하고 싶을 때 사용한다.
+컨테이너 A의 데이터를 컨테이너 B에 copy 하는 경우 컨테이너 B에 데이터를 추가하는 것이 아니고 덧쓰는 것이므로 A에서 10개를 복사하는 경우 B에는 10개만큼의 공간이 없다면 버그가 발생한다. 또 A와 B 컨테이너는 같은 컨테이너일 필요는 없지만 당연히 컨테이너에 저장하는 자료 형은 같아야 한다.
+
+copy 원형
+template&lt;class InputIterator, class OutputIterator&gt;
+OutputIterator copy(
+InputIterator _First,
+InputIterator _Last,
+OutputIterator _DestBeg
+);
+첫 번째와 두 번째 파라미터는 복사하려는 입력 구간의 시작과 마지막을 가리키
+는 반복자다. 세 번째 파라미터는 붙여 넣을 출력 구간의 시작 위치를 가리키는
+반복자다.
+
+copy 사용방법
+vector&lt;int&gt; vec1;
+……..
+vector&lt;int&gt; vec2;
+copy( vec1.begin(), vec1.end(), vec2.begin() );</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

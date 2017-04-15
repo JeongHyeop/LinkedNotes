@@ -1,12 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>9aa419ee-37ac-4115-84ef-776ac3038067</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b8\'bc\'c0\'ba \'b0\'ed\'b5\'f1;}{\f3\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b5\'a8\'b8\'ae\'b0\'d4\'c0\'cc\'c6\'ae\'b6\'f5 \'b4\'eb\'b8\'ae\'c0\'ce\'c0\'cc\'b6\'f3\'b4\'c2 \'b6\'e6\'c0\'b8\'b7\'ce \'b4\'a9\'b1\'ba\'b0\'a1 \'b4\'eb\'b8\'ae\'b7\'ce \'c0\'cf \'c7\'d8\'c1\'d6\'b4\'c2 \'b0\'cd \'c1\'ef, \f1 c#\f0\'bf\'a1\'bc\'ad \'c7\'cf\'b4\'c2 \'c0\'cf\'c0\'ba \'c7\'d4\'bc\'f6\'b8\'a6 \'b4\'eb\'bd\'c5\'bf\'a1\'bc\'ad \'c8\'a3\'c3\'e2 \'c7\'d8\'c1\'d6\'b4\'c2 \'bf\'aa\'c7\'d2\'c0\'bb \'b4\'e3\'b4\'e7\'c7\'d1\'b4\'d9.\par
+\par
+\'bb\'e7\'bf\'eb\'b9\'e6\'b9\'fd\par
+\pard 1.\'bb\'e7\'bf\'eb\'c7\'d8\'be\'df \'c7\'d2 \'c7\'d4\'bc\'f6\'c0\'c7 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'bb \'be\'cb\'be\'c6\'ba\'bb\'b4\'d9. \cf1\lang1033\kerning24\b\f2 Ex) int Sum(int a, int b);\par
+\lang1042\kerning0\b0\f3 2.\'b5\'a8\'b8\'ae\'b0\'d4\'c0\'cc\'c6\'ae\'b8\'a6 \'c7\'d4\'bc\'f6\'c0\'c7 \'c0\'da\'b7\'e1\'c7\'fc\'b0\'fa \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6\'b8\'a6 \'b6\'c8\'b0\'b0\'c0\'cc \'b8\'b8\'b5\'e7\'b4\'d9.\lang1033\kerning24 Ex) int Sum(int a, int b); delegate int myDelegate(int a, int b);\par
+3.\'bc\'b1\'be\'f0\'c7\'d1 \'b5\'a8\'b8\'ae\'b0\'d4\'c0\'cc\'c6\'ae\'c0\'c7 \'c5\'b8\'c0\'d4\'c0\'bb \'b5\'a8\'b8\'ae\'b0\'d4\'c0\'cc\'c6\'ae \'ba\'af\'bc\'f6\'b7\'ce \'bb\'fd\'bc\'ba\'c7\'d1\'b4\'d9. \f1 myDelegate delegate;\par
+4. \f3\'bb\'fd\'bc\'ba\'c7\'d1 \'b5\'a8\'b8\'ae\'b0\'d4\'c0\'cc\'c6\'ae \'ba\'af\'bc\'f6\'b8\'a6 \'c2\'fc\'c1\'b6 \'bd\'c3\'c5\'b2\'b4\'d9. \f1 delegate = new myDelegate(Sum);\par
+\par
+\f3\'c6\'af\'c2\'a1\par
+-\'c4\'dd\'b9\'e9 \'c7\'d4\'bc\'f6: \'c2\'fc\'c1\'b6\'b8\'a6 \'c5\'eb\'c7\'d8 \'c7\'d4\'bc\'f6\'b8\'a6 \'c8\'a3\'c3\'e2 \'bd\'c3\'c4\'d1\'c1\'d6\'b4\'c2 \'b0\'cd\par
+\par
+\par
+\pard\lang1042\kerning0\par
+\cf0\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>델리게이트</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-01T16:02:45.5145194+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-01T16:02:45.5145194+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-13T11:32:49.71776+09:00</UpdatedOn>
+  <Words>델리게이트란 대리인이라는 뜻으로 누군가 대리로 일 해주는 것 즉, c#에서 하는 일은 함수를 대신에서 호출 해주는 역할을 담당한다.
+
+사용방법
+1.사용해야 할 함수의 자료형을 알아본다. Ex) int Sum(int a, int b);
+2.델리게이트를 함수의 자료형과 매개변수를 똑같이 만든다.Ex) int Sum(int a, int b); delegate int myDelegate(int a, int b);
+3.선언한 델리게이트의 타입을 델리게이트 변수로 생성한다. myDelegate delegate;
+4. 생성한 델리게이트 변수를 참조 시킨다. delegate = new myDelegate(Sum);
+
+특징
+-콜백 함수: 참조를 통해 함수를 호출 시켜주는 것
+
+
+
+</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>
