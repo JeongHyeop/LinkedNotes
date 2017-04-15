@@ -172,6 +172,8 @@
 </page>
 <page name="라이트 핸드">
 </page>
+<page name="다익스트라 알고리즘">
+</page>
 </page>
 </page>
 <page name="검색">
@@ -287,7 +289,19 @@
 <page name="빅 엔디언">
 </page>
 </page>
-<page name="데드 락">
+<page name="데드 락" expand="1">
+</page>
+<page name="멀티 쓰레드" expand="1">
+<page name="크리티컬 섹션">
+</page>
+<page name="세마포어">
+</page>
+<page name="뮤텍스">
+</page>
+<page name="컨텍스트 스위칭(문맥 교환)">
+</page>
+<page name="커널 모드 &amp; 유저모드">
+</page>
 </page>
 <page name="매크로 함수">
 </page>
