@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>85a10519-b879-419c-9314-2cb7fb5ef2af</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b8\'d6\'c6\'bc \'be\'b2\'b7\'b9\'b5\'e5\'b6\'f5 \'c7\'cf\'b3\'aa\'c0\'c7 \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba\'bf\'a1 \'b5\'bf\'bd\'c3\'bf\'a1 \'bf\'a9\'b7\'af\'b0\'b3\'c0\'c7 \'c0\'cf\'c0\'bb \'c7\'d2 \'bc\'f6 \'c0\'d6\'b5\'b5\'b7\'cf \'c7\'d8\'c1\'d6\'b4\'c2 \'b0\'cd\par
+\par
+\'c0\'e5\'c1\'a1\par
+-\'c0\'c0\'b4\'e4\'bc\'ba\'c0\'cc \'c1\'c1\'b4\'d9.\par
+-\'c0\'da\'bf\'f8\'b0\'f8\'c0\'af\'b8\'a6 \'c8\'bf\'c0\'b2\'c0\'fb\'c0\'b8\'b7\'ce \'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+-\'b1\'b8\'c7\'f6\'c7\'cf\'b1\'e2 \'be\'ee\'b7\'c6\'b4\'d9.\par
+-\'c5\'d7\'bd\'ba\'c6\'ae, \'b5\'f0\'b9\'f6\'b1\'eb\'c7\'cf\'b1\'e2 \'be\'ee\'b7\'c6\'b4\'d9.\par
+-\'c0\'fc\'c3\'bc \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba\'bf\'a1 \'bf\'b5\'c7\'e2\'c0\'bb \'c1\'d8\'b4\'d9.\par
+-\'bc\'ba\'b4\'c9 \'c0\'fa\'c7\'cf.\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>멀티 쓰레드</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-15T14:12:36.5577427+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-15T14:12:36.5577427+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-21T23:33:34.2726783+09:00</UpdatedOn>
+  <Words>멀티 쓰레드란 하나의 프로세스에 동시에 여러개의 일을 할 수 있도록 해주는 것
+
+장점
+-응답성이 좋다.
+-자원공유를 효율적으로 할 수 있다.
+
+단점
+-구현하기 어렵다.
+-테스트, 디버깅하기 어렵다.
+-전체 프로세스에 영향을 준다.
+-성능 저하.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

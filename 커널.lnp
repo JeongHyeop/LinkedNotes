@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>02029929-6a15-4b07-8afc-ea25b31fbe3e</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c4\'bf\'b3\'ce\par
+-\'bc\'d2\'c7\'c1\'c6\'ae\'bf\'fe\'be\'ee\'c0\'fb\'c0\'ce \'b0\'fc\'c1\'a1\'bf\'a1\'bc\'ad \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'c7 \'b3\'fa\par
+-\'bd\'c3\'bd\'ba\'c5\'db \'b5\'a5\'c0\'cc\'c5\'cd\'b3\'aa \'c7\'cf\'b5\'e5\'bf\'fe\'be\'ee\'b8\'a6 \'c1\'f7\'c1\'a2 \'bf\'a2\'bc\'bc\'bd\'ba \'b9\'d7 \'c1\'a6\'be\'ee\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>커널</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-21T23:58:23.9108807+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-21T23:58:54.8576508+09:00</UpdatedOn>
+  <Words>커널
+-소프트웨어적인 관점에서 프로그램의 뇌
+-시스템 데이터나 하드웨어를 직접 엑세스 및 제어</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

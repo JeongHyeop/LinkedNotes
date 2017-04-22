@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c1d3866f-9371-45da-9e01-bb13ab61a533</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b1\'ed\'c0\'ba \'ba\'b9\'bb\'e7\'b4\'c2 \'be\'e8\'c0\'ba \'ba\'b9\'bb\'e7\'c0\'c7 \'b9\'ae\'c1\'a6\'c1\'a1\'c0\'bb \'c7\'d8\'b0\'e1\'c7\'d8\'c1\'d6\'b4\'c2 \'b9\'e6\'bd\'c4\'c0\'b8\'b7\'ce \'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'b0\'b0\'c0\'cc \'c2\'fc\'c1\'b6\'c7\'cf\'b0\'ed \'c0\'d6\'b4\'f8 \'be\'e8\'c0\'ba \'ba\'b9\'bb\'e7\'bf\'cd \'b4\'de\'b8\'ae \'c1\'f7\'c1\'a2 \'b0\'aa\'c0\'bb \'c3\'a3\'be\'c6\'b0\'a1 \'b0\'b4\'c3\'bc\f1\fs20  \f0\fs18\'b8\'e2\'b9\'f6 \'ba\'af\'bc\'f6\'c0\'c7 \'c0\'a7\'c4\'a1\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'b0\'f7\'c0\'c7 \'b0\'aa\'c0\'bb \'ba\'b9\'bb\'e7\'c7\'cf\'b4\'c2 \'b9\'e6\'bd\'c4\'c0\'cc\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>깊은 복사</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-21T22:51:07.7470253+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-21T23:13:20.2452399+09:00</UpdatedOn>
+  <Words>깊은 복사는 얕은 복사의 문제점을 해결해주는 방식으로 메모리를 같이 참조하고 있던 얕은 복사와 달리 직접 값을 찾아가 객체 멤버 변수의 위치를 가리키는 곳의 값을 복사하는 방식이다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

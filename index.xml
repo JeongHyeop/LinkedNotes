@@ -31,7 +31,11 @@
 </page>
 <page name="인자있는 생성자">
 </page>
-<page name="복사 생성자">
+<page name="복사 생성자" expand="1">
+<page name="얕은 복사">
+</page>
+<page name="깊은 복사">
+</page>
 </page>
 </page>
 <page name="소멸자">
@@ -289,18 +293,20 @@
 <page name="빅 엔디언">
 </page>
 </page>
-<page name="데드 락" expand="1">
+<page name="데드 락">
 </page>
 <page name="멀티 쓰레드" expand="1">
-<page name="크리티컬 섹션">
+<page name="컨텍스트 스위칭(문맥 교환)">
+</page>
+<page name="커널모드" expand="1">
+<page name="뮤텍스">
 </page>
 <page name="세마포어">
 </page>
-<page name="뮤텍스">
 </page>
-<page name="컨텍스트 스위칭(문맥 교환)">
+<page name="유저모드">
+<page name="크리티컬 섹션">
 </page>
-<page name="커널 모드 &amp; 유저모드">
 </page>
 </page>
 <page name="매크로 함수">
@@ -316,6 +322,8 @@
 </page>
 </page>
 <page name="네임 스페이스">
+</page>
+<page name="커널">
 </page>
 </page>
 <page name="수학">
@@ -342,7 +350,7 @@
 </page>
 <page name="Unity">
 </page>
-<page name="네트워크" expand="1">
+<page name="네트워크">
 <page name="TCP">
 </page>
 <page name="UDP">
@@ -353,5 +361,7 @@
 <page name="Tip">
 </page>
 <page name="런타임">
+</page>
+<page name="커널 모드 &amp; 유저모드">
 </page>
 </index>

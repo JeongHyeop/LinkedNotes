@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>f5c24624-1cd5-4450-907a-8cd4dd61d673</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c4\'bf\'b3\'ce\'b8\'f0\'b5\'e5\'b4\'c2 \'c4\'bf\'b3\'ce\'bf\'a1 \'b1\'c7\'c7\'d1\'c0\'cc \'c0\'d6\'b4\'c2 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5 \'b8\'f0\'b5\'e5\'c0\'cc\'b4\'d9. \'b8\'f0\'b5\'e7 \'bd\'c3\'bd\'ba\'c5\'db \'b8\'de\'b8\'f0\'b8\'ae\'bf\'cd \'b8\'f0\'b5\'e7\f1 CPU \f0\'c0\'ce\'bd\'ba\'c6\'ae\'b7\'b0\'bc\'c7\'bf\'a1 \'c1\'a2\'b1\'d9\'c0\'cc \'c7\'e3\'b0\'a1\'b5\'c8 \'c7\'c1\'b7\'ce\'bc\'bc\'bd\'ba \'bd\'c7\'c7\'e0\'b8\'f0\'b5\'e5\'b8\'a6 \'b8\'bb\'c7\'d1\'b4\'d9.\'c1\'ef, \'c7\'c1\'b7\'ce\'bc\'bc\'bc\'ad\'b4\'c2 \'c0\'af\'c0\'fa\'b8\'f0\'b5\'e5\'ba\'b8\'b4\'d9 \'c4\'bf\'b3\'ce\'b8\'f0\'b5\'e5\'bf\'a1 \'b3\'f4\'c0\'ba \'b1\'c7\'c7\'d1\'c0\'bb \'c1\'dc\'c0\'b8\'b7\'ce\'bd\'e1 \'bf\'c0\'c0\'db\'b5\'bf\'c0\'bb \'c0\'af\'b9\'df\'c7\'cf\'b4\'c2 \'c0\'af\'c0\'fa \'be\'ee\'c7\'c3\'b8\'ae\'c4\'c9\'c0\'cc\'bc\'c7 \'b5\'ee\'c0\'cc \'bd\'c3\'bd\'ba\'c5\'db \'c0\'fc\'c3\'bc\'bf\'a1 \'be\'c8\'c1\'a4\'bc\'ba\'c0\'bb \'c7\'d8\'c4\'a1\'c1\'f6 \'be\'ca\'b0\'d4 \'ba\'b8\'c0\'e5\'c7\'cf\'b4\'c2 \'c7\'ca\'bc\'f6 \'b1\'e2\'b9\'dd\'c0\'bb \'bf\'ee\'bf\'b5\'c3\'bc\'c1\'a6 \'bc\'b3\'b0\'e8\'c0\'da\'bf\'a1\'b0\'d4 \'c1\'a6\'b0\'f8\'c7\'d1\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'bd\'c3\'bd\'ba\'c5\'db\'c0\'c7 \'b8\'f0\'b5\'e7 \'b8\'de\'b8\'f0\'b8\'ae\'bf\'a1 \'c1\'a2\'b1\'d9 \'c7\'d2 \'bc\'f6 \'c0\'d6\'b0\'ed \'b8\'f0\'b5\'e7 \f1 CPU \f0\'b8\'ed\'b7\'c9\'c0\'bb \'bd\'c7\'c7\'e0 \'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+-\'bf\'ee\'bf\'b5\'c3\'bc\'c1\'a6 \'c4\'da\'b5\'e5\'b3\'aa \'b5\'f0\'b9\'d9\'c0\'cc\'bd\'ba \'b5\'e5\'b6\'f3\'c0\'cc\'b9\'f6 \'b0\'b0\'c0\'ba \'c4\'bf\'b3\'ce\f1\fs20  \f0\'b8\'f0\'b5\'e5 \'c4\'da\'b5\'e5\'b8\'a6 \'bd\'c7\'c7\'e0\'c7\'d1\'b4\'d9.\par
+-\f1 CPU\f2\'b4\'c2 \'c4\'bf\'b3\'ce\f1  \f2\'b8\'f0\'b5\'e5 \'c6\'af\'9a\'4d \'bc\'f6\'c1\'d8\'bf\'a1\'bc\'ad \'c4\'da\'b5\'e5\'b8\'a6 \'bd\'c7\'c7\'e0\'c7\'d1\'b4\'d9.\f1\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>커널모드</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-21T23:41:13.5359466+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-22T00:02:03.8824624+09:00</UpdatedOn>
+  <Words>커널모드는 커널에 권한이 있는 프로그램 모드이다. 모든 시스템 메모리와 모든CPU 인스트럭션에 접근이 허가된 프로세스 실행모드를 말한다.즉, 프로세서는 유저모드보다 커널모드에 높은 권한을 줌으로써 오작동을 유발하는 유저 어플리케이션 등이 시스템 전체에 안정성을 해치지 않게 보장하는 필수 기반을 운영체제 설계자에게 제공한다.
+
+특징
+-시스템의 모든 메모리에 접근 할 수 있고 모든 CPU 명령을 실행 할 수 있다.
+-운영체제 코드나 디바이스 드라이버 같은 커널 모드 코드를 실행한다.
+-CPU는 커널 모드 특숸 수준에서 코드를 실행한다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

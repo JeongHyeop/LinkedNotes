@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>8f6a8d30-0a34-424e-88f2-40bb81b10d67</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c0\'af\'c0\'fa\'b8\'f0\'b5\'e5\'b4\'c2 \'c0\'af\'c0\'fa\'b0\'a1 \'c1\'a2\'b1\'d9\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \f1 OS\f0\'bf\'b5\'bf\'aa \'b3\'bb\'bf\'a1\'bc\'ad \'b5\'bf\'c0\'db\'b5\'c7\'b4\'c2 \'bd\'c7\'c7\'e0 \'b8\'f0\'b5\'e5\par
+\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'bb\'e7\'bf\'eb\'c0\'da \'be\'ee\'c7\'c3\'b8\'ae\'c4\'c9\'c0\'cc\'bc\'c7 \'c4\'da\'b5\'e5\'b0\'a1 \'bd\'c7\'c7\'e0\'c7\'d1\'b4\'d9.\par
+-\'bd\'c3\'bd\'ba\'c5\'db \'b5\'a5\'c0\'cc\'c5\'cd\'bf\'a1 \'c1\'a6\'c7\'d1\'b5\'c8 \'c1\'a2\'b1\'d9\'b8\'b8\'c0\'cc \'c7\'e3\'bf\'eb\'b5\'c7\'b8\'e7 \'c7\'cf\'b5\'e5\'bf\'fe\'be\'ee\'b8\'a6 \'c1\'f7\'c1\'a2 \'c1\'a2\'b1\'d9 \'c7\'d2 \'bc\'f6 \'be\'f8\'b4\'d9.\par
+-\'c0\'af\'c0\'fa \'be\'d6\'c7\'c3\'b8\'ae\'c4\'c9\'c0\'cc\'bc\'c7\'c0\'ba \'bd\'c3\'bd\'ba\'c5\'db \'bc\'ad\'ba\'f1\'bd\'ba \'c8\'a3\'c3\'e2\'c0\'bb \'c7\'cf\'b8\'e9 \'c0\'af\'c0\'fa\'b8\'f0\'b5\'e5\'bf\'a1\'bc\'ad \'c4\'bf\'b3\'ce \'b8\'f0\'b5\'e5\'b7\'ce \'c0\'fc\'c8\'af \'b5\'c8\'b4\'d9.\par
+-CPU \'c0\'af\'c0\'fa \'b8\'f0\'b5\'e5 \'c6\'af\'b1\'c7 \'bc\'f6\'c1\'d8\'c0\'b8\'b7\'ce \'c4\'da\'b5\'e5\'b8\'a6 \'bd\'c7\'c7\'e0 \'c7\'d1\'b4\'d9.\par
+-\'c0\'af\'c0\'fa\'b8\'f0\'b5\'e5\'bf\'a1\'bc\'ad \'bd\'c7\'c7\'e0\'c7\'cf\'b4\'c2 \'bd\'ba\'b7\'b9\'b5\'e5\'b4\'c2 \'c0\'da\'bd\'c5\'b8\'b8\'c0\'c7 \'c0\'af\'c0\'fa\'b8\'f0\'b5\'e5 \'bd\'ba\'c5\'c3\'c0\'bb \'b0\'a1\'c1\'f8\'b4\'d9.\par
+\par
+\par
+\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>유저모드</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-21T23:41:18.6612398+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-22T00:04:20.2972648+09:00</UpdatedOn>
+  <Words>유저모드는 유저가 접근할 수 있는 OS영역 내에서 동작되는 실행 모드
+
+
+특징
+-사용자 어플리케이션 코드가 실행한다.
+-시스템 데이터에 제한된 접근만이 허용되며 하드웨어를 직접 접근 할 수 없다.
+-유저 애플리케이션은 시스템 서비스 호출을 하면 유저모드에서 커널 모드로 전환 된다.
+-CPU 유저 모드 특권 수준으로 코드를 실행 한다.
+-유저모드에서 실행하는 스레드는 자신만의 유저모드 스택을 가진다.
+
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
